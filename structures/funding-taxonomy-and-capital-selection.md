@@ -30,19 +30,46 @@ flowchart TD
 
 ---
 
-## 2. Comprehensive Capital Taxonomy (5 Archetypes)
+## 2. Master Capital Instrument Evaluation Matrix
+
+Before analyzing the specific operational mechanics of individual funding pathways, use this multi-criteria matrix to evaluate candidate capital instruments across dilution costs, governance loss, technical risk tolerance, access velocity, and venture stage suitability.
 
 ```mermaid
 flowchart LR
     subgraph Archetypes["<b>The 5 Capital Archetypes</b>"]
         direction TB
         A1["<b>1. Customer & Internal Capital</b><br/>Prepayments, Subscriptions, Bootstrapping"]
-        A2["<b>2. Non-Dilutive Public Grants</b><br/>SBIR / STTR, Defense Contracts"]
+        A2["<b>2. Non-Dilutive Public Grants</b><br/>SBIR / STTR (US), Regional R&D Grants"]
         A3["<b>3. Debt & Credit Facilities</b><br/>Commercial Debt, Receivables, Venture Debt"]
         A4["<b>4. Private Risk Capital</b><br/>Angels, Syndicates, Accelerators"]
         A5["<b>5. Institutional Venture Capital</b><br/>Early/Late VC, Growth Syndicates"]
     end
 ```
+
+### Multi-Criteria Comparative Matrix
+
+| Capital Category | Specific Instrument | Equity Dilution | Governance & Control Loss | Tolerance for Technical Risk | Speed to Access Capital | Primary Advantage | Existential Hazard | Optimal Venture Need & Stage |
+|---|---|---|---|---|---|---|---|---|
+| **Customer / Internal** | **Bootstrapping** | **Zero (0%)** | **None** | Low (needs early cash) | Immediate | Absolute founder autonomy & focus | Starvation; slow scaling velocity | Low-Capex software, services (TRL 5–9) |
+| **Customer / Internal** | **Advance Prepayments & Subscriptions** | **Zero (0%)** | **None** | Moderate | Fast (upon contract close) | Negative working capital; customer as only boss | Fulfillment defaults if product delays | SaaS, enterprise recurring workflows |
+| **Customer / Internal** | **Paid NRE / Joint Co-Dev** | **Zero (0%)** | Minimal (contractual scope) | High | Moderate (negotiation dependent) | Enterprise funds custom R&D; guaranteed adoption | Becoming a custom services agency; IP loss | Enterprise deep tech, robotics, aerospace |
+| **Customer / Internal** | **Conditional Advance Purchase Orders** | **Zero (0%)** | **None** | High | Fast | Ultimate proof of demand; bankable instrument | Inability to deliver specs triggers cancellation | Hardware, medical devices, sensors |
+| **Public Grants** | **SBIR / STTR Grants (Phase I & II — US)** | **Zero (0%)** | **None** (Government takes no equity/board) | **Extreme (TRL 1–4)** | **Slow (6–12 months)** | Retained IP; non-dilutive $1.5M+ seed replacement | Bureaucratic distraction; slow capital cycle; US-only eligibility | Early science, lab spin-outs, biotech (TRL 1–4) |
+| **Public Grants** | **Defense Innovation & Dual-Use Contracts** | **Zero (0%)** | Minimal (security compliance) | Very High | Moderate to Slow | Non-dilutive scale; lead government customer | ITAR restrictions; dual-use lock-in; defense requirements | Robotics, autonomous systems, cybersecurity |
+| **Public Grants** | **International / Domestic Public Grants (Global)** | **Zero (0%)** | None | Extreme to High | Slow (3–9 months) | Non-dilutive R&D support (EIC, Innovate UK, NAFOSTED, etc.) | Compliance overhead; regional eligibility constraints | Deep tech in non-US jurisdictions |
+| **Debt & Credit** | **Commercial Bank Lending** | **Zero (0%)** | Low (strict covenants) | **Zero (Requires cash flow)** | Fast | Capped cost; no equity loss | Foreclosure/bankruptcy on missed debt service | Post-revenue cash-flow-positive scaling |
+| **Debt & Credit** | **Receivables Financing (Factoring)** | **Zero (0%)** | None | Low | Fast (immediate against invoice) | Bridges Net-60/90 invoice collection lag | High factoring fees compress gross margins | Scaling B2B firms with positive working capital |
+| **Debt & Credit** | **Venture Debt** | Minimal (1%–3% warrants) | Moderate (negative covenants) | Low to Moderate | Fast (requires VC backing) | Extends runway without setting valuation cap | Liquidity trap if Series B equity fails | VC-backed companies between equity rounds |
+| **Private Risk Capital** | **Friends & Family** | Low to Moderate (5%–10%) | None | High | Immediate | Patient, forgiving capital | Severe personal relationship strain | Pre-seed ideation & entity formation |
+| **Private Risk Capital** | **Angel Investors & Syndicates** | Moderate (10%–20%) | Low (advisory boards) | Very High | Fast to Moderate (weeks) | Flexible horizons; operator mentorship | Solo angel dead end; cap table clutter | Seed validation; killer experiments (TRL 3–6) |
+| **Private Risk Capital** | **Accelerators (YC, Techstars)** | Fixed (7%–10%) | Low | High | Fast (cohort cycles) | Rapid fundraising momentum & peer network | Uniform dilution regardless of technology depth | Early-stage tech seeking network & velocity |
+| **Institutional VC** | **Early-Stage VC (Series Seed/A/B)** | **Extreme (15%–30% per round)** | **High (Board seats, veto rights)** | **Very High (Funds breakthroughs)** | **Moderate (3–6 months)** | Multi-million follow-on capacity; syndicate power | Portfolio asymmetry; signaling risk; 10-yr pressure | Deep tech, high-Capex, massive TAM (TRL 5–8) |
+| **Institutional VC** | **Late-Stage Growth Equity** | Moderate to High | High (protective provisions) | Low (execution risk only) | Moderate | Mass scaling liquidity; pre-IPO readiness | High liquidation preferences; down-round ratchets | Proven unit economics; dominant market share |
+| **Institutional VC** | **Corporate Venture Capital (CVC)** | Moderate (strategic checks) | Moderate (commercial rights) | High | Slow (corporate committees) | Strategic distribution channels & supply chain | Competitor resistance; corporate strategy shifts | High-Capex joint manufacturing & distribution |
+
+---
+
+## 3. Detailed Capital Taxonomy & Archetype Analysis
 
 ---
 
@@ -263,29 +290,6 @@ flowchart TD
 
 ---
 
-## 3. Master Capital Instrument Evaluation Matrix
-
-| Capital Category | Specific Instrument | Equity Dilution | Governance & Control Loss | Tolerance for Technical Risk | Speed to Access Capital | Primary Advantage | Existential Hazard | Optimal Venture Need & Stage |
-|---|---|---|---|---|---|---|---|---|
-| **Customer / Internal** | **Bootstrapping** | **Zero (0%)** | **None** | Low (needs early cash) | Immediate | Absolute founder autonomy & focus | Starvation; slow scaling velocity | Low-Capex software, services (TRL 5–9) |
-| **Customer / Internal** | **Advance Prepayments & Subscriptions** | **Zero (0%)** | **None** | Moderate | Fast (upon contract close) | Negative working capital; customer as only boss | Fulfillment defaults if product delays | SaaS, enterprise recurring workflows |
-| **Customer / Internal** | **Paid NRE / Joint Co-Dev** | **Zero (0%)** | Minimal (contractual scope) | High | Moderate (negotiation dependent) | Enterprise funds custom R&D; guaranteed adoption | Becoming a custom services agency; IP loss | Enterprise deep tech, robotics, aerospace |
-| **Customer / Internal** | **Conditional Advance Purchase Orders** | **Zero (0%)** | **None** | High | Fast | Ultimate proof of demand; bankable instrument | Inability to deliver specs triggers cancellation | Hardware, medical devices, sensors |
-| **Public Grants** | **SBIR / STTR Grants (Phase I & II — US)** | **Zero (0%)** | **None** (Government takes no equity/board) | **Extreme (TRL 1–4)** | **Slow (6–12 months)** | Retained IP; non-dilutive $1.5M+ seed replacement | Bureaucratic distraction; slow capital cycle; US-only eligibility | Early science, lab spin-outs, biotech (TRL 1–4) |
-| **Public Grants** | **Defense Innovation & Dual-Use Contracts** | **Zero (0%)** | Minimal (security compliance) | Very High | Moderate to Slow | Non-dilutive scale; lead government customer | ITAR restrictions; dual-use lock-in; defense requirements | Robotics, autonomous systems, cybersecurity |
-| **Public Grants** | **International / Domestic Public Grants (Global)** | **Zero (0%)** | None | Extreme to High | Slow (3–9 months) | Non-dilutive R&D support (EIC, Innovate UK, NAFOSTED, etc.) | Compliance overhead; regional eligibility constraints | Deep tech in non-US jurisdictions |
-| **Debt & Credit** | **Commercial Bank Lending** | **Zero (0%)** | Low (strict covenants) | **Zero (Requires cash flow)** | Fast | Capped cost; no equity loss | Foreclosure/bankruptcy on missed debt service | Post-revenue cash-flow-positive scaling |
-| **Debt & Credit** | **Receivables Financing (Factoring)** | **Zero (0%)** | None | Low | Fast (immediate against invoice) | Bridges Net-60/90 invoice collection lag | High factoring fees compress gross margins | Scaling B2B firms with positive working capital |
-| **Debt & Credit** | **Venture Debt** | Minimal (1%–3% warrants) | Moderate (negative covenants) | Low to Moderate | Fast (requires VC backing) | Extends runway without setting valuation cap | Liquidity trap if Series B equity fails | VC-backed companies between equity rounds |
-| **Private Risk Capital** | **Friends & Family** | Low to Moderate (5%–10%) | None | High | Immediate | Patient, forgiving capital | Severe personal relationship strain | Pre-seed ideation & entity formation |
-| **Private Risk Capital** | **Angel Investors & Syndicates** | Moderate (10%–20%) | Low (advisory boards) | Very High | Fast to Moderate (weeks) | Flexible horizons; operator mentorship | Solo angel dead end; cap table clutter | Seed validation; killer experiments (TRL 3–6) |
-| **Private Risk Capital** | **Accelerators (YC, Techstars)** | Fixed (7%–10%) | Low | High | Fast (cohort cycles) | Rapid fundraising momentum & peer network | Uniform dilution regardless of technology depth | Early-stage tech seeking network & velocity |
-| **Institutional VC** | **Early-Stage VC (Series Seed/A/B)** | **Extreme (15%–30% per round)** | **High (Board seats, veto rights)** | **Very High (Funds breakthroughs)** | **Moderate (3–6 months)** | Multi-million follow-on capacity; syndicate power | Portfolio asymmetry; signaling risk; 10-yr pressure | Deep tech, high-Capex, massive TAM (TRL 5–8) |
-| **Institutional VC** | **Late-Stage Growth Equity** | Moderate to High | High (protective provisions) | Low (execution risk only) | Moderate | Mass scaling liquidity; pre-IPO readiness | High liquidation preferences; down-round ratchets | Proven unit economics; dominant market share |
-| **Institutional VC** | **Corporate Venture Capital (CVC)** | Moderate (strategic checks) | Moderate (commercial rights) | High | Slow (corporate committees) | Strategic distribution channels & supply chain | Competitor resistance; corporate strategy shifts | High-Capex joint manufacturing & distribution |
-
----
-
 ## 4. Multi-Criteria Capital Selection Logic
 
 ```mermaid
@@ -334,4 +338,4 @@ Structure every capital tranche around a **Discriminating Experiment** (The "Kil
 ## 6. Cross-References & Related Documentation
 - [Stage 6: Venture De-Risking & Capital Architecture](../stages/stage-6-venture-derisking-and-capital.md)
 - [Multi-Criteria Decision Matrices](./decision-matrices.md)
-- [Innovation Canvases and Worksheets](./canvases-and-worksheets.md)
+- [Actionable Canvases & Diagnostic Worksheets](./canvases-and-worksheets.md)
