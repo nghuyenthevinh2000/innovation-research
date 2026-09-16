@@ -16,6 +16,7 @@ Frameworks transform abstract theory into operational execution. This directory 
 |---|---|---|
 | [**`canvases-and-worksheets.md`**](./canvases-and-worksheets.md) | **Actionable Canvases** | 7 structured worksheets: P-H Search Canvas, S-A-O Functional Analysis, Customer Activity Chain, Business Architecture Alignment, Cloverleaf Diagnostic, Deep-Tech MVP Canvas, and Cash Engine Calculator. |
 | [**`decision-matrices.md`**](./decision-matrices.md) | **Decision Architectures** | 3 strategic matrices: Commercialization Pathway Selector, Capital Instrument Decision Matrix, and GTM Entry Route Matrix. |
+| [**`funding-taxonomy-and-capital-selection.md`**](./funding-taxonomy-and-capital-selection.md) | **Capital Taxonomy & Selection** | Comprehensive 5-archetype funding framework: benefits, risks, cost of dilution, governance control loss, risk tolerance, and suitability logic. |
 
 ---
 

@@ -46,24 +46,31 @@ flowchart TD
 
 1. **Architect for Negative Working Capital:** Structure customer contracts with upfront annual payments, advance milestone deposits, or hardware reservation fees to fund development organically.
 2. **Formulate the Killer Discriminating Experiment:** Identify the single assumption that, if false, decisively kills the business; design an experiment to test it immediately before spending capital on secondary features.
-3. **Sequence Non-Dilutive Capital (SBIR/STTR):** Secure federal Phase I (~ \$250k) and Phase II (~ \$1.5M) grants for exploratory TRL development while guarding against founder compliance distraction.
+3. **Sequence Non-Dilutive Public Capital (SBIR/STTR & Regional Programs):** Secure non-dilutive feasibility grants (such as US federal Phase I ~ \$250k and Phase II ~ \$1.5M SBIR/STTR grants for US-based ventures, or domestic public programs like Horizon Europe / Innovate UK / national R&D funds for non-US ventures) for exploratory TRL development while guarding against founder compliance distraction.
 4. **Negotiate Balanced Capital Rights:** Distinguish between **Cash Flow Rights** (liquidation preferences, participating preferred shares) and **Control Rights** (board seats, veto thresholds over subsequent financings).
 
 ---
 
-## 4. Capital Instrument Selection Matrix
+## 4. Capital Instrument Selection Matrix & Comprehensive Taxonomy
+
+For the comprehensive operational framework—evaluating all 5 capital archetypes (bootstrapping, customer pre-financing, non-dilutive grants, debt/credit, and institutional VC), their dilution costs, governance/control concessions, risk tolerances, and venture stage suitability—consult:
+> **[Capital Taxonomy & Funding Selection Architecture](../structures/funding-taxonomy-and-capital-selection.md)**  
+> *(Also cross-referenced in the [Multi-Criteria Decision Matrices](../structures/decision-matrices.md#2-capital-instrument-selection-matrix) and [Cash Engine & Working Capital Calculator](../structures/canvases-and-worksheets.md#worksheet-7-cash-engine--working-capital-calculator).)*
 
 ```mermaid
 flowchart TD
-    Start{"Can internal cash flow fund growth?"}
-    Start -- Yes --> Boot["<b>Customer Financing / Bootstrapping</b><br/>Preserve 100% equity & control"]
-    Start -- No --> Q2{"Are assets tangible with steady cash flow?"}
+    Start{"Can internal cash or customer prepayments fund growth?"}
+    Start -- Yes --> Boot["<b>Archetype 1: Customer Financing / Bootstrapping</b><br/>Preserve 100% equity & keep customer as sole boss"]
+    Start -- No --> Q2{"Is technical risk high in early lab R&D (TRL 1–4)?"}
     
-    Q2 -- Yes --> Debt["<b>Commercial Debt / Asset Lending</b><br/>Non-dilutive; lower cost of capital"]
-    Q2 -- No --> Q3{"Is technical risk high but non-commercial?"}
+    Q2 -- Yes --> Grants["<b>Archetype 2: Non-Dilutive Public Grants</b><br/>US: SBIR/STTR | Global: Domestic grants<br/>Retain IP & 0% dilution; avoid founder compliance burnout"]
+    Q2 -- No --> Q3{"Are assets tangible or cash flows / receivables steady?"}
     
-    Q3 -- Yes --> Grants["<b>Non-Dilutive Grants (SBIR/STTR)</b><br/>Government feasibility capital"]
-    Q3 -- No --> Equity["<b>Institutional Equity / Venture Capital</b><br/>Uncapped risk tolerance; governance strings"]
+    Q3 -- Yes --> Debt["<b>Archetype 3: Debt & Credit Facilities (AR Factoring / Bank)</b><br/>Non-dilutive creditor capital; low cost of capital"]
+    Q3 -- No --> Q4{"Does the venture require modest capital & operator mentorship?"}
+    
+    Q4 -- Yes --> Angels["<b>Archetype 4: Angel Investors & Syndicates</b><br/>SAFEs / Notes; flexible time horizon; beware solo angel dead-ends"]
+    Q4 -- No --> Equity["<b>Archetype 5: Institutional Venture Capital</b><br/>Uncapped risk tolerance; power-law hit dynamics; strict 10-yr clock"]
 ```
 
 ---
@@ -71,7 +78,8 @@ flowchart TD
 ## 5. Stage Gate 6: Exit Deliverables
 
 Before advancing to [**Stage 7: Accelerators, Spin-Offs & Syndicate Governance**](./stage-7-spinoffs-and-scaling.md), the venture must possess:
-- [ ] Documented **Working Capital Architecture** with optimized CCC metrics.
+- [ ] Documented **Working Capital Architecture** with optimized CCC metrics and cash engine model.
 - [ ] Completed **Killer Discriminating Experiment** proving the core technical/market hypothesis.
-- [ ] Structured **Staged Financing Plan** with clear milestone valuation step-ups.
-- [ ] Term sheet review strategy balancing cash flow rights with protective control provisions.
+- [ ] Formulated **Capital Instrument Selection & Staged Financing Plan** adhering to the [Capital Taxonomy & Funding Selection Architecture](../structures/funding-taxonomy-and-capital-selection.md).
+- [ ] Term sheet review strategy balancing cash flow rights (liquidation preferences) with protective control provisions (board seats, vetoes, and down-round protections).
+
