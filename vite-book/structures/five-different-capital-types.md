@@ -1,6 +1,6 @@
-# Capital Taxonomy & Funding Selection Architecture
+# Five Different Capital Types
 
-> **A Systematic Operational Framework for Categorizing Financing Instruments, Evaluating Risk-Return Asymmetries, and Architecting Staged Venture Capitalization.**  
+> **Capital Taxonomy & Funding Selection Architecture: A Systematic Operational Framework for Categorizing Financing Instruments, Evaluating Risk-Return Asymmetries, and Architecting Staged Venture Capitalization.**  
 > *Derived from Harvard Business School Technology Entrepreneurship (Prof. Ramana Nanda, Prof. Karim Lakhani, Prof. Tom Nicholas, Warren Katz, and Conrad Hollomon).*
 
 ---

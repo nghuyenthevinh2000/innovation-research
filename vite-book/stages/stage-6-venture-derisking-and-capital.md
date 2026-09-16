@@ -54,7 +54,7 @@ flowchart TD
 ## 4. Capital Instrument Selection Matrix & Comprehensive Taxonomy
 
 For the comprehensive operational framework—evaluating all 5 capital archetypes (bootstrapping, customer pre-financing, non-dilutive grants, debt/credit, and institutional VC), their dilution costs, governance/control concessions, risk tolerances, and venture stage suitability—consult:
-> **[Capital Taxonomy & Funding Selection Architecture](../structures/five-different-capital-types.md)**  
+> **[Five Different Capital Types](../structures/five-different-capital-types.md)**  
 > *(Also cross-referenced in the [Multi-Criteria Decision Matrices](../structures/decision-matrices.md#2-capital-instrument-selection-matrix) and [Cash Engine & Working Capital Calculator](../structures/canvases-and-worksheets.md#worksheet-7-cash-engine--working-capital-calculator).)*
 
 ```mermaid
@@ -80,6 +80,6 @@ flowchart TD
 Before advancing to [**Stage 7: Accelerators, Spin-Offs & Syndicate Governance**](./stage-7-spinoffs-and-scaling.md), the venture must possess:
 - [ ] Documented **Working Capital Architecture** with optimized CCC metrics and cash engine model.
 - [ ] Completed **Killer Discriminating Experiment** proving the core technical/market hypothesis.
-- [ ] Formulated **Capital Instrument Selection & Staged Financing Plan** adhering to the [Capital Taxonomy & Funding Selection Architecture](../structures/five-different-capital-types.md).
+- [ ] Formulated **Capital Instrument Selection & Staged Financing Plan** adhering to the [Five Different Capital Types](../structures/five-different-capital-types.md).
 - [ ] Term sheet review strategy balancing cash flow rights (liquidation preferences) with protective control provisions (board seats, vetoes, and down-round protections).
 
