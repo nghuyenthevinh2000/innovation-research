@@ -56,15 +56,6 @@ const sidebarConfigs = [
     useTitleFromFileHeading: true,
     includeRootIndexFile: true,
     manualSortFileNameByPriority: ['index.md']
-  },
-  {
-    documentRootPath: '.',
-    scanStartPath: 'templates',
-    resolvePath: '/templates/',
-    rootGroupText: 'Templates & Rubrics',
-    useTitleFromFileHeading: true,
-    includeRootIndexFile: true,
-    manualSortFileNameByPriority: ['index.md']
   }
 ]
 
@@ -74,6 +65,7 @@ export default withMermaid(
     description: "Lab-to-Market Documentation Hub & Operational Engine",
     base: process.env.BASE_URL || (process.env.GITHUB_ACTIONS ? '/innovation-research/' : '/'),
     ignoreDeadLinks: true,
+    srcExclude: ['templates/**'],
     markdown: {
       math: true
     },
@@ -85,8 +77,7 @@ export default withMermaid(
         { text: 'Guides', link: '/guides/how-to-deconstruct-technology-seeds' },
         { text: 'Glossaries', link: '/glossaries/' },
         { text: 'Mental Models', link: '/mental-models/' },
-        { text: 'Structures', link: '/structures/' },
-        { text: 'Templates', link: '/templates/stage-gate-audit-template' }
+        { text: 'Structures', link: '/structures/' }
       ],
       sidebar: generateSidebar(sidebarConfigs),
       socialLinks: [

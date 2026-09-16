@@ -29,9 +29,9 @@ features:
   - title: Innovation Structures
     details: Practical decision canvases, multi-criteria matrices, and worksheets to structure commercialization.
     link: /structures/
-  - title: Templates & Audits
-    details: Standardized research templates and stage-gate audit rubrics.
-    link: /templates/stage-gate-audit-template
+  - title: Stage-Gate Audit Canvas
+    details: Comprehensive evaluation instrument for stress-testing ventures across all 7 stages.
+    link: /guides/stage-gate-audit-template
 ---
 
 <div style="margin-top: 3rem;">
