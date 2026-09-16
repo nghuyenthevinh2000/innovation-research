@@ -105,7 +105,6 @@ Understanding these failure modes serves as an essential **pre-mortem diagnostic
 | **Stage 2: Representation** | Representational Trap | Engineering deadlock | Burn rate increases without resolution |
 | **Stage 3: Needs-Seeds** | Hammer seeking a Nail | Product nobody buys | >6 months with zero validated customer pain |
 | **Stage 4: Architecture** | Architectural Misalignment | Delivery collapse | Gross margin < cost of customer delivery |
-| **Stage 5: Readiness** | Early Pioneer Trap | Capital exhaustion | TRL maturation exceeds fund lifecycle |
-| **Stage 6: Validation** | Hypothetical Bias | False validation | Customers praise in meetings, refuse to buy |
-| **Stage 7: Finance** | Working Capital Trap | Insolvent while profitable | Cash reserves drop while AR increases |
-| **Stage 8: Governance** | Toxic Cap Table | Unable to raise Series A | Institutional VC passes due to passive equity |
+| **Stage 5: Market Assessment** | Hypothetical Bias & Pioneer Trap | False validation / Capital exhaustion | Customers praise in meetings, refuse to buy; TRL exceeds fund |
+| **Stage 6: Finance** | Working Capital Trap | Insolvent while profitable | Cash reserves drop while AR increases |
+| **Stage 7: Governance** | Toxic Cap Table | Unable to raise Series A | Institutional VC passes due to passive equity |

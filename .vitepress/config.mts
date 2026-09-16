@@ -31,10 +31,9 @@ export default withMermaid(
               { text: 'Stage 2: Problem Framing & P-H', link: '/stages/stage-2-problem-framing-and-ph' },
               { text: 'Stage 3: Needs-Seeds Synchronization', link: '/stages/stage-3-needs-seeds-synchronization' },
               { text: 'Stage 4: Business Architecture', link: '/stages/stage-4-business-architecture' },
-              { text: 'Stage 5: Readiness & Cloverleaf', link: '/stages/stage-5-readiness-and-cloverleaf' },
-              { text: 'Stage 6: Customer Validation & MVP', link: '/stages/stage-6-customer-validation-and-mvp' },
-              { text: 'Stage 7: Venture De-risking & Capital', link: '/stages/stage-7-venture-derisking-and-capital' },
-              { text: 'Stage 8: Spin-Offs & Scaling', link: '/stages/stage-8-spinoffs-and-scaling' }
+              { text: 'Stage 5: Market Assessment & MVPs', link: '/stages/stage-5-market-assessment-and-mvp' },
+              { text: 'Stage 6: Venture De-risking & Capital', link: '/stages/stage-6-venture-derisking-and-capital' },
+              { text: 'Stage 7: Spin-Offs & Scaling', link: '/stages/stage-7-spinoffs-and-scaling' }
             ]
           }
         ],

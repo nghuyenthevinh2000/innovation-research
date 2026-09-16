@@ -1,6 +1,6 @@
 # Actionable Canvases & Diagnostic Worksheets
 
-> **Standardized Worksheets and Templates for Structuring Innovation Projects Across the 8 Stages**
+> **Standardized Worksheets and Templates for Structuring Innovation Projects Across the 7 Stages**
 
 ---
 
@@ -136,7 +136,7 @@
 
 ## Canvas 6: Deep-Tech MVP & Killer Experiment Canvas
 
-*Use in Stage 6 & 7 to isolate and invalidate existential venture risks.*
+*Use in Stage 5 & 6 to isolate and invalidate existential market and financial risks.*
 
 ```markdown
 ### Deep-Tech MVP & Killer Experiment Canvas
@@ -166,7 +166,7 @@
 
 ## Canvas 7: Cash Engine & Working Capital Calculator
 
-*Use in Stage 7 to model the Cash Conversion Cycle (Prof. Ramana Nanda).*
+*Use in Stage 6 to model the Cash Conversion Cycle (Prof. Ramana Nanda).*
 
 ```markdown
 ### Cash Engine & Working Capital Calculator

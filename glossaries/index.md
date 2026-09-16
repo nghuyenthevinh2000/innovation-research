@@ -28,10 +28,9 @@ This directory houses the complete semantic registry, detection tools, and gover
 - [**Stage 1 & 2: Representation & Search**](./master-glossary.md#stage-1--2-problem-representation--cognitive-search): Perspective, Heuristic, Perspective-Heuristic Pairs, Magic Square, Cognitive Diversity, Crowdsourced Search, Open Innovation, Solver Profile.
 - [**Stage 3: Needs-Seeds & Functional Analysis**](./master-glossary.md#stage-3-needs-seeds-synchronization--functional-analysis): Technology Seed, Customer Need, Functional Analysis, Main Parameters of Value (MPV), S-A-O Triad, Jobs-to-Be-Done (JTBD), Outcomes-Driven Innovation (ODI).
 - [**Stage 4: Business Architecture**](./master-glossary.md#stage-4-business-architecture--model-alignment): Business Architecture, Business Model, Value Creation, Value Capture, Operating Model (Structure, Capabilities, Assets).
-- [**Stage 5: Technology Readiness**](./master-glossary.md#stage-5-technology-readiness--cloverleaf-due-diligence): Technology Readiness Levels (TRL 1–9), Cloverleaf Framework, Freedom to Operate (FTO), Blocking Patents, Market Antibodies, 10x Imperative.
-- [**Stage 6: Validation & MVPs**](./master-glossary.md#stage-6-customer-discovery--deep-tech-mvp-prototyping): 100-Interview Funnel, Customer Validation, Mom Test, Disconfirming Evidence, Conceptual MVP, Simulated MVP (Wizard of Oz), Prototypical MVP.
-- [**Stage 7: Venture De-Risking & Capital**](./master-glossary.md#stage-7-venture-de-risking--capital-architecture): Cash Engine, Cash Conversion Cycle (CCC), Working Capital Architecture, Customer Financing, Lemonade Stand Model, Discriminating Experiments, Staged Financing, Debt Capital, Equity Capital, Dilutive Capital, Non-Dilutive Capital.
-- [**Stage 8: Scaling & Governance**](./master-glossary.md#stage-8-scaling-spin-offs-syndicates--standards): Angel Investors, Family Office, Venture Capital Funds (VC), Exit, Power Law, 10-Year Fund Lifecycle, Investor Syndicates, Signaling Risk, TTO Pitfalls, Standards Wars.
+- [**Stage 5: Market Assessment & MVPs**](./master-glossary.md#stage-5-market-assessment-due-diligence--deep-tech-mvps): TRL (1–9), Cloverleaf Framework, Freedom to Operate (FTO), Blocking Patents, Market Antibodies, 10x Imperative, 100-Interview Funnel, Customer Validation, Mom Test, Disconfirming Evidence, Conceptual MVP, Simulated MVP (Wizard of Oz), Prototypical MVP, Think-Aloud Protocol.
+- [**Stage 6: Venture De-Risking & Capital**](./master-glossary.md#stage-6-venture-de-risking--capital-architecture): Cash Engine, Cash Conversion Cycle (CCC), Working Capital Architecture, Customer Financing, Lemonade Stand Model, Discriminating Experiments, Staged Financing, Debt Capital, Equity Capital, Dilutive Capital, Non-Dilutive Capital.
+- [**Stage 7: Scaling & Governance**](./master-glossary.md#stage-7-scaling-spin-offs-syndicates--standards): Angel Investors, Family Office, Venture Capital Funds (VC), Exit, Power Law, 10-Year Fund Lifecycle, Investor Syndicates, Signaling Risk, TTO Pitfalls, Standards Wars.
 
 ---
 
@@ -95,7 +94,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 | [**`Assets (Operating Model)`**](./master-glossary.md#assets-operating-model) | The unique tangible, informational, and intellectual property resources controlled by the venture (e.g., patents, proprietary longitudinal datasets, clinical trials, production tooling). |
 | [**`Architectural Misalignment`**](./master-glossary.md#architectural-misalignment) | A fatal venture flaw where the promises made in the business model cannot be delivered by the structure, capabilities, or assets of the operating model (e.g., promising ultra-low-cost commodity pricing while operating a high-touch, bespoke consulting labor force). |
 
-### Stage 5: Technology Readiness & Cloverleaf Due Diligence
+### Stage 5: Market Assessment, Due Diligence & Deep-Tech MVPs
 
 | Term | Quick-Scan Definition |
 |---|---|
@@ -106,11 +105,6 @@ This directory houses the complete semantic registry, detection tools, and gover
 | [**`Market Antibodies`**](./master-glossary.md#market-antibodies) | The aggressive defensive mechanisms deployed by entrenched incumbents, legacy channel partners, and regulatory bodies to suppress, delay, or kill disruptive innovations (e.g., patent litigation, exclusive distributor lockouts, regulatory lobbying). |
 | [**`The 10x Imperative`**](./master-glossary.md#the-10x-imperative) | The principle that to overcome incumbent market antibodies and customer switching inertia, a new technological offering must deliver an order-of-magnitude (10x) improvement along at least one critical MPV (cost, speed, yield, or convenience). |
 | [**`The Patience Dilemma (The Early Pioneer Trap)`**](./master-glossary.md#the-patience-dilemma-the-early-pioneer-trap) | The danger of entering a market too early when a breakthrough technology requires decades of compounding infrastructure, supply chain, and materials improvements before commercial viability (e.g., 3D printing pioneers failing in 1989–1995 despite the technology succeeding in 2015). |
-
-### Stage 6: Customer Discovery & Deep-Tech MVP Prototyping
-
-| Term | Quick-Scan Definition |
-|---|---|
 | [**`The 100-Interview Funnel`**](./master-glossary.md#the-100-interview-funnel) | The rigorous customer discovery standard requiring early-stage founders to conduct at least 100 deep, unvarnished qualitative interviews with prospective buyers, operators, and ecosystem stakeholders (specifically strangers, never friends or family) prior to capital deployment. |
 | [**`Customer Validation`**](./master-glossary.md#customer-validation) | The second phase of Steve Blank's Customer Development methodology that tests whether the customer problem, product architecture, and pricing model produce repeatable purchase transactions and verifiable economic commitments from real buyers. |
 | [**`Disconfirming Evidence`**](./master-glossary.md#disconfirming-evidence) | Data, customer responses, or experimental outcomes that invalidate the founder's core hypotheses. |
@@ -123,7 +117,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 | [**`Prototypical MVP`**](./master-glossary.md#prototypical-mvp) | A minimally engineered but functional physical or software artifact deployed in the customer's actual operational environment to test physical reliability, integration hurdles, and workflow fit. |
 | [**`Think-Aloud Protocol`**](./master-glossary.md#think-aloud-protocol) | A usability and customer discovery method where prospective users narrate their live stream of consciousness while interacting with an MVP artifact or workflow simulation, exposing authentic confusion, cognitive friction, and unarticulated needs. |
 
-### Stage 7: Venture De-Risking & Capital Architecture
+### Stage 6: Venture De-Risking & Capital Architecture
 
 | Term | Quick-Scan Definition |
 |---|---|
@@ -147,7 +141,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 | [**`Control Rights`**](./master-glossary.md#control-rights) | The legal provisions in venture term sheets that dictate who makes strategic decisions and governs the enterprise, including board seat composition, voting thresholds, and protective vetoes over additional debt, key hires, intellectual property licensing, or M&A. |
 | [**`Assumption Risk vs. Execution Risk`**](./master-glossary.md#assumption-risk-vs-execution-risk) | The critical distinction between two venture failure modes: |
 
-### Stage 8: Scaling, Spin-Offs, Syndicates & Standards
+### Stage 7: Scaling, Spin-Offs, Syndicates & Standards
 
 | Term | Quick-Scan Definition |
 |---|---|

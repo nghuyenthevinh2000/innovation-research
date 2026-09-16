@@ -8,7 +8,7 @@
 
 | Metadata Field | Project Specification |
 |---|---|
-| **Primary Innovation Stage** | Stage 1 (Discovery) / Stage 2 (Representation) / Stage 3 (Needs-Seeds) / Stage 4 (Architecture) / Stage 5 (Readiness) / Stage 6 (Validation) / Stage 7 (Capital) / Stage 8 (Scaling) |
+| **Primary Innovation Stage** | Stage 1 (Discovery) / Stage 2 (Representation) / Stage 3 (Needs-Seeds) / Stage 4 (Architecture) / Stage 5 (Market & MVP) / Stage 6 (Capital) / Stage 7 (Scaling) |
 | **Current TRL** | TRL 1–3 (Laboratory Proof-of-Concept) / TRL 4–6 (Simulated / Field Environment) / TRL 7–9 (Commercial Scale) |
 | **Primary Mental Models Applied** | `Biological Evolution of Ideas`, `P-H Search Space`, `Functional Thinking`, `10x Imperative`, `The Firm as a Cash Engine` |
 | **Governing Main Parameters of Value (MPVs)** | 1. [Metric 1, e.g., Speed <5s] <br> 2. [Metric 2, e.g., Cost < \$10/unit] |
@@ -70,12 +70,12 @@ flowchart LR
 
 ---
 
-## 5. Technology Readiness & Cloverleaf Due Diligence (Stage 5)
+## 5. Market Assessment, Cloverleaf Audit & MVP Validation (Stage 5)
 
 ```mermaid
 flowchart TD
     subgraph Cloverleaf["Cloverleaf Diagnostic Audit"]
-        L1["Leaf 1: Tech & IP (TRL & FTO)"]
+        L1["Leaf 1: Tech & IP (TRL 4–6 & FTO)"]
         L2["Leaf 2: Market Need (Urgency & 10x Leap)"]
         L3["Leaf 3: Business Model (Margins & Pricing)"]
         L4["Leaf 4: Operations & Regulatory (Pathways & Supply)"]
@@ -86,23 +86,18 @@ flowchart TD
     end
 ```
 
-- **TRL Status & Environmental Noise Test:**
-- **Freedom to Operate (FTO) Search Results:**
+- **TRL Status & Operational Noise Stability:**
+- **Freedom to Operate (FTO) Claims Clearance:**
 - **Anticipated Incumbent Market Antibodies:**
-
----
-
-## 6. Empirical Validation & Killer Experiment (Stage 6 & 7)
-
-- **Core Existential Hypothesis:** What assumption, if false, decisively kills this venture?
+- **100-Interview Discovery Synthesis:** (Key historical findings from ecosystem strangers)
 - **Deep-Tech MVP Archetype Deployed:** [Conceptual / Simulated (Wizard of Oz) / Prototypical]
-- **The Mom Test Protocol:** How were past customer behaviors and budgets verified without asking hypothetical questions?
 - **Disconfirming Evidence Invalidation Metric:** What specific empirical data kills the hypothesis?
-- **Experiment Results & Next Decision Gate:** [Validated / Ambiguous / Decisively Invalidated]
+- **Observed User Friction (Think-Aloud Protocol):**
+- **Customer Economic Commitments Extracted:** [Letters of Intent / Paid Pilots / Reservation Deposits]
 
 ---
 
-## 7. Financial Architecture & Capital Strategy (Stage 7 & 8)
+## 6. Financial Architecture & Capital Strategy (Stage 6 & 7)
 
 - **Cash Conversion Cycle (CCC):** $\text{DIO} + \text{DSO} - \text{DPO} = [\qquad]$ days.
 - **Internal Cash Engine Levers:** (e.g., upfront prepaid contracts, milestone deposits).
@@ -115,7 +110,7 @@ flowchart TD
 
 ---
 
-## 8. Key References, Glossaries & Artifacts
+## 7. Key References, Glossaries & Artifacts
 
 - **Primary Source Notes:** `[Source Note Title 1]`, `[Source Note Title 2]`
-- **Glossary Cross-References:** Main Parameters of Value, Freedom to Operate, The Firm as a Cash Engine
+- **Glossary Cross-References:** [[Main Parameters of Value]], [[Freedom to Operate]], [[The Firm as a Cash Engine]]

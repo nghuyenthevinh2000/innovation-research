@@ -22,7 +22,7 @@
 
 ## 2. Capital Instrument Selection Matrix
 
-*Use in Stage 7 to select the appropriate financing instrument based on risk and venture stage.*
+*Use in Stage 6 to select the appropriate financing instrument based on risk and venture stage.*
 
 | Dimension | Customer Prepayments & Bootstrapping | Non-Dilutive SBIR / STTR Grants | Venture Debt / Asset-Backed | Institutional Venture Capital (VC) |
 |---|---|---|---|---|

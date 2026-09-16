@@ -13,7 +13,7 @@ It provides four foundational pillars:
 1. **Semantic Rigor (Glossaries System):** A curated master lexicon of 60+ innovation terms with an automated Python coverage linter to detect missing glossaries and terminology gaps.
 2. **Cognitive Clarity (Mental Models):** A catalog of 17 governing mental models, mathematical formulas, axioms, and 14 diagnostic failure modes/anti-patterns.
 3. **Operational Discipline (Innovation Structures):** Practical decision canvases, multi-criteria matrices, and worksheets to structure commercialization.
-4. **Lifecycle Staging (8 Stages of Innovation):** An end-to-end stage-gate architecture spanning benchtop discovery to institutional VC syndicates and category standards.
+4. **Lifecycle Staging (7 Stages of Innovation):** An end-to-end stage-gate architecture spanning benchtop discovery to institutional VC syndicates and category standards.
 
 ---
 
@@ -32,7 +32,7 @@ flowchart TD
     subgraph Theoretical["THEORETICAL MASTERY (Information & Understanding)"]
         direction LR
         Ref["<b>Reference (Information-Oriented)</b><br/>• Master Glossary Registry<br/>• Mental Models Catalog<br/>• Canvases & Worksheets<br/>• Decision Matrices"]
-        Exp["<b>Explanations (Understanding-Oriented)</b><br/>• 8 Lifecycle Stage Deep Dives<br/>• Cognitive Traps & Biases<br/>• Case Studies (Qualcomm, Moderna)"]
+        Exp["<b>Explanations (Understanding-Oriented)</b><br/>• 7 Lifecycle Stage Deep Dives<br/>• Cognitive Traps & Biases<br/>• Case Studies (Qualcomm, Moderna)"]
     end
 
     Learning ~~~ Theoretical
@@ -40,28 +40,27 @@ flowchart TD
 
 | Diátaxis Quadrant | User Orientation | Repository Directory & Core Artifacts |
 |---|---|---|
-| **Tutorials** | *Learning by Doing* | [**`stages/index.md`**](./stages/index.md) (Step-by-step navigation of the 8 stages of commercialization). |
+| **Tutorials** | *Learning by Doing* | [**`stages/index.md`**](./stages/index.md) (Step-by-step navigation of the 7 stages of commercialization). |
 | **How-To Guides** | *Problem Solving* | [**`guides/`**](./guides/) (Actionable playbooks: functional deconstruction, P-H reframing, killer experiments, alignment audit, glossary auditing). |
 | **Reference** | *Fact Lookup* | [**`glossaries/master-glossary.md`**](./glossaries/master-glossary.md), [**`mental-models/mental-models-catalog.md`**](./mental-models/mental-models-catalog.md), [**`structures/`**](./structures/). |
 | **Explanations** | *Conceptual Context* | [**`stages/stage-*.md`**](./stages/), [**`mental-models/cognitive-traps-and-anti-patterns.md`**](./mental-models/cognitive-traps-and-anti-patterns.md). |
 
 ---
 
-## 🔄 The 8 Stages of Lab-to-Market Translation
+## 🔄 The 7 Stages of Lab-to-Market Translation
 
 ```mermaid
 flowchart LR
     S1["<b>Stage 1</b><br/>Discovery & Seeds"] --> S2["<b>Stage 2</b><br/>Problem Framing"]
     S2 --> S3["<b>Stage 3</b><br/>Needs-Seeds Sync"]
     S3 --> S4["<b>Stage 4</b><br/>Business Architecture"]
-    S4 --> S5["<b>Stage 5</b><br/>Readiness & Cloverleaf"]
-    S5 --> S6["<b>Stage 6</b><br/>Validation & MVPs"]
-    S6 --> S7["<b>Stage 7</b><br/>De-Risking & Capital"]
-    S7 --> S8["<b>Stage 8</b><br/>Spin-Offs & Scaling"]
+    S4 --> S5["<b>Stage 5</b><br/>Market Assessment & MVPs"]
+    S5 --> S6["<b>Stage 6</b><br/>De-Risking & Capital"]
+    S6 --> S7["<b>Stage 7</b><br/>Spin-Offs & Scaling"]
 
-    S6 -.->|"Disconfirming feedback"| S3
+    S5 -.->|"Disconfirming feedback"| S3
     S5 -.->|"FTO / channel block"| S4
-    S7 -.->|"Failed killer experiment"| S2
+    S6 -.->|"Failed killer experiment"| S2
 ```
 
 | Stage | Title | Core Focus & Theoretical Anchor | Guide |
@@ -70,10 +69,9 @@ flowchart LR
 | **2** | **Problem Representation** | Framing search spaces using Perspective-Heuristic (P-H) pairs & Magic Square. | [`stage-2-problem-framing-and-ph.md`](./stages/stage-2-problem-framing-and-ph.md) |
 | **3** | **Needs-Seeds Sync** | Functional analysis (Sam Kogan) & Customer Activity Chains (Vish Krishnan). | [`stage-3-needs-seeds-synchronization.md`](./stages/stage-3-needs-seeds-synchronization.md) |
 | **4** | **Business Architecture** | Aligning Business Model (Value Creation/Capture) with Operating Model. | [`stage-4-business-architecture.md`](./stages/stage-4-business-architecture.md) |
-| **5** | **Readiness & Cloverleaf** | TRL 4–6 sweet spot, Cloverleaf due diligence, and Freedom to Operate (FTO). | [`stage-5-readiness-and-cloverleaf.md`](./stages/stage-5-readiness-and-cloverleaf.md) |
-| **6** | **Validation & MVPs** | The 100-Interview funnel, Mom Test principles, and Deep-Tech Wizard of Oz MVPs. | [`stage-6-customer-validation-and-mvp.md`](./stages/stage-6-customer-validation-and-mvp.md) |
-| **7** | **De-Risking & Capital** | The firm as a cash engine (CCC), killer experiments, and staged financing. | [`stage-7-venture-derisking-and-capital.md`](./stages/stage-7-venture-derisking-and-capital.md) |
-| **8** | **Spin-Offs & Scaling** | Clean TTO IP assignment, accelerator sprints, VC syndicates & standards wars. | [`stage-8-spinoffs-and-scaling.md`](./stages/stage-8-spinoffs-and-scaling.md) |
+| **5** | **Market Assessment & MVPs** | Cloverleaf due diligence, FTO clearance, 100-interview funnel & deep-tech MVP probing. | [`stage-5-market-assessment-and-mvp.md`](./stages/stage-5-market-assessment-and-mvp.md) |
+| **6** | **De-Risking & Capital** | The firm as a cash engine (CCC), killer experiments, and staged financing. | [`stage-6-venture-derisking-and-capital.md`](./stages/stage-6-venture-derisking-and-capital.md) |
+| **7** | **Spin-Offs & Scaling** | Clean TTO IP assignment, accelerator sprints, VC syndicates & standards wars. | [`stage-7-spinoffs-and-scaling.md`](./stages/stage-7-spinoffs-and-scaling.md) |
 
 ---
 
@@ -81,7 +79,7 @@ flowchart LR
 
 Ambiguity in terminology kills ventures. The repository features a unified semantic engine:
 
-- **[Master Glossary Registry](./glossaries/master-glossary.md):** 60+ primary terms, aliases, mathematical formulas, originators, and anti-patterns indexed across all 8 stages.
+- **[Master Glossary Registry](./glossaries/master-glossary.md):** 60+ primary terms, aliases, mathematical formulas, originators, and anti-patterns indexed across all 7 stages.
 - **[Glossary Auditing Guide](./glossaries/glossary-detection-guide.md):** The 3-question filter for identifying undefined concepts in notes and whitepapers.
 - **Automated CLI Coverage Tool:** Run the linter to verify cross-references and detect missing terms:
   ```bash
@@ -136,10 +134,9 @@ innovation-research/
 │   ├── stage-2-problem-framing-and-ph.md        # Stage 2: Problem Representation & P-H Pairs
 │   ├── stage-3-needs-seeds-synchronization.md   # Stage 3: Needs-Seeds Sync & Functional Analysis
 │   ├── stage-4-business-architecture.md         # Stage 4: Business Architecture Design
-│   ├── stage-5-readiness-and-cloverleaf.md      # Stage 5: Technology Readiness & Cloverleaf
-│   ├── stage-6-customer-validation-and-mvp.md   # Stage 6: Customer Validation & Deep-Tech MVPs
-│   ├── stage-7-venture-derisking-and-capital.md # Stage 7: Cash Engine & Staged Financing
-│   └── stage-8-spinoffs-and-scaling.md          # Stage 8: Spin-Offs, Syndicates & Standards
+│   ├── stage-5-market-assessment-and-mvp.md     # Stage 5: Market Assessment & Deep-Tech MVPs
+│   ├── stage-6-venture-derisking-and-capital.md # Stage 6: Cash Engine & Staged Financing
+│   └── stage-7-spinoffs-and-scaling.md          # Stage 7: Spin-Offs, Syndicates & Standards
 ├── glossaries/                                  # Glossaries & Lexicon Management (Reference & Tooling)
 │   ├── index.md                                 # Glossary system portal
 │   ├── master-glossary.md                       # Comprehensive 60+ term master glossary

@@ -1,4 +1,4 @@
-# Stage 8: Accelerators, Spin-Offs & Syndicate Governance
+# Stage 7: Accelerators, Spin-Offs & Syndicate Governance
 
 > **Phase Focus:** Tech Transfer Office (TTO) Licensing, Accelerator Sprints, VC Power Law Alignment, Syndicate Signaling Dynamics, and Standards Battles.
 
@@ -6,7 +6,7 @@
 
 ## 1. Stage Objective & Theoretical Foundation
 
-Stage 8 governs the formal transition from an exploratory project into a scaled corporate entity. It addresses institutional friction: spinning IP out of universities, navigating accelerator dynamics, structuring investor syndicates, and fighting standards wars to achieve market dominance.
+Stage 7 governs the formal transition from an exploratory project into a scaled corporate entity. It addresses institutional friction: spinning IP out of universities, navigating accelerator dynamics, structuring investor syndicates, and fighting standards wars to achieve market dominance.
 
 > [!QUOTE] The Syndicate Reality
 > *"You've got all your eggs in that one basket. The VC has a portfolio. What your definition of success is can be very different from your investor's. You might feel a \$50M exit is transformational; the VC might see that as a failure because they need a billion-dollar outcome to return their fund."*
@@ -61,7 +61,7 @@ flowchart LR
 
 ---
 
-## 5. Stage Gate 8: Venture Graduation Checklist
+## 5. Stage Gate 7: Venture Graduation Checklist
 
 To achieve sustainable scale and corporate autonomy:
 - [ ] Fully executed, clean **TTO License Agreement** with no onerous gross royalty penalties.

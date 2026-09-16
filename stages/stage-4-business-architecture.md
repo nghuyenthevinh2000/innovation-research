@@ -67,7 +67,7 @@ flowchart TD
 
 ## 5. Stage Gate 4: Exit Deliverables
 
-Before advancing to [**Stage 5: Technology Readiness & Cloverleaf Due Diligence**](./stage-5-readiness-and-cloverleaf.md), the venture must possess:
+Before advancing to [**Stage 5: Market Assessment, Due Diligence & MVP Validation**](./stage-5-market-assessment-and-mvp.md), the venture must possess:
 - [ ] Completed **Business Architecture Canvas** mapping both pillars.
 - [ ] Preliminary **Unit Economics Model** (Contribution Margin = Revenue per unit - Direct delivery cost).
 - [ ] Validated Operating Structure decision (Product vs. Service vs. Platform).

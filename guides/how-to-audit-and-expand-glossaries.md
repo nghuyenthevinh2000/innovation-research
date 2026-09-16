@@ -53,7 +53,7 @@ Open `glossaries/master-glossary.md` and insert the entry under the appropriate 
 - **Definition:** Precise 2–3 sentence operational definition explaining what the mechanism is and its commercial importance.
 - **Formula / Axiom (if applicable):** LaTeX equation or ratio.
 - **Originators:** Key researchers or founders who formalized it.
-- **Stage:** Stage 1 through Stage 8 where the term is most active.
+- **Stage:** Stage 1 through Stage 7 where the term is most active.
 - **Common Trap:** The specific cognitive or operational error founders commit.
 - **Related Terms:** Cross-links to other defined terms (e.g., Term Name 1, Term Name 2).
 ```

@@ -1,4 +1,4 @@
-# Stage 7: Venture De-Risking & Capital Architecture
+# Stage 6: Venture De-Risking & Capital Architecture
 
 > **Phase Focus:** The Firm as a Cash Engine, Working Capital Optimization, Killer Discriminating Experiments, Staged Financing, and Capital Taxonomy.
 
@@ -6,7 +6,7 @@
 
 ## 1. Stage Objective & Theoretical Foundation
 
-Raising external venture capital is not a badge of honor; institutional equity is the most expensive and restrictive capital instrument in existence. Stage 7 architects the venture's financial engine to minimize external dilution, compress the cash conversion cycle, and structure capital deployment around **hypothesis-driven discriminating milestones**.
+Raising external venture capital is not a badge of honor; institutional equity is the most expensive and restrictive capital instrument in existence. Stage 6 architects the venture's financial engine to minimize external dilution, compress the cash conversion cycle, and structure capital deployment around **hypothesis-driven discriminating milestones**.
 
 > [!QUOTE] The Entrepreneurial Finance Principle
 > *"Raising external finance from a venture capital investor is really not necessarily a badge of honor. You do it when all other sources of capital are not feasible, because venture capital is very expensive."*
@@ -68,9 +68,9 @@ flowchart TD
 
 ---
 
-## 5. Stage Gate 7: Exit Deliverables
+## 5. Stage Gate 6: Exit Deliverables
 
-Before advancing to [**Stage 8: Accelerators, Spin-Offs & Syndicate Governance**](./stage-8-spinoffs-and-scaling.md), the venture must possess:
+Before advancing to [**Stage 7: Accelerators, Spin-Offs & Syndicate Governance**](./stage-7-spinoffs-and-scaling.md), the venture must possess:
 - [ ] Documented **Working Capital Architecture** with optimized CCC metrics.
 - [ ] Completed **Killer Discriminating Experiment** proving the core technical/market hypothesis.
 - [ ] Structured **Staged Financing Plan** with clear milestone valuation step-ups.
