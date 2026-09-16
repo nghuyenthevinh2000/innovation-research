@@ -17,7 +17,7 @@ Document the two vectors of your commercial premise:
 1. **Value Creation:** Why will the customer buy? (Is it low price, 10x performance, white-glove personalization, or network effects?)
 2. **Value Capture:** How does money flow into the company? (Unit sales, SaaS subscriptions, metered usage, licensing royalties, or outcomes-based cut?)
 3. **Target Unit Contribution Margin:**
-   $$\text{Gross Contribution Margin \%} = \frac{\text{Price per Unit} - \text{Direct Delivery Cost}}{\text{Price per Unit}} \times 100$$
+   $$\text{Gross Contribution Margin} = \frac{\text{Price per Unit} - \text{Direct Delivery Cost}}{\text{Price per Unit}} \times 100\%$$
 
 ---
 
@@ -50,7 +50,7 @@ flowchart TD
 
 | Stress Test | Passing Signal | Failing Signal (Fatal Disconnect) |
 |---|---|---|
-| **1. Cost vs. Price** | Direct COGS $<20–30\%$ of price. | Delivering the product requires extensive manual customization that wipes out gross margins. |
+| **1. Cost vs. Price** | Direct COGS < 20–30% of price. | Delivering the product requires extensive manual customization that wipes out gross margins. |
 | **2. Scalability** | Software or manufactured units scale without linear labor additions. | Scaling requires hiring linearly proportional domain specialists (looks like a software firm on paper, behaves like a law firm in reality). |
 | **3. Velocity** | Cash collection occurs prior to operational expense (negative working capital). | 18-month enterprise sales cycles combined with Net-90 payment terms drain cash before receivables are collected. |
 | **4. Defensibility** | Value capture is shielded by strong IP or proprietary data network effects. | Solution is easily cloned by established incumbents once demand is proven. |

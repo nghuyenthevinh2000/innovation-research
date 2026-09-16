@@ -7,7 +7,7 @@
 ## Prerequisites & Goal
 
 - **Prerequisites:** A technological capability (TRL 3–5) and a candidate value proposition.
-- **Goal:** Design and execute an empirical experiment in $\le 14\text{ days}$ for $<\$5,000$ that decisively validates or invalidates your primary commercial hypothesis before burning significant capital.
+- **Goal:** Design and execute an empirical experiment in ≤ 14 days for < \$5,000 that decisively validates or invalidates your primary commercial hypothesis before burning significant capital.
 
 ---
 
@@ -28,7 +28,7 @@
 
 Define the exact numerical outcome that **kills** the hypothesis:
 - *Bad (Vague):* *"We want to see if physicians like our AI triage summaries."*
-- *Good (Discriminating Metric):* *"If $>25\%$ of emergency physicians reject the automated summary and demand a full manual image re-read during an active night shift, the hypothesis is DECISIVELY KILLED."*
+- *Good (Discriminating Metric):* *"If > 25% of emergency physicians reject the automated summary and demand a full manual image re-read during an active night shift, the hypothesis is DECISIVELY KILLED."*
 
 ---
 
@@ -54,7 +54,7 @@ flowchart TD
 1. Seat the target user in front of the MVP artifact in their natural work environment.
 2. Instruct them: *"Please verbalize everything going through your mind as you perform this task. We are testing the tool, not you. If you get confused, it is the tool's fault."*
 3. Observe without intervening:
-   - Note hesitation pauses $>3$ seconds.
+   - Note hesitation pauses > 3 seconds.
    - Record where they click or search for missing data.
    - Record explicit expressions of mistrust or confusion.
 
@@ -64,6 +64,6 @@ flowchart TD
 
 | Outcome | Experimental Data | Strategic Action |
 |---|---|---|
-| **Validated** | Re-read rate $<10\%$; customer requests pilot contract. | Advance to Stage 7 (Raise staged capital for backend engineering). |
-| **Ambiguous** | Re-read rate $15–25\%$; users praise concept but hesitate. | Iterate front-end UI; re-test with 10 additional users. |
-| **Decisively Invalidated** | Re-read rate $>30\%$; users refuse to rely on output. | **KILL HYPOTHESIS IMMEDIATELY.** Pivot business architecture before capital is burned. |
+| **Validated** | Re-read rate < 10%; customer requests pilot contract. | Advance to Stage 7 (Raise staged capital for backend engineering). |
+| **Ambiguous** | Re-read rate 15–25%; users praise concept but hesitate. | Iterate front-end UI; re-test with 10 additional users. |
+| **Decisively Invalidated** | Re-read rate > 30%; users refuse to rely on output. | **KILL HYPOTHESIS IMMEDIATELY.** Pivot business architecture before capital is burned. |

@@ -67,9 +67,9 @@
 |:---:|---|---|---|---|---|
 | **1** | **Scan Patient** | Patient transport delay | ED bed blocked (2 hrs) | Missing prior health record | Fear of unseen hemorrhage |
 | **2** | **Upload to PACS** | DICOM formatting errors | IT bandwidth strain | Fragmented visual slices | Fear of missing slice 142 |
-| **3** | **Radiologist Read** | Radiologist backlog | $120/scan contractor fee | Preliminary report delay | Overnight fatigue liability |
+| **3** | **Radiologist Read** | Radiologist backlog | \$120/scan contractor fee | Preliminary report delay | Overnight fatigue liability |
 | **4** | **Triage & Decision** | Manual phone call to ED | 45-min triage queue | Conflicting clinical notes | Risk of delayed surgery |
-| **5** | **Discharge / Admit** | Administrative EHR entry| $2,400 unnecessary admit | Bed utilization opacity | Patient family frustration |
+| **5** | **Discharge / Admit** | Administrative EHR entry| \$2,400 unnecessary admit | Bed utilization opacity | Patient family frustration |
 
 **Decisive Point of Intervention:** [Step 3 & 4: Automated AI preliminary triage within 5 minutes]
 ```
@@ -88,7 +88,7 @@
   - *Core Customer Benefit:* [e.g., 40% reduction in diagnostic turnaround time]
   - *Decisive MPV:* [Speed: <5 minutes vs. 2 hours]
 - **Value Capture Model:** [Annual SaaS / Metered Pay-per-Use / IP Licensing]
-  - *Pricing Metric:* [$50,000/facility base fee + $12,000/scanner/year]
+  - *Pricing Metric:* [\$50,000/facility base fee + \$12,000/scanner/year]
   - *Target Contribution Margin:* [80%]
 
 #### Pillar II: Operating Model
@@ -155,11 +155,11 @@
 - **Test Cohort:** 15 emergency hospital physicians during simulated night-shift scenarios.
 - **Workflow Simulation:** Physicians receive incoming traumatic CT scans with structured AI summaries. (Unbeknownst to them, summaries are drafted in real time by an off-site senior clinical radiologist).
 - **Metric Measured:** Speed to decision, clinical trust rating, and percentage of scans ordered for human re-read.
-- **Budget & Duration:** $4,500 and 10 days.
+- **Budget & Duration:** \$4,500 and 10 days.
 
 #### Step 4: Decision Rule
-- If Re-read Request Rate is $<10\% \rightarrow$ **PROCEED** to staged Series A financing.
-- If Re-read Request Rate is $\ge 30\% \rightarrow$ **PIVOT** architecture (reposition as radiologist copilot, not autonomous triage).
+- If Re-read Request Rate is < 10% → **PROCEED** to staged Series A financing.
+- If Re-read Request Rate is ≥ 30% → **PIVOT** architecture (reposition as radiologist copilot, not autonomous triage).
 ```
 
 ---
@@ -172,18 +172,18 @@
 ### Cash Engine & Working Capital Calculator
 
 #### Parameters
-- **Daily Operating Burn / Cost of Goods Sold (COGS):** $\$ [ \qquad ]$ / day
-- **Daily Gross Revenue Generated:** $\$ [ \qquad ]$ / day
-- **Days Inventory Outstanding (DIO):** $[ \qquad ]$ days
-- **Days Sales Outstanding (DSO):** $[ \qquad ]$ days (Accounts Receivable payment collection delay)
-- **Days Payables Outstanding (DPO):** $[ \qquad ]$ days (Supplier payment window)
+- **Daily Operating Burn / Cost of Goods Sold (COGS):** \$ [ ______ ] / day
+- **Daily Gross Revenue Generated:** \$ [ ______ ] / day
+- **Days Inventory Outstanding (DIO):** [ ______ ] days
+- **Days Sales Outstanding (DSO):** [ ______ ] days (Accounts Receivable payment collection delay)
+- **Days Payables Outstanding (DPO):** [ ______ ] days (Supplier payment window)
 
 #### Calculation
-$$\text{Cash Conversion Cycle (CCC)} = \text{DIO} + \text{DSO} - \text{DPO} = [ \qquad ] \text{ days}$$
-$$\text{Trapped Working Capital} = \text{Daily COGS} \times \text{CCC} = \$ [ \qquad ]$$
+$$\text{Cash Conversion Cycle (CCC)} = \text{DIO} + \text{DSO} - \text{DPO}$$
+$$\text{Trapped Working Capital} = \text{Daily COGS} \times \text{CCC}$$
 
 #### Optimization Levers
-1. *Convert DSO to Negative:* Shift enterprise accounts from Net-60 invoices to annual upfront prepaid contracts (DSO $\rightarrow -365$ days).
+1. *Convert DSO to Negative:* Shift enterprise accounts from Net-60 invoices to annual upfront prepaid contracts (DSO → -365 days).
 2. *Eliminate DIO:* Transition from stocking manufactured inventory to just-in-time dropship contract manufacturing.
 3. *Extend DPO:* Negotiate Net-60 terms with foundational cloud providers and hardware component vendors.
 ```

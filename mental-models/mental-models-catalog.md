@@ -93,13 +93,13 @@ flowchart TD
 - **The Axiom:** Strip away proprietary components and domain jargon into elementary physical actions (Active Verb + Target Object). A water filter is not a cylindrical plastic cartridge; it is a mechanism that **stops impurities**.
 - **Originator:** Dr. Sam Kogan (Gen5 Group).
 - **When to Apply:** When attempting to identify new commercial applications for a laboratory discovery beyond its original intended market.
-- **Canonical Case:** Converting champagne degassing fluid dynamics into a $65 vibration solution for micro-bubbles in semiconductor wafer manufacturing ($3M chemical fix avoided).
+- **Canonical Case:** Converting champagne degassing fluid dynamics into a \$65 vibration solution for micro-bubbles in semiconductor wafer manufacturing (\$3M chemical fix avoided).
 
 ---
 
 ### Model 6: The Miles Value Ratio & Main Parameters of Value (MPV)
 - **Core Principle:** Customers make purchase decisions based on a ruthless calculation of value defined by Larry Miles (Value Engineering, 1940s):
-  $$\text{Value} = \frac{\text{Perceived Utility / Performance}}{\text{Total Cost of Acquisition \& Ownership}}$$
+  $$\text{Value} = \frac{\text{Perceived Utility / Performance}}{\text{Total Cost of Acquisition and Ownership}}$$
 - **Operational Rule:** Innovators cannot optimize every variable. They must identify the **1–2 Main Parameters of Value (MPVs)** that govern customer purchasing decisions and ensure their solution offers an indisputable advantage along those decisive vectors.
 - **Canonical Case:** Crest White Strips—succeeded not by maximizing whitening efficacy, but by winning on the decisive MPV of **at-home consumer convenience**.
 
@@ -116,7 +116,7 @@ flowchart TD
 
 ### Model 8: The Customer Activity Chain (Linkages-Driven Innovation)
 - **Core Principle:** Customer friction is rarely confined to the point of product usage. True commercialization opportunity lies in mapping the end-to-end operational **activity chain** that customers traverse before, during, and after using a product.
-- **The Chain:** Search $\rightarrow$ Negotiate $\rightarrow$ Purchase $\rightarrow$ Install $\rightarrow$ Operate $\rightarrow$ Maintain $\rightarrow$ Dispose.
+- **The Chain:** Search → Negotiate → Purchase → Install → Operate → Maintain → Dispose.
 - **Diagnostic Axes:** Evaluate friction across four distinct dimensions at every link:
   1. Functional (task difficulty)
   2. Economic (time and financial costs)
@@ -131,7 +131,7 @@ flowchart TD
 ### Model 9: Business Architecture Symbiosis
 - **Core Principle:** A breakthrough technology with a validated customer need will still fail if its business architecture is incomplete or misaligned.
 - **Governing Equation:**
-  $$\text{Business Architecture} = \underbrace{\text{Business Model}}_{\text{Value Creation \& Capture}} + \underbrace{\text{Operating Model}}_{\text{Value Delivery: Structure, Capabilities, Assets}}$$
+  $$\text{Business Architecture} = \underbrace{\text{Business Model}}_{\text{Value Creation and Capture}} + \underbrace{\text{Operating Model}}_{\text{Value Delivery: Structure, Capabilities, Assets}}$$
 - **The Xerox PARC Lesson:** Xerox PARC invented the graphical user interface, the mouse, Ethernet, and laser printing, but failed commercially because they lacked the business architecture that Apple and Microsoft built to monetize and deliver those capabilities.
 
 ---

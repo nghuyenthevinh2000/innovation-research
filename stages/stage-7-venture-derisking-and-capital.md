@@ -46,7 +46,7 @@ flowchart TD
 
 1. **Architect for Negative Working Capital:** Structure customer contracts with upfront annual payments, advance milestone deposits, or hardware reservation fees to fund development organically.
 2. **Formulate the Killer Discriminating Experiment:** Identify the single assumption that, if false, decisively kills the business; design an experiment to test it immediately before spending capital on secondary features.
-3. **Sequence Non-Dilutive Capital (SBIR/STTR):** Secure federal Phase I ($\sim\$250\text{k}$) and Phase II ($\sim\$1.5\text{M}$) grants for exploratory TRL development while guarding against founder compliance distraction.
+3. **Sequence Non-Dilutive Capital (SBIR/STTR):** Secure federal Phase I (~ \$250k) and Phase II (~ \$1.5M) grants for exploratory TRL development while guarding against founder compliance distraction.
 4. **Negotiate Balanced Capital Rights:** Distinguish between **Cash Flow Rights** (liquidation preferences, participating preferred shares) and **Control Rights** (board seats, veto thresholds over subsequent financings).
 
 ---

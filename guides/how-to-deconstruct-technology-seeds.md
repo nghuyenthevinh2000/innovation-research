@@ -16,9 +16,9 @@
 1. Write out the current description of your technology in 1–2 paragraphs.
 2. Circle all domain-specific nouns, proprietary material names, and industry jargon (e.g., *"nanoporous graphene oxide"*, *"hydrocarbon gas stream"*, *"desalination"*, *"oncology CT"*).
 3. Replace all circled terms with generic physical terms:
-   - *"Graphene membrane"* $\rightarrow$ *Porous physical barrier*
-   - *"Hydrocarbon gas"* $\rightarrow$ *Multi-component fluid stream*
-   - *"CT volumetric scan"* $\rightarrow$ *3D visual array*
+   - *"Graphene membrane"* → *Porous physical barrier*
+   - *"Hydrocarbon gas"* → *Multi-component fluid stream*
+   - *"CT volumetric scan"* → *3D visual array*
 
 ---
 
@@ -37,7 +37,7 @@ Express what the technology *does* as active verbs acting upon physical targets.
 ## Step 3: Identify the Main Parameter of Value (MPV)
 
 Define the physical ratio of utility to cost:
-$$\text{MPV} = \frac{\text{Primary Performance Metric (e.g., Liters/sec, Accuracy %, Megawatts)}}{\text{Total Cost of Ownership (e.g., CapEx, Power consumption, Maintenance)}}$$
+$$\text{MPV} = \frac{\text{Primary Performance Metric (e.g., Liters/sec, Accuracy, Megawatts)}}{\text{Total Cost of Ownership (e.g., CapEx, Power consumption, Maintenance)}}$$
 
 Identify the 1 non-negotiable metric where your seed delivers an order-of-magnitude (10x) advantage.
 
@@ -64,7 +64,7 @@ Compile your findings into a decision table:
 
 | Universal Function | Adjacent Industry Vertical | Current Industry Workaround | Advantage of Your Seed (MPV) |
 |---|---|---|---|
-| *Separates fluid at ambient temp* | Pulp & Paper Processing | High-energy thermal boiling ($2.5B cost) | 90% reduction in thermal energy consumption |
+| *Separates fluid at ambient temp* | Pulp & Paper Processing | High-energy thermal boiling (\$2.5B cost) | 90% reduction in thermal energy consumption |
 | *Separates fluid at ambient temp* | Dairy Whey Protein Concentration | Reverse osmosis filters that foul easily | 5x longer filter lifespan without clogging |
 | *Separates fluid at ambient temp* | Biofuel Algae Dewatering | Centrifugal mechanical drying | 80% lower operational electrical draw |
 

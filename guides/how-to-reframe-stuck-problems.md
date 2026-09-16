@@ -6,7 +6,7 @@
 
 ## Prerequisites & Goal
 
-- **Prerequisites:** An engineering, scientific, or commercialization roadblock where incremental optimization has stalled for $>2$ weeks.
+- **Prerequisites:** An engineering, scientific, or commercialization roadblock where incremental optimization has stalled for > 2 weeks.
 - **Goal:** Transform an intractable problem representation into an orthogonal coordinate system that reveals immediate solution pathways.
 
 ---
@@ -54,7 +54,7 @@ If internal cross-domain exploration fails, broadcast the challenge to an open s
 2. **Define the Abstract Function:**
    - *Bad:* *"How can Colgate prevent fine fluoride dust from blowing away in our New Jersey packaging plant?"*
    - *Good:* *"Seeking methods to impart a localized temporary electrostatic charge to dry submicron particulates traveling through high-velocity air nozzles."*
-3. **Specify Objective Evaluation Criteria:** State exact numerical metrics (e.g., must settle 99% of dust in $<2$ seconds without altering chemical pH).
+3. **Specify Objective Evaluation Criteria:** State exact numerical metrics (e.g., must settle 99% of dust in < 2 seconds without altering chemical pH).
 4. **Offer Tiered Solvers Incentives:** Establish a prize structure rewarding novel P-H pairs rather than incremental improvements.
 
 ---

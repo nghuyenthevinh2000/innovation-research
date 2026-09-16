@@ -62,7 +62,7 @@
 ---
 
 ### Stage 6: Empirical Customer Validation & Deep-Tech MVPs
-- [ ] **6.1 The 100-Interview Funnel:** Interviewed $\ge 100$ industry practitioners (specifically strangers). *(Score: 0–3)*
+- [ ] **6.1 The 100-Interview Funnel:** Interviewed ≥ 100 industry practitioners (specifically strangers). *(Score: 0–3)*
 - [ ] **6.2 The Mom Test Adherence:** Investigated past customer behaviors and budgets without hypothetical pitching. *(Score: 0–3)*
 - [ ] **6.3 Deep-Tech MVP Testing:** Deployed a Simulated (Wizard of Oz) or Prototypical MVP to test workflow trust. *(Score: 0–3)*
 - *Subtotal Stage 6:* `[  / 9]`

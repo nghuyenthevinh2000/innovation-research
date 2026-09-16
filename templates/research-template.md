@@ -11,7 +11,7 @@
 | **Primary Innovation Stage** | Stage 1 (Discovery) / Stage 2 (Representation) / Stage 3 (Needs-Seeds) / Stage 4 (Architecture) / Stage 5 (Readiness) / Stage 6 (Validation) / Stage 7 (Capital) / Stage 8 (Scaling) |
 | **Current TRL** | TRL 1–3 (Laboratory Proof-of-Concept) / TRL 4–6 (Simulated / Field Environment) / TRL 7–9 (Commercial Scale) |
 | **Primary Mental Models Applied** | `[[Biological Evolution of Ideas]]`, `[[P-H Search Space]]`, `[[Functional Thinking]]`, `[[10x Imperative]]`, `[[The Firm as a Cash Engine]]` |
-| **Governing Main Parameters of Value (MPVs)** | 1. [Metric 1, e.g., Speed <5s] <br> 2. [Metric 2, e.g., Cost <$10/unit] |
+| **Governing Main Parameters of Value (MPVs)** | 1. [Metric 1, e.g., Speed <5s] <br> 2. [Metric 2, e.g., Cost < \$10/unit] |
 | **Target Customer Job-to-Be-Done** | [Core functional / operational goal customer seeks to accomplish] |
 | **Research Date & Lead Investigator** | YYYY-MM-DD \| [Author / Research Team] |
 
@@ -109,9 +109,9 @@ flowchart TD
 - **Staged Milestone Financing Ladder:**
   | Milestone Round | Capital Required | Discriminating Milestone Unlocked | Valuation Step-Up Target |
   |---|---|---|---|
-  | **Pre-Seed / Non-Dilutive** | $\$250\text{k}$ (SBIR Phase I) | TRL 4 component validation | Foundation set |
-  | **Seed Round** | $\$1.5\text{M}$ (Angel / Seed VC) | Wizard of Oz pilot with 3 paid LOIs | $\$8\text{M}–\$10\text{M}$ cap |
-  | **Series A** | $\$6.0\text{M}$ (Institutional Syndicate) | Regulatory clearance & commercial scale | $\$25\text{M}–\$35\text{M}$ post |
+  | **Pre-Seed / Non-Dilutive** | \$250k (SBIR Phase I) | TRL 4 component validation | Foundation set |
+  | **Seed Round** | \$1.5M (Angel / Seed VC) | Wizard of Oz pilot with 3 paid LOIs | \$8M–\$10M cap |
+  | **Series A** | \$6.0M (Institutional Syndicate) | Regulatory clearance & commercial scale | \$25M–\$35M post |
 
 ---
 

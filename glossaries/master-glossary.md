@@ -155,7 +155,7 @@
 ### `Main Parameters of Value (MPV)`
 - **Aliases:** `Main Parameters of Value`, `MPV Analysis`, `Key Parameters of Value`, `MPV`
 - **Definition:** The critical 1–2 quantifiable performance or economic metrics that govern customer purchase decisions.
-- **Formula:** $\text{Value} = \frac{\text{Perceived Utility / Performance}}{\text{Total Cost of Acquisition \& Ownership}}$
+- **Formula:** $\text{Value} = \frac{\text{Perceived Utility / Performance}}{\text{Total Cost of Acquisition and Ownership}}$
 - **Criteria:** Must be **Main** (decisive, non-negotiable), **Parameter** (objectively measurable in physical or monetary units), and **Value** (delivers high ROI).
 - **Related Terms:** [[Functional Analysis for Seeds]], [[Jobs-to-Be-Done]].
 
@@ -181,7 +181,7 @@
 
 ### `Customer Activity Chain`
 - **Aliases:** `Linkages-Driven Innovation`, `Activity Chain`, `Customer Journey Map`
-- **Definition:** The sequential end-to-end journey of operational actions a customer executes to achieve an outcome (e.g., Search $\rightarrow$ Evaluate $\rightarrow$ Purchase $\rightarrow$ Install $\rightarrow$ Operate $\rightarrow$ Maintain $\rightarrow$ Dispose).
+- **Definition:** The sequential end-to-end journey of operational actions a customer executes to achieve an outcome (e.g., Search → Evaluate → Purchase → Install → Operate → Maintain → Dispose).
 - **Originator:** Prof. Vish Krishnan (*Linkages-Driven Innovation*).
 - **Analytical Vector:** Analyzes functional, economic, informational, and emotional friction at every single link.
 - **Related Terms:** [[Linkages-Driven Innovation]], [[ODI]].
@@ -339,7 +339,7 @@
 
 ### `The Lemonade Stand Model`
 - **Aliases:** `Lemonade Stand Thought Experiment`, `Three Payment Architectures`
-- **Definition:** Ramana Nanda's foundational thought experiment illustrating how business models dictate external financing needs: Model 1 (Cash-on-Delivery: $\$100$ initial capital); Model 2 (Net-30 Invoice / Accounts Receivable: requires $\$3,000$ working capital debt/equity); Model 3 (Negative Working Capital / Pre-orders: $\$0$ external capital required).
+- **Definition:** Ramana Nanda's foundational thought experiment illustrating how business models dictate external financing needs: Model 1 (Cash-on-Delivery: \$100 initial capital); Model 2 (Net-30 Invoice / Accounts Receivable: requires \$3,000 working capital debt/equity); Model 3 (Negative Working Capital / Pre-orders: \$0 external capital required).
 - **Lesson:** Accounting profitability does not equal solvency; cash timing dictates venture survival.
 - **Related Terms:** [[The Firm as a Cash Engine]], [[Working Capital Architecture]].
 
@@ -366,7 +366,7 @@
 ### `Non-Dilutive Capital (SBIR / STTR Grants)`
 - **Aliases:** `[[Founder Bandwidth, Non-Dilutive SBIR Grants, and Advanced Customer Commitments]]`, `SBIR Grants`, `STTR Grants`, `Non-Dilutive Capital`
 - **Definition:** Government research grants (e.g., Small Business Innovation Research) that fund high-risk exploratory technical feasibility without taking founder equity or board control seats.
-- **Phase Sequence:** Phase I (Feasibility / proof-of-concept, $\sim\$150\text{k}–\$300\text{k}$) $\rightarrow$ Phase II (Full prototype / commercialization readiness, $\sim\$1\text{M}–\$2\text{M}$) $\rightarrow$ Phase III (Commercial deployment via DoD/agency procurement).
+- **Phase Sequence:** Phase I (Feasibility / proof-of-concept, ~\$150k–\$300k) → Phase II (Full prototype / commercialization readiness, ~\$1M–\$2M) → Phase III (Commercial deployment via DoD/agency procurement).
 - **The Founder Bandwidth Dilemma:** Grants require intensive compliance reporting; pursuing grants misaligned with commercial GTM drains vital founder bandwidth.
 - **Related Terms:** [[Advanced Customer Commitments]], [[Cash Engine]].
 
@@ -389,8 +389,8 @@
 
 ### `The Power Law ("The Hits Business")`
 - **Aliases:** `Power Law Returns`, `The Hits Business`, `Venture Return Distribution`
-- **Definition:** The mathematical distribution governing venture capital returns, where a tiny minority of investments ($\sim 5\%$) generate the overwhelming majority ($\sim 80\%+$) of total fund profits.
-- **Implication:** Institutional VCs cannot invest in modest $\$30\text{M}–\$50\text{M}$ outcomes; every portfolio company must have the theoretical potential to return the entire fund ($>\$1\text{B}$ outcome).
+- **Definition:** The mathematical distribution governing venture capital returns, where a tiny minority of investments (~5%) generate the overwhelming majority (~80%+) of total fund profits.
+- **Implication:** Institutional VCs cannot invest in modest \$30M–\$50M outcomes; every portfolio company must have the theoretical potential to return the entire fund (> \$1B outcome).
 - **Related Terms:** [[10-Year Fund Lifecycle]], [[Institutional Venture Capital]].
 
 ### `10-Year Fund Lifecycle`

@@ -9,7 +9,7 @@
 Stage 8 governs the formal transition from an exploratory project into a scaled corporate entity. It addresses institutional friction: spinning IP out of universities, navigating accelerator dynamics, structuring investor syndicates, and fighting standards wars to achieve market dominance.
 
 > [!QUOTE] The Syndicate Reality
-> *"You've got all your eggs in that one basket. The VC has a portfolio. What your definition of success is can be very different from your investor's. You might feel a $50M exit is transformational; the VC might see that as a failure because they need a billion-dollar outcome to return their fund."*
+> *"You've got all your eggs in that one basket. The VC has a portfolio. What your definition of success is can be very different from your investor's. You might feel a \$50M exit is transformational; the VC might see that as a failure because they need a billion-dollar outcome to return their fund."*
 > — Prof. Ramana Nanda (Harvard Business School)
 
 ```mermaid
@@ -33,7 +33,7 @@ flowchart LR
 ## 2. Key Concepts & Definitions
 
 - **Tech Transfer Office (TTO) Pitfalls:** Hazards in university licensing: aggressive upfront cash demands, excessive gross revenue royalty drag (5–10%), unassigned patent claims, and toxic cap tables (passive lab professors owning 40%+ of equity).
-- **The Power Law ("The Hits Business"):** Institutional VC portfolio math where ~5% of investments generate ~80% of aggregate returns. Funds cannot support modest lifestyle exits; every investment must hold theoretical potential to return the fund ($>\$1\text{B}$).
+- **The Power Law ("The Hits Business"):** Institutional VC portfolio math where ~5% of investments generate ~80% of aggregate returns. Funds cannot support modest lifestyle exits; every investment must hold theoretical potential to return the fund (> \$1B).
 - **The 10-Year Fund Lifecycle:**
   - *Years 1–3:* Capital deployment into initial portfolio companies.
   - *Years 4–7:* Follow-on capital reserved for top performers; triage of underperformers.

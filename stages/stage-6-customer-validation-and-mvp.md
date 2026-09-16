@@ -50,7 +50,7 @@ flowchart LR
 
 1. **Execute the 100-Interview Discovery Sprint:** Map the target vertical's multi-stakeholder ecosystem (users, economic buyers, IT/compliance gatekeepers, regulatory influencers).
 2. **Eliminate Hypothetical Pitching:** Ban slide decks in early discovery meetings; conduct open-ended inquiries into existing operational workarounds.
-3. **Build a Simulated MVP (Wizard of Oz):** Before spending $2M on machine learning training or custom hardware tooling, manually simulate the output delivery to test customer integration and willingness to pay.
+3. **Build a Simulated MVP (Wizard of Oz):** Before spending \$2M on machine learning training or custom hardware tooling, manually simulate the output delivery to test customer integration and willingness to pay.
 4. **Extract Economic Commitments:** Measure validation not by verbal praise, but by economic sacrifice: letters of intent (LOIs), prepayments, access to proprietary test data, or pilot deposits.
 
 ---
@@ -59,7 +59,7 @@ flowchart LR
 
 ```mermaid
 flowchart TD
-    Q1{"Is full technical development<br/>feasible within 4 weeks and <$10k?"}
+    Q1{"Is full technical development<br/>feasible within 4 weeks and < \$10k?"}
     
     Q1 -- Yes --> M3["<b>Deploy Prototypical MVP</b><br/>Functional benchtop device in customer pilot"]
     Q1 -- No --> Q2{"Can backend automation be<br/>simulated by human operators?"}

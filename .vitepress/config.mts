@@ -7,6 +7,9 @@ export default withMermaid(
     description: "Lab-to-Market Documentation Hub & Operational Engine",
     base: process.env.BASE_URL || (process.env.GITHUB_ACTIONS ? '/innovation-research/' : '/'),
     ignoreDeadLinks: true,
+    markdown: {
+      math: true
+    },
     themeConfig: {
       siteTitle: "Innovation Hub",
       nav: [
