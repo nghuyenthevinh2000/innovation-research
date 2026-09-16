@@ -72,4 +72,4 @@ Compile your findings into a decision table:
 
 ## Expected Result
 
-You now have 3 validated, non-obvious commercial application hypotheses that break representational inertia, ready for customer discovery in [**Stage 3**](../stages/stage-3-needs-seeds-synchronization.md).
+You now have 3 validated, non-obvious commercial application hypotheses that break representational inertia, ready for customer discovery and synchronization in [**Stage 2: Technology-Market Fit**](../stages/stage-2-technology-market-fit.md).

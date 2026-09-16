@@ -1,12 +1,12 @@
 # Actionable Canvases & Diagnostic Worksheets
 
-> **Standardized Worksheets and Templates for Structuring Innovation Projects Across the 7 Stages**
+> **Standardized Worksheets and Templates for Structuring Innovation Projects Across the 6 Stages**
 
 ---
 
 ## Canvas 1: The Perspective-Heuristic (P-H) Search Canvas
 
-*Use in Stage 2 to re-represent an intractable technical or commercial problem.*
+*Use in Stage 2 (Technology-Market Fit) to re-represent an intractable technical or commercial problem.*
 
 - **Project / Technology Name:** [Name]
 - **Current Native Domain Representation:** [e.g., Synthetic biology wet-lab protein folding]
@@ -26,7 +26,7 @@
 
 ## Canvas 2: Universal Functional Analysis (S-A-O) Worksheet
 
-*Use in Stage 3 to deconstruct proprietary technology into universal functions (Dr. Sam Kogan).*
+*Use in Stage 2 (Technology-Market Fit) to deconstruct proprietary technology into universal functions (Dr. Sam Kogan).*
 
 - **Proprietary Artifact Description:** [e.g., Nanoporous ceramic gas separation membrane]
 
@@ -50,7 +50,7 @@
 
 ## Canvas 3: Customer Activity Chain & Linkages Worksheet
 
-*Use in Stage 3 to map customer friction across the full operational journey (Prof. Vish Krishnan).*
+*Use in Stage 2 (Technology-Market Fit) to map customer friction across the full operational journey (Prof. Vish Krishnan).*
 
 - **Target Customer Archetype:** [e.g., Hospital Head of Emergency Medicine]
 - **Core Job-to-Be-Done:** [Rapid, accurate triage of acute polytrauma patients]
@@ -69,7 +69,7 @@
 
 ## Canvas 4: Business Architecture Alignment Canvas
 
-*Use in Stage 4 to verify harmony between the Business Model and Operating Model.*
+*Use in Stage 3 to verify harmony between the Business Model and Operating Model.*
 
 ### Pillar I: Business Model
 - **Value Creation Strategy:** [Differentiation / Cost Advantage / Network Effects]
@@ -99,7 +99,7 @@
 
 ## Canvas 5: Cloverleaf Due Diligence Diagnostic Canvas
 
-*Use in Stage 5 to stress-test the venture across all four leaves before fundraising.*
+*Use in Stage 4 to stress-test the venture across all four leaves before fundraising.*
 
 *Scoring: 1 (Fatal Deficiency / Unresolved) to 5 (Defensible / Independently Validated)*
 
@@ -120,7 +120,7 @@
 
 ## Canvas 6: Deep-Tech MVP & Killer Experiment Canvas
 
-*Use in Stage 5 & 6 to isolate and invalidate existential market and financial risks.*
+*Use in Stage 4 & 5 to isolate and invalidate existential market and financial risks.*
 
 - **Existential Venture Hypothesis:** [e.g., Radiologists will trust and adopt AI preliminary triage findings during overnight emergency shifts without re-reading all negative scans]
 
@@ -147,7 +147,7 @@
 
 ## Canvas 7: Cash Engine & Working Capital Calculator
 
-*Use in Stage 6 to model the Cash Conversion Cycle (Prof. Ramana Nanda).*
+*Use in Stage 5 to model the Cash Conversion Cycle (Prof. Ramana Nanda).*
 
 ### Parameters
 - **Daily Operating Burn / Cost of Goods Sold (COGS):** \$ [ ______ ] / day

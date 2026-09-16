@@ -336,6 +336,6 @@ Structure every capital tranche around a **Discriminating Experiment** (The "Kil
 ---
 
 ## 6. Cross-References & Related Documentation
-- [Stage 6: Venture De-Risking & Capital Architecture](../stages/stage-6-venture-derisking-and-capital.md)
+- [Stage 5: Venture De-Risking & Capital Architecture](../stages/stage-5-venture-derisking-and-capital.md)
 - [Multi-Criteria Decision Matrices](./decision-matrices.md)
 - [Actionable Canvases & Diagnostic Worksheets](./canvases-and-worksheets.md)

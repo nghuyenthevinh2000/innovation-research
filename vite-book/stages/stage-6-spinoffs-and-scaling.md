@@ -1,4 +1,4 @@
-# Stage 7: Accelerators, Spin-Offs & Syndicate Governance
+# Stage 6: Accelerators, Spin-Offs & Syndicate Governance
 
 > **Phase Focus:** Tech Transfer Office (TTO) Licensing, Accelerator Sprints, VC Power Law Alignment, Syndicate Signaling Dynamics, and Standards Battles.
 
@@ -6,7 +6,7 @@
 
 ## 1. Stage Objective & Theoretical Foundation
 
-Stage 7 governs the formal transition from an exploratory project into a scaled corporate entity. It addresses institutional friction: spinning IP out of universities, navigating accelerator dynamics, structuring investor syndicates, and fighting standards wars to achieve market dominance.
+Stage 6 governs the formal transition from an exploratory project into a scaled corporate entity. It addresses institutional friction: spinning IP out of universities, navigating accelerator dynamics, structuring investor syndicates, and fighting standards wars to achieve market dominance.
 
 > **The Syndicate Reality**  
 > *"You've got all your eggs in that one basket. The VC has a portfolio. What your definition of success is can be very different from your investor's. You might feel a \$50M exit is transformational; the VC might see that as a failure because they need a billion-dollar outcome to return their fund."*  
@@ -38,6 +38,10 @@ flowchart LR
   - *Years 1–3:* Capital deployment into initial portfolio companies.
   - *Years 4–7:* Follow-on capital reserved for top performers; triage of underperformers.
   - *Years 8–10:* Asset liquidation, M&A exits, or IPOs to return cash to Limited Partners (LPs).
+- **Accelerators:** Structured programs for startups, typically with a fixed timeframe, within which individual firms work to develop a concept for a business, working with mentors and advisors. Accelerators draw on a large network of advisors whom they match with entrepreneurs. Startups often present their concepts and prototypes to a group of investors on a Demo or Demonstration Day. Often accelerators serve startups that have moved beyond the idea stage. The first program to use this term was YCombinator. They are distinct from incubators.
+- **Platforms:** A multi-faced organizational structure that allows for transactions and dialogue between a variety of stakeholders for any purpose (e.g., Facebook connecting firms, advertisers, individuals, political and social groups and communities, and researchers).
+- **Seed Funds:** A particular kind of capital provider for startups, structured similarly to venture capital funds, but investing in companies that may be at an earlier stage than the stage at which traditional venture capital firms would invest.
+- **Illiquid Investment:** Any investment that may not be easily tradable for cash due to any reason (e.g., typical equity investments in early-stage startups that remain illiquid because there are not yet enough buyers for that equity stake until an exit occurs).
 - **Investor Syndicate Dynamics & Signaling Risk:** Co-investing with multiple VC firms. If an insider lead investor fails to participate in a subsequent financing round, it triggers severe **signaling risk** that can freeze outside capital.
 - **Standards War:** A high-stakes commercial battle where competing technological architectures contest de facto industry standard status (e.g., Qualcomm CDMA vs. TDMA/GSM).
 
@@ -61,7 +65,7 @@ flowchart LR
 
 ---
 
-## 5. Stage Gate 7: Venture Graduation Checklist
+## 5. Stage Gate 6: Venture Graduation Checklist
 
 To achieve sustainable scale and corporate autonomy:
 - [ ] Fully executed, clean **TTO License Agreement** with no onerous gross royalty penalties.

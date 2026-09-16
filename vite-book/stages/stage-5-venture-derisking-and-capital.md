@@ -1,4 +1,4 @@
-# Stage 6: Venture De-Risking & Capital Architecture
+# Stage 5: Venture De-Risking & Capital Architecture
 
 > **Phase Focus:** The Firm as a Cash Engine, Working Capital Optimization, Killer Discriminating Experiments, Staged Financing, and Capital Taxonomy.
 
@@ -6,7 +6,7 @@
 
 ## 1. Stage Objective & Theoretical Foundation
 
-Raising external venture capital is not a badge of honor; institutional equity is the most expensive and restrictive capital instrument in existence. Stage 6 architects the venture's financial engine to minimize external dilution, compress the cash conversion cycle, and structure capital deployment around **hypothesis-driven discriminating milestones**.
+Raising external venture capital is not a badge of honor; institutional equity is the most expensive and restrictive capital instrument in existence. Stage 5 architects the venture's financial engine to minimize external dilution, compress the cash conversion cycle, and structure capital deployment around **hypothesis-driven discriminating milestones**.
 
 > **The Entrepreneurial Finance Principle**  
 > *"Raising external finance from a venture capital investor is really not necessarily a badge of honor. You do it when all other sources of capital are not feasible, because venture capital is very expensive."*  
@@ -36,6 +36,7 @@ flowchart TD
   - *Model 3 (Negative Working Capital / Pre-orders):* Needs \$0 external capital; customer prepayments fund growth.
 - **Discriminating Experiment (The Killer Experiment):** The cheapest, fastest empirical test designed to decisively invalidate a core venture hypothesis.
 - **Staged Financing (Milestone Financing):** Capitalizing the company in discrete tranches tied to technical/regulatory milestones rather than funding the entire multi-year plan upfront.
+- **Equity:** The value of the total shares of ownership in a company. Equity shares can be held through various types of shares, such as common stock (which is what is traded in public markets), preferred stock, and other share classes.
 - **Debt vs. Equity Risk Asymmetry:**
   - *Debt:* Capped upside (principal + interest), full downside risk; requires predictable cash flow and liquid collateral.
   - *Equity:* Uncapped upside, full downside risk; tolerates binary outcomes and intangible assets.
@@ -75,11 +76,10 @@ flowchart TD
 
 ---
 
-## 5. Stage Gate 6: Exit Deliverables
+## 5. Stage Gate 5: Exit Deliverables
 
-Before advancing to [**Stage 7: Accelerators, Spin-Offs & Syndicate Governance**](./stage-7-spinoffs-and-scaling.md), the venture must possess:
+Before advancing to [**Stage 6: Accelerators, Spin-Offs & Syndicate Governance**](./stage-6-spinoffs-and-scaling.md), the venture must possess:
 - [ ] Documented **Working Capital Architecture** with optimized CCC metrics and cash engine model.
 - [ ] Completed **Killer Discriminating Experiment** proving the core technical/market hypothesis.
 - [ ] Formulated **Capital Instrument Selection & Staged Financing Plan** adhering to the [Five Different Capital Types](../structures/five-different-capital-types.md).
 - [ ] Term sheet review strategy balancing cash flow rights (liquidation preferences) with protective control provisions (board seats, vetoes, and down-round protections).
-

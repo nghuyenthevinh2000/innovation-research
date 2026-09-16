@@ -13,7 +13,7 @@ It provides four foundational pillars:
 1. **Semantic Rigor (Glossaries System):** A curated master lexicon of 60+ innovation terms with an automated Python coverage linter to detect missing glossaries and terminology gaps.
 2. **Cognitive Clarity (Mental Models):** A catalog of 17 governing mental models, mathematical formulas, axioms, and 14 diagnostic failure modes/anti-patterns.
 3. **Operational Discipline (Innovation Structures):** Practical decision canvases, multi-criteria matrices, and worksheets to structure commercialization.
-4. **Lifecycle Staging (7 Stages of Innovation):** An end-to-end stage-gate architecture spanning benchtop discovery to institutional VC syndicates and category standards.
+4. **Lifecycle Staging (6 Stages of Innovation):** An end-to-end stage-gate architecture spanning benchtop discovery to institutional VC syndicates and category standards.
 
 ---
 
@@ -32,7 +32,7 @@ flowchart TD
     subgraph Theoretical["THEORETICAL MASTERY (Information & Understanding)"]
         direction LR
         Ref["<b>Reference (Information-Oriented)</b><br/>• Master Glossary Registry<br/>• Mental Models Catalog<br/>• Canvases & Worksheets<br/>• Decision Matrices"]
-        Exp["<b>Explanations (Understanding-Oriented)</b><br/>• 7 Lifecycle Stage Deep Dives<br/>• Cognitive Traps & Biases<br/>• Case Studies (Qualcomm, Moderna)"]
+        Exp["<b>Explanations (Understanding-Oriented)</b><br/>• 6 Lifecycle Stage Deep Dives<br/>• Cognitive Traps & Biases<br/>• Case Studies (Qualcomm, Moderna)"]
     end
 
     Learning ~~~ Theoretical
@@ -40,38 +40,36 @@ flowchart TD
 
 | Diátaxis Quadrant | User Orientation | Repository Directory & Core Artifacts |
 |---|---|---|
-| **Tutorials** | *Learning by Doing* | [**`stages/index.md`**](./stages/index.md) (Step-by-step navigation of the 7 stages of commercialization). |
+| **Tutorials** | *Learning by Doing* | [**`stages/index.md`**](./stages/index.md) (Step-by-step navigation of the 6 stages of commercialization). |
 | **How-To Guides** | *Problem Solving* | [**`guides/`**](./guides/) (Actionable playbooks: functional deconstruction, P-H reframing, killer experiments, alignment audit, glossary auditing). |
 | **Reference** | *Fact Lookup* | [**`glossaries/master-glossary.md`**](./glossaries/master-glossary.md), [**`mental-models/mental-models-catalog.md`**](./mental-models/mental-models-catalog.md), [**`structures/`**](./structures/). |
 | **Explanations** | *Conceptual Context* | [**`stages/stage-*.md`**](./stages/), [**`mental-models/cognitive-traps-and-anti-patterns.md`**](./mental-models/cognitive-traps-and-anti-patterns.md). |
 
 ---
 
-## 🔄 The 7 Stages of Lab-to-Market Translation
+## 🔄 The 6 Stages of Lab-to-Market Translation
 
 ```mermaid
 flowchart LR
-    S1["<b>Stage 1</b><br/>Discovery & Seeds"] --> S2["<b>Stage 2</b><br/>Problem Framing"]
-    S2 --> S3["<b>Stage 3</b><br/>Needs-Seeds Sync"]
-    S3 --> S4["<b>Stage 4</b><br/>Business Architecture"]
-    S4 --> S5["<b>Stage 5</b><br/>Market Assessment & MVPs"]
-    S5 --> S6["<b>Stage 6</b><br/>De-Risking & Capital"]
-    S6 --> S7["<b>Stage 7</b><br/>Spin-Offs & Scaling"]
+    S1["<b>Stage 1</b><br/>Discovery & Seeds"] --> S2["<b>Stage 2</b><br/>Technology-Market Fit"]
+    S2 --> S3["<b>Stage 3</b><br/>Business Architecture"]
+    S3 --> S4["<b>Stage 4</b><br/>Market Assessment & MVPs"]
+    S4 --> S5["<b>Stage 5</b><br/>De-Risking & Capital"]
+    S5 --> S6["<b>Stage 6</b><br/>Spin-Offs & Scaling"]
 
-    S5 -.->|"Disconfirming feedback"| S3
-    S5 -.->|"FTO / channel block"| S4
-    S6 -.->|"Failed killer experiment"| S2
+    S4 -.->|"Disconfirming feedback"| S2
+    S4 -.->|"FTO / channel block"| S3
+    S5 -.->|"Failed killer experiment"| S2
 ```
 
 | Stage | Title | Core Focus & Theoretical Anchor | Guide |
 |:---:|---|---|:---:|
 | **1** | **Discovery & Seeds** | TRL 1–3 proof-of-concept; avoiding the invention-centric trap. | [`stage-1-discovery-and-seeds.md`](./stages/stage-1-discovery-and-seeds.md) |
-| **2** | **Problem Representation** | Framing search spaces using Perspective-Heuristic (P-H) pairs & Magic Square. | [`stage-2-problem-framing-and-ph.md`](./stages/stage-2-problem-framing-and-ph.md) |
-| **3** | **Needs-Seeds Sync** | Functional analysis (Sam Kogan) & Customer Activity Chains (Vish Krishnan). | [`stage-3-needs-seeds-synchronization.md`](./stages/stage-3-needs-seeds-synchronization.md) |
-| **4** | **Business Architecture** | Aligning Business Model (Value Creation/Capture) with Operating Model. | [`stage-4-business-architecture.md`](./stages/stage-4-business-architecture.md) |
-| **5** | **Market Assessment & MVPs** | Cloverleaf due diligence, FTO clearance, 100-interview funnel & deep-tech MVP probing. | [`stage-5-market-assessment-and-mvp.md`](./stages/stage-5-market-assessment-and-mvp.md) |
-| **6** | **De-Risking & Capital** | The firm as a cash engine (CCC), killer experiments, and staged financing. | [`stage-6-venture-derisking-and-capital.md`](./stages/stage-6-venture-derisking-and-capital.md) |
-| **7** | **Spin-Offs & Scaling** | Clean TTO IP assignment, accelerator sprints, VC syndicates & standards wars. | [`stage-7-spinoffs-and-scaling.md`](./stages/stage-7-spinoffs-and-scaling.md) |
+| **2** | **Technology-Market Fit** | Framing search spaces via P-H pairs, functional deconstruction (S-A-O) & customer activity chains. | [`stage-2-technology-market-fit.md`](./stages/stage-2-technology-market-fit.md) |
+| **3** | **Business Architecture** | Aligning Business Model (Value Creation/Capture) with Operating Model. | [`stage-3-business-architecture.md`](./stages/stage-3-business-architecture.md) |
+| **4** | **Market Assessment & MVPs** | Cloverleaf due diligence, FTO clearance, 100-interview funnel & deep-tech MVP probing. | [`stage-4-market-assessment-and-mvp.md`](./stages/stage-4-market-assessment-and-mvp.md) |
+| **5** | **De-Risking & Capital** | The firm as a cash engine (CCC), killer experiments, and staged financing. | [`stage-5-venture-derisking-and-capital.md`](./stages/stage-5-venture-derisking-and-capital.md) |
+| **6** | **Spin-Offs & Scaling** | Clean TTO IP assignment, accelerator sprints, VC syndicates & standards wars. | [`stage-6-spinoffs-and-scaling.md`](./stages/stage-6-spinoffs-and-scaling.md) |
 
 ---
 
@@ -135,12 +133,11 @@ innovation-research/
 │   ├── stages/                                  # Innovation Lifecycle Stages (Explanations & Tutorials)
 │   │   ├── index.md                             # Lifecycle map & stage-gate progression matrix
 │   │   ├── stage-1-discovery-and-seeds.md       # Stage 1: Scientific Discovery & Seeds (TRL 1-3)
-│   │   ├── stage-2-problem-framing-and-ph.md    # Stage 2: Problem Representation & P-H Pairs
-│   │   ├── stage-3-needs-seeds-synchronization.md # Stage 3: Needs-Seeds Sync & Functional Analysis
-│   │   ├── stage-4-business-architecture.md     # Stage 4: Business Architecture Design
-│   │   ├── stage-5-market-assessment-and-mvp.md # Stage 5: Market Assessment & Deep-Tech MVPs
-│   │   ├── stage-6-venture-derisking-and-capital.md # Stage 6: Cash Engine & Staged Financing
-│   │   └── stage-7-spinoffs-and-scaling.md      # Stage 7: Spin-Offs, Syndicates & Standards
+│   │   ├── stage-2-technology-market-fit.md     # Stage 2: Technology-Market Fit & Needs-Seeds Synchronization
+│   │   ├── stage-3-business-architecture.md     # Stage 3: Business Architecture Design
+│   │   ├── stage-4-market-assessment-and-mvp.md # Stage 4: Market Assessment & Deep-Tech MVPs
+│   │   ├── stage-5-venture-derisking-and-capital.md # Stage 5: Cash Engine & Staged Financing
+│   │   └── stage-6-spinoffs-and-scaling.md      # Stage 6: Spin-Offs, Syndicates & Standards
 │   ├── glossaries/                              # Glossaries & Lexicon Management (Reference & Tooling)
 │   │   ├── index.md                             # Glossary system portal
 │   │   ├── master-glossary.md                   # Comprehensive 60+ term master glossary

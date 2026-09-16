@@ -1,4 +1,4 @@
-# Stage 5: Market Assessment, Due Diligence & MVP Validation
+# Stage 4: Market Assessment, Due Diligence & MVP Validation
 
 > **Phase Focus:** Multi-Dimensional Market Assessment, The Cloverleaf Framework, TRL 4–6 Milestones, Freedom to Operate (FTO), Incumbent Market Antibodies, The 100-Interview Discovery Funnel, Rob Fitzpatrick's Mom Test Principles, Deep-Tech MVP Archetypes, and Extracting Disconfirming Evidence.
 
@@ -10,7 +10,7 @@ Translating laboratory discoveries and scientific breakthroughs into real-world 
 
 At this critical inflection, traditional market research (such as market size reports, surveys, or pitch presentations) generates fatal false positives. Asking prospective buyers *"Would you buy a product that does X?"* costs them nothing to validate and produces empty verbal praise.
 
-**Stage 5 unifies market assessment and MVP validation into a single uncertainty-reduction engine:**
+**Stage 4 unifies market assessment and MVP validation into a single uncertainty-reduction engine:**
 1. **Structural Due Diligence (The Cloverleaf Model):** Stress-tests the venture across four interdependent vectors—Technology readiness, Market need, Business model defensibility, and Operational execution.
 2. **Qualitative Market Discovery (The 100-Interview Funnel & The Mom Test):** Interrogates authentic past customer behaviors, operational workflows, and budget priorities without hypothetical pitching.
 3. **Empirical Market Probing (Deep-Tech MVPs):** Deploys minimum viable experiential artifacts (Conceptual mockups, Simulated Wizard of Oz platforms, or Prototypical benchtop hardware) not as end-products, but as **instruments of market assessment** to reveal authentic operational friction, measure willingness to pay, and actively hunt for **disconfirming evidence**.
@@ -44,7 +44,7 @@ flowchart TD
         M1 & M2 & M3 --> D["<b>Think-Aloud Protocol</b><br/>Observe authentic workflow friction"]
         D --> E{"Disconfirming Evidence?"}
         E -- Decisively Invalidated --> F["<b>Architectural Pivot</b><br/>Reframe value or operating model"]
-        E -- Validated with LOIs/Deposits --> G["<b>Advance to Stage 6</b><br/>Venture De-Risking & Staged Capital"]
+        E -- Validated with LOIs/Deposits --> G["<b>Advance to Stage 5</b><br/>Venture De-Risking & Staged Capital"]
     end
 
     DueDiligence --> Discovery
@@ -147,9 +147,9 @@ flowchart TD
 
 ---
 
-## 6. Stage Gate 5: Exit Deliverables
+## 6. Stage Gate 4: Exit Deliverables
 
-Before advancing to [**Stage 6: Venture De-Risking & Capital Architecture**](./stage-6-venture-derisking-and-capital.md), the venture must possess:
+Before advancing to [**Stage 5: Venture De-Risking & Capital Architecture**](./stage-5-venture-derisking-and-capital.md), the venture must possess:
 
 - [ ] **Completed Cloverleaf Diagnostic Scorecard:** Verified across all four leaves with zero unresolved fatal red flags.
 - [ ] **Formal Freedom to Operate (FTO) Clearance:** Written legal opinion from patent counsel confirming product commercialization clearance.

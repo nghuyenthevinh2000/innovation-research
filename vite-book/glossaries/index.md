@@ -1,6 +1,7 @@
 # Glossaries & Lexicon Management
 
-> **The Central Terminology & Semantic Architecture Hub for Technology Entrepreneurship**
+> **The Central Terminology & Semantic Architecture Hub for Technology Entrepreneurship**  
+> *Source: HarvardX LBTechX1 — Technology Entrepreneurship: Lab to Market*
 
 ---
 
@@ -24,13 +25,12 @@ This directory houses the complete semantic registry, detection tools, and gover
 
 ## Quick Lookups by Innovation Stage
 
-- [**Core Foundations**](./master-glossary.md#core-foundations): Invention, Innovation, Valley of Death, Emergent Innovation, Reasonableness Trap, Five Big Ideas, Pre-Mortem.
-- [**Stage 1 & 2: Representation & Search**](./master-glossary.md#stage-1--2-problem-representation--cognitive-search): Perspective, Heuristic, Perspective-Heuristic Pairs, Magic Square, Cognitive Diversity, Crowdsourced Search, Open Innovation, Solver Profile.
-- [**Stage 3: Needs-Seeds & Functional Analysis**](./master-glossary.md#stage-3-needs-seeds-synchronization--functional-analysis): Technology Seed, Customer Need, Functional Analysis, Main Parameters of Value (MPV), S-A-O Triad, Jobs-to-Be-Done (JTBD), Outcomes-Driven Innovation (ODI).
-- [**Stage 4: Business Architecture**](./master-glossary.md#stage-4-business-architecture--model-alignment): Business Architecture, Business Model, Value Creation, Value Capture, Operating Model (Structure, Capabilities, Assets).
-- [**Stage 5: Market Assessment & MVPs**](./master-glossary.md#stage-5-market-assessment-due-diligence--deep-tech-mvps): TRL (1–9), Cloverleaf Framework, Freedom to Operate (FTO), Blocking Patents, Market Antibodies, 10x Imperative, 100-Interview Funnel, Customer Validation, Mom Test, Disconfirming Evidence, Conceptual MVP, Simulated MVP (Wizard of Oz), Prototypical MVP, Think-Aloud Protocol.
-- [**Stage 6: Venture De-Risking & Capital**](./master-glossary.md#stage-6-venture-de-risking--capital-architecture): Cash Engine, Cash Conversion Cycle (CCC), Working Capital Architecture, Customer Financing, Lemonade Stand Model, Discriminating Experiments, Staged Financing, Debt Capital, Equity Capital, Dilutive Capital, Non-Dilutive Capital.
-- [**Stage 7: Scaling & Governance**](./master-glossary.md#stage-7-scaling-spin-offs-syndicates--standards): Angel Investors, Family Office, Venture Capital Funds (VC), Exit, Power Law, 10-Year Fund Lifecycle, Investor Syndicates, Signaling Risk, TTO Pitfalls, Standards Wars.
+- [**Core Foundations & Stage 1**](./master-glossary.md#core-foundations): Invention, Innovation, Valley of Death, Emergent Innovation, Reasonableness Trap, Five Big Ideas, Pre-Mortem.
+- [**Stage 2: Technology-Market Fit & Needs-Seeds Synchronization**](./master-glossary.md#stage-2-technology-market-fit--needs-seeds-synchronization): Perspective, Heuristic, Perspective-Heuristic Pairs, Magic Square, Cognitive Diversity, Crowdsourced Search, Open Innovation, Solver Profile, Technology Seed, Customer Need, Accelerated Innovation, Functional Analysis, MPV, S-A-O Triad, Jobs-to-Be-Done (JTBD), Outcomes-Driven Innovation (ODI), Customer Activity Chain.
+- [**Stage 3: Business Architecture & Model Alignment**](./master-glossary.md#stage-3-business-architecture--model-alignment): Business Architecture, Business Model, Value Creation, Value Capture, Operating Model (Structure, Capabilities, Assets).
+- [**Stage 4: Market Assessment, Due Diligence & MVPs**](./master-glossary.md#stage-4-market-assessment-due-diligence--deep-tech-mvps): TRL (1–9), Cloverleaf Framework, Freedom to Operate (FTO), Blocking Patents, Market Antibodies, 10x Imperative, 100-Interview Funnel, Customer Validation, Mom Test, Disconfirming Evidence, Conceptual MVP, Simulated MVP (Wizard of Oz), Prototypical MVP, Think-Aloud Protocol.
+- [**Stage 5: Venture De-Risking & Capital Architecture**](./master-glossary.md#stage-5-venture-de-risking--capital-architecture): Cash Engine, Cash Conversion Cycle (CCC), Working Capital Architecture, Customer Financing, Lemonade Stand Model, Discriminating Experiments, Staged Financing, Debt Capital, Equity, Equity Capital, Dilutive Capital, Non-Dilutive Capital.
+- [**Stage 6: Scaling, Spin-Offs, Syndicates & Standards**](./master-glossary.md#stage-6-scaling-spin-offs-syndicates--standards): Angel Investors, Family Office, Venture Capital Funds (VC), Seed Funds, Illiquid Investment, Exit, Power Law, 10-Year Fund Lifecycle, Investor Syndicates, Signaling Risk, TTO Pitfalls, Accelerators, Platforms, Venture Acceleration, Standards Wars, Go-to-Market Foundations.
 
 ---
 
@@ -50,7 +50,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 | [**`The Late-Joiner Trap`**](./master-glossary.md#the-late-joiner-trap) | An organizational dilemma occurring when a team member joins mid-stream and proposes a compelling alternative hypothesis that challenges sunk investments, causing analytical deadlock. |
 | [**`Pre-Mortem Protocol`**](./master-glossary.md#pre-mortem-protocol) | A structured risk-mitigation exercise developed by psychologist Gary Klein where, prior to committing capital or launching an initiative, the team assumes the venture has failed catastrophically in the future and works backward to identify the most probable failure modes and systemic vulnerabilities. |
 
-### Stage 1 & 2: Problem Representation & Cognitive Search
+### Stage 2: Technology-Market Fit & Needs-Seeds Synchronization
 
 | Term | Quick-Scan Definition |
 |---|---|
@@ -65,11 +65,6 @@ This directory houses the complete semantic registry, detection tools, and gover
 | [**`Open Innovation`**](./master-glossary.md#open-innovation) | The commercial and organizational paradigm establishing that firms can and should use external as well as internal ideas, technologies, and paths to market. |
 | [**`The Boundary Problem`**](./master-glossary.md#the-boundary-problem) | The structural limitation of corporate and academic R&D departments where hiring homogeneity results in internal teams sharing identical mental models, domain jargon, and cognitive blind spots. |
 | [**`Solver Profile`**](./master-glossary.md#solver-profile) | The empirical demographic and cognitive profile of individuals who successfully solve broadcast search innovation challenges. |
-
-### Stage 3: Needs-Seeds Synchronization & Functional Analysis
-
-| Term | Quick-Scan Definition |
-|---|---|
 | [**`Technology Seed (Supply Push)`**](./master-glossary.md#technology-seed-supply-push) | A novel laboratory discovery, material property, proprietary algorithm, or technological capability seeking commercial applications. |
 | [**`Customer Need (Demand Pull)`**](./master-glossary.md#customer-need-demand-pull) | A validated, quantified point of friction, workflow bottleneck, economic loss, or unmet operational objective experienced by end-users in the market. |
 | [**`Accelerated Innovation`**](./master-glossary.md#accelerated-innovation) | The continuous, closed-loop synchronization of supply-side technology seeds with demand-side customer needs. |
@@ -80,7 +75,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 | [**`Outcomes-Driven Innovation (ODI)`**](./master-glossary.md#outcomes-driven-innovation-odi) | A structured customer discovery methodology that defines customer requirements as discrete metrics measuring how users assess value when getting a job done. |
 | [**`Customer Activity Chain`**](./master-glossary.md#customer-activity-chain) | The sequential end-to-end journey of operational actions a customer executes to achieve an outcome (e.g., Search → Evaluate → Purchase → Install → Integrate → Operate → Maintain → Dispose). |
 
-### Stage 4: Business Architecture & Model Alignment
+### Stage 3: Business Architecture & Model Alignment
 
 | Term | Quick-Scan Definition |
 |---|---|
@@ -94,7 +89,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 | [**`Assets (Operating Model)`**](./master-glossary.md#assets-operating-model) | The unique tangible, informational, and intellectual property resources controlled by the venture (e.g., patents, proprietary longitudinal datasets, clinical trials, production tooling). |
 | [**`Architectural Misalignment`**](./master-glossary.md#architectural-misalignment) | A fatal venture flaw where the promises made in the business model cannot be delivered by the structure, capabilities, or assets of the operating model (e.g., promising ultra-low-cost commodity pricing while operating a high-touch, bespoke consulting labor force). |
 
-### Stage 5: Market Assessment, Due Diligence & Deep-Tech MVPs
+### Stage 4: Market Assessment, Due Diligence & Deep-Tech MVPs
 
 | Term | Quick-Scan Definition |
 |---|---|
@@ -117,7 +112,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 | [**`Prototypical MVP`**](./master-glossary.md#prototypical-mvp) | A minimally engineered but functional physical or software artifact deployed in the customer's actual operational environment to test physical reliability, integration hurdles, and workflow fit. |
 | [**`Think-Aloud Protocol`**](./master-glossary.md#think-aloud-protocol) | A usability and customer discovery method where prospective users narrate their live stream of consciousness while interacting with an MVP artifact or workflow simulation, exposing authentic confusion, cognitive friction, and unarticulated needs. |
 
-### Stage 6: Venture De-Risking & Capital Architecture
+### Stage 5: Venture De-Risking & Capital Architecture
 
 | Term | Quick-Scan Definition |
 |---|---|
@@ -130,6 +125,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 | [**`Discriminating Experiment (The Killer Experiment)`**](./master-glossary.md#discriminating-experiment-the-killer-experiment) | An empirical test specifically engineered to decisively invalidate a core venture hypothesis at the lowest possible cost and earliest possible date. |
 | [**`Staged Financing (Milestone Financing)`**](./master-glossary.md#staged-financing-milestone-financing) | The venture capital practice of providing only enough capital to reach the next discrete discriminating milestone (TRL jump, clinical readout, regulatory clearance, commercial pilot) rather than capitalizing the entire project upfront. |
 | [**`Debt Capital (Debt Financing)`**](./master-glossary.md#debt-capital-debt-financing) | Capital borrowed from lenders that must be repaid with interest over a contractual schedule. |
+| [**`Equity`**](./master-glossary.md#equity) | The value of the total shares of ownership in a company, held through common stock, preferred stock, and other share classes. |
 | [**`Equity Capital (Equity Financing)`**](./master-glossary.md#equity-capital-equity-financing) | Capital provided by investors in exchange for ownership shares (preferred stock) in the company. |
 | [**`Debt vs. Equity Risk Asymmetry`**](./master-glossary.md#debt-vs-equity-risk-asymmetry) | The fundamental structural divergence in risk-return payoff curves between debt and equity instruments: |
 | [**`Venture Debt`**](./master-glossary.md#venture-debt) | A specialized form of debt financing provided to venture-backed companies that have already secured institutional equity rounds. |
@@ -141,20 +137,24 @@ This directory houses the complete semantic registry, detection tools, and gover
 | [**`Control Rights`**](./master-glossary.md#control-rights) | The legal provisions in venture term sheets that dictate who makes strategic decisions and governs the enterprise, including board seat composition, voting thresholds, and protective vetoes over additional debt, key hires, intellectual property licensing, or M&A. |
 | [**`Assumption Risk vs. Execution Risk`**](./master-glossary.md#assumption-risk-vs-execution-risk) | The critical distinction between two venture failure modes: |
 
-### Stage 7: Scaling, Spin-Offs, Syndicates & Standards
+### Stage 6: Scaling, Spin-Offs, Syndicates & Standards
 
 | Term | Quick-Scan Definition |
 |---|---|
 | [**`Angel Investors (Angel Capital)`**](./master-glossary.md#angel-investors-angel-capital) | High-net-worth individuals who invest their own personal capital into early-stage startups (often pre-seed or seed stage). |
 | [**`Family Office`**](./master-glossary.md#family-office) | A special investment entity managing the wealth owned by high-net-worth families, offering patient, multi-generational mission-driven capital. |
 | [**`Venture Capital Funds (VC)`**](./master-glossary.md#venture-capital-funds-vc) | A specific kind of capital provider that invests in early stage companies that may have progressed beyond the initial incubation and acceleration stages, exchanging capital for equity ownership. |
+| [**`Seed Funds`**](./master-glossary.md#seed-funds) | A particular kind of capital provider for startups, structured similarly to venture capital funds, but investing in companies that may be at an earlier stage than traditional VC firms. |
+| [**`Illiquid Investment`**](./master-glossary.md#illiquid-investment) | Any investment that may not be easily tradable for cash due to any reason, such as early-stage startup equity lacking an active buyer market prior to an exit. |
 | [**`Exit`**](./master-glossary.md#exit) | Any event when an investor can sell or transfer a stake in a company to another party. |
 | [**`The Power Law ("The Hits Business")`**](./master-glossary.md#the-power-law-the-hits-business) | The mathematical distribution governing venture capital returns, where a tiny minority of investments (~5%) generate the overwhelming majority (~80%+) of total fund profits. |
 | [**`10-Year Fund Lifecycle`**](./master-glossary.md#10-year-fund-lifecycle) | The rigid legal structure of traditional VC partnerships (2–3 years investment deployment $\rightarrow$ 5–7 years portfolio scaling and follow-on $\rightarrow$ fund liquidation and cash return to LPs). |
 | [**`Investor Syndicate`**](./master-glossary.md#investor-syndicate) | The collaborative structure where multiple venture capital firms and angel investors co-invest in a single financing round, typically led by a lead investor who negotiates term sheet economics, sets governance rights, and conducts primary due diligence. |
 | [**`Signaling Risk`**](./master-glossary.md#signaling-risk) | The reputational and financing hazard that occurs when an existing, privileged inside investor (such as the lead investor from a previous round) chooses not to participate or take up their pro-rata rights in a subsequent funding round, signaling to prospective outside investors that the venture is secretly troubled. |
 | [**`Tech Transfer Office (TTO) Pitfalls`**](./master-glossary.md#tech-transfer-office-tto-pitfalls) | Common hazards encountered when licensing technology out of universities or national laboratories: aggressive upfront cash demands, excessive royalty drag on gross margins, unassigned intellectual property, and toxic cap tables (passive academic founders holding majority control). |
+| [**`Accelerators`**](./master-glossary.md#accelerators) | Structured programs for startups, typically with a fixed timeframe, within which individual firms work to develop a business concept with mentors and advisors, culminating in a Demo Day presentation to investors. |
 | [**`Venture Acceleration`**](./master-glossary.md#venture-acceleration) | The institutionalized systems, mentors, seed capital, and commercialization pathways designed to compress the time required for university or laboratory research spin-offs to reach commercial validation and private financing. |
+| [**`Platforms`**](./master-glossary.md#platforms) | A multi-faced organizational structure that facilitates transactions and dialogue between a variety of stakeholders (e.g., users, firms, advertisers, communities). |
 | [**`Standards War`**](./master-glossary.md#standards-war) | An existential commercial battle where rival technological architectures compete to become the de facto industry standard (e.g., CDMA vs TDMA/GSM, Betamax vs VHS, AC vs DC). |
 | [**`Go-to-Market Foundations`**](./master-glossary.md#go-to-market-foundations) | The strategic blueprint detailing how a venture reaches, educates, acquires, and retains target customers across specific commercial channels, addressing customer acquisition cost (CAC), channel incentives, and incumbent lock-in. |
 

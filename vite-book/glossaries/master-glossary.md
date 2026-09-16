@@ -1,7 +1,7 @@
 # Master Glossary: Technology Entrepreneurship & Systematic Innovation
 
 > **The Definitive Lexicon of Lab-to-Market Translation, Cognitive Models, and Venture Architecture**  
-> *Curated from Harvard Business School (HBS LBTechX1), UC San Diego, Flagship Pioneering, Gen5 Group, and Atlas Venture frameworks.*
+> *Curated from HarvardX LBTechX1: Technology Entrepreneurship: Lab to Market, UC San Diego, Flagship Pioneering, Gen5 Group, and Atlas Venture frameworks.*
 
 ---
 
@@ -10,12 +10,11 @@
 | Innovation Stage | Focus Domain | Key Concepts |
 |---|---|---|
 | [**Core Foundations**](#core-foundations) | Macro Theory & Emergence | Invention, Innovation, Valley of Death, Emergent Innovation, Reasonableness Trap, Expert-Free Zone, Five Big Ideas, Pre-Mortem |
-| [**Stage 1 & 2**](#stage-1--2-problem-representation--cognitive-search) | Representation & Search | Perspective, Heuristic, P-H Pair, Magic Square, Cognitive Diversity, Cross-Domain Transfer, Crowdsourced Search, Open Innovation, Solver Profile |
-| [**Stage 3**](#stage-3-needs-seeds-synchronization--functional-analysis) | Deconstruction & Needs | Technology Seed, Customer Need, Accelerated Innovation, Functional Analysis, MPV, S-A-O Triad, JTBD, ODI, Activity Chains |
-| [**Stage 4**](#stage-4-business-architecture--model-alignment) | Venture Architecture | Business Architecture, Business Model, Value Creation, Value Capture, Operating Model, Structure, Capabilities, Assets, Misalignment |
-| [**Stage 5**](#stage-5-market-assessment-due-diligence--deep-tech-mvps) | Market Assessment & MVPs | TRL (1–9), Cloverleaf Framework, Freedom to Operate (FTO), Blocking Patents, Market Antibodies, 10x Imperative, Patience Dilemma, 100-Interview Funnel, Customer Validation, Disconfirming Evidence, Mom Test, Dog Food Test, MVP in Deep Tech, Conceptual MVP, Simulated MVP, Prototypical MVP, Think-Aloud |
-| [**Stage 6**](#stage-6-venture-de-risking--capital-architecture) | Finance & Staging | Cash Engine, Cash Conversion Cycle (CCC), Working Capital, Customer Financing, Lemonade Stand, Venture De-Risking, Discriminating Experiment, Staged Financing, Debt Capital, Equity Capital, Dilutive Capital, Non-Dilutive Capital, SBIR / STTR Grants, Cash Flow Rights, Control Rights |
-| [**Stage 7**](#stage-7-scaling-spin-offs-syndicates--standards) | Governance & Scale | Angel Investors, Family Office, Venture Capital Funds (VC), Exit, Power Law, 10-Year Fund Lifecycle, Investor Syndicate, Signaling Risk, TTO Pitfalls, Venture Acceleration, Standards War, Go-to-Market Foundations |
+| [**Stage 2**](#stage-2-technology-market-fit--needs-seeds-synchronization) | Representation, Functional Deconstruction & Fit | Perspective, Heuristic, P-H Pair, Magic Square, Cognitive Diversity, Cross-Domain Transfer, Crowdsourced Search, Open Innovation, Solver Profile, Technology Seed, Customer Need, Accelerated Innovation, Functional Analysis, MPV, S-A-O Triad, JTBD, ODI, Activity Chains |
+| [**Stage 3**](#stage-3-business-architecture--model-alignment) | Venture Architecture | Business Architecture, Business Model, Value Creation, Value Capture, Operating Model, Structure, Capabilities, Assets, Misalignment |
+| [**Stage 4**](#stage-4-market-assessment-due-diligence--deep-tech-mvps) | Market Assessment & MVPs | TRL (1–9), Cloverleaf Framework, Freedom to Operate (FTO), Blocking Patents, Market Antibodies, 10x Imperative, Patience Dilemma, 100-Interview Funnel, Customer Validation, Disconfirming Evidence, Mom Test, Dog Food Test, MVP in Deep Tech, Conceptual MVP, Simulated MVP, Prototypical MVP, Think-Aloud |
+| [**Stage 5**](#stage-5-venture-de-risking--capital-architecture) | Finance & Staging | Cash Engine, Cash Conversion Cycle (CCC), Working Capital, Customer Financing, Lemonade Stand, Venture De-Risking, Discriminating Experiment, Staged Financing, Debt Capital, Equity, Equity Capital, Dilutive Capital, Non-Dilutive Capital, SBIR / STTR Grants, Cash Flow Rights, Control Rights |
+| [**Stage 6**](#stage-6-scaling-spin-offs-syndicates--standards) | Governance & Scale | Angel Investors, Family Office, Venture Capital Funds (VC), Seed Funds, Illiquid Investment, Exit, Power Law, 10-Year Fund Lifecycle, Investor Syndicate, Signaling Risk, TTO Pitfalls, Accelerators, Platforms, Venture Acceleration, Standards War, Go-to-Market Foundations |
 
 ---
 
@@ -89,7 +88,7 @@
 
 ---
 
-## Stage 1 & 2: Problem Representation & Cognitive Search
+## Stage 2: Technology-Market Fit & Needs-Seeds Synchronization
 
 ### `Perspective`
 - **Aliases:** `Problem Representation`, `Coordinate System`, `Mental Representation`, `Problem Framing`
@@ -144,7 +143,7 @@
 - **Aliases:** `Inbound Open Innovation`, `Outbound Open Innovation`, `Distributed Innovation Paradigm`, `Open Innovation at Scale`
 - **Definition:** The commercial and organizational paradigm establishing that firms can and should use external as well as internal ideas, technologies, and paths to market. Encompasses both inbound open innovation (sourcing external inventions) and outbound open innovation (licensing or spinning out unutilized internal IP).
 - **Originator:** Henry Chesbrough.
-- **Stage:** Stage 1 & 2 / Stage 7.
+- **Stage:** Stage 2 / Stage 6.
 - **Common Trap:** *Not Invented Here (NIH) Syndrome* — internal engineering resistance to adopting superior solutions developed outside corporate boundaries.
 - **Related Terms:** Crowdsourced Search (Broadcast Search), The Boundary Problem, Cognitive Diversity, Tech Transfer Office (TTO) Pitfalls.
 
@@ -157,13 +156,9 @@
 - **Aliases:** `Peripheral Solvers`, `External Solver Demographics`, `Solver Characteristics`
 - **Definition:** The empirical demographic and cognitive profile of individuals who successfully solve broadcast search innovation challenges. Research demonstrates solvers are typically situated at the cognitive or structural periphery of the problem field, applying mature tools from their home domain to the foreign target problem.
 - **Originator:** Karim Lakhani.
-- **Stage:** Stage 1 & 2.
+- **Stage:** Stage 2.
 - **Common Trap:** Assuming only recognized domain authorities can solve complex technical roadblocks.
 - **Related Terms:** Crowdsourced Search (Broadcast Search), Cognitive Diversity, Cross-Domain Transfer, The Boundary Problem.
-
----
-
-## Stage 3: Needs-Seeds Synchronization & Functional Analysis
 
 ### `Technology Seed (Supply Push)`
 - **Aliases:** `Technology Push`, `Supply Push`, `Seed Technology`, `Supply-Side Innovation`
@@ -178,7 +173,7 @@
 - **Related Terms:** Technology Seed (Supply Push), Jobs-to-Be-Done (JTBD), Outcomes-Driven Innovation (ODI).
 
 ### `Accelerated Innovation`
-- **Aliases:** `Seeds and Needs`, `Seeds - Needs Matching`, `Closed-Loop Innovation`, `Contact Sport Model of Commercialization`
+- **Aliases:** `Seeds and Needs`, `Seeds - Needs Matching`, `Closed-Loop Innovation`, `Contact Sport Model of Commercialization`, `Technology-Market Fit`, `Tech-Market Fit`
 - **Definition:** The continuous, closed-loop synchronization of supply-side technology seeds with demand-side customer needs. Refuses to treat commercialization as a linear relay race.
 - **Maxim:** *"Relying on technology-push or market-pull alone is like clapping with one hand."* (Vish Krishnan).
 - **Case Study:** Via Separations (Shreya Dave: shifting graphene oxide membranes from municipal water desalination to industrial thermal separation).
@@ -227,7 +222,7 @@
 
 ---
 
-## Stage 4: Business Architecture & Model Alignment
+## Stage 3: Business Architecture & Model Alignment
 
 ### `Business Architecture`
 - **Aliases:** `Business Architecture Framework`, `Business and Operating Model`, `Business-Operation Model`
@@ -280,7 +275,7 @@
 
 ---
 
-## Stage 5: Market Assessment, Due Diligence & Deep-Tech MVPs
+## Stage 4: Market Assessment, Due Diligence & Deep-Tech MVPs
 
 ### `Technology Readiness Levels (TRL)`
 - **Aliases:** `TRL`, `TRL Scale`, `Technology Readiness Assessment`, `Technology Readiness and Commercialization`
@@ -304,7 +299,7 @@
 ### `Blocking Patents`
 - **Aliases:** `Blocking Patent`, `Defensive Patenting`, `Exclusionary IP`
 - **Definition:** An active patent whose broad claims cover a foundational mechanism, preventing competitors or even secondary improvers from making, using, or selling a downstream commercial application without an explicit license.
-- **Stage:** Stage 5.
+- **Stage:** Stage 4.
 - **Common Trap:** Believing that holding a patent on an improvement grants the legal right to sell it; if a blocking patent exists, the improver can still be sued for infringement.
 - **Related Terms:** Freedom to Operate (FTO), Technology Readiness Levels (TRL), Market Antibodies.
 
@@ -332,7 +327,7 @@
 ### `Customer Validation`
 - **Aliases:** `Customer Validation Phase`, `Commercial Demand Validation`, `Customer Verification`
 - **Definition:** The second phase of Steve Blank's Customer Development methodology that tests whether the customer problem, product architecture, and pricing model produce repeatable purchase transactions and verifiable economic commitments from real buyers.
-- **Stage:** Stage 6.
+- **Stage:** Stage 4.
 - **Common Trap:** Confusing polite verbal encouragement with commercial validation; only cash deposits, binding LOIs, or operational deployment count.
 - **Originator:** Steve Blank.
 - **Related Terms:** The 100-Interview Funnel, The Mom Test Principles, Disconfirming Evidence, Minimum Viable Product (MVP) in Deep Tech.
@@ -356,7 +351,7 @@
 ### `The Dog Food Test (Dogfooding)`
 - **Aliases:** `The Dog Food Test`, `Dogfooding`, `Eating Your Own Dog Food`, `Internal Product Validation`
 - **Definition:** The rigorous operational discipline of requiring the founding team, engineers, and employees to daily use and live with their own technological product or prototype within their own workflows before subjecting external customers to it.
-- **Stage:** Stage 6.
+- **Stage:** Stage 4.
 - **Common Trap:** Shielding the team from product bugs and friction by assuming "we are not the target user," missing glaring usability failures.
 - **Related Terms:** Minimum Viable Product (MVP) in Deep Tech, Prototypical MVP, Disconfirming Evidence.
 
@@ -370,7 +365,7 @@
 ### `Conceptual MVP`
 - **Aliases:** `Paper Prototype`, `Explainer MVP`, `Architecture Walkthrough`, `Conceptual Prototype`
 - **Definition:** An MVP archetype consisting of low-fidelity representations—such as system architecture diagrams, animated explainer videos, paper wireframes, or workflow storyboards—designed to test customer comprehension and value proposition resonance before engineering begins.
-- **Stage:** Stage 6.
+- **Stage:** Stage 4.
 - **Common Trap:** Assuming verbal praise for a concept equals willingness to pay; failing to secure behavioral commitments (e.g., follow-on technical meetings, NDA signing).
 - **Related Terms:** Minimum Viable Product (MVP) in Deep Tech, Simulated MVP (Wizard of Oz / Mechanical Turk), The Mom Test Principles, Hypothetical Bias.
 
@@ -383,7 +378,7 @@
 ### `Prototypical MVP`
 - **Aliases:** `Functional Prototype`, `Alpha Prototype`, `Working Hardware Prototype`, `Prototypical Prototype`
 - **Definition:** A minimally engineered but functional physical or software artifact deployed in the customer's actual operational environment to test physical reliability, integration hurdles, and workflow fit.
-- **Stage:** Stage 6.
+- **Stage:** Stage 4.
 - **Common Trap:** Over-polishing aesthetic casing or secondary features instead of subjecting the core functional mechanism to real operational stress.
 - **Related Terms:** Minimum Viable Product (MVP) in Deep Tech, Simulated MVP (Wizard of Oz / Mechanical Turk), Technology Readiness Levels (TRL), The Dog Food Test (Dogfooding).
 
@@ -394,7 +389,7 @@
 
 ---
 
-## Stage 6: Venture De-Risking & Capital Architecture
+## Stage 5: Venture De-Risking & Capital Architecture
 
 ### `The Firm as a Cash Engine`
 - **Aliases:** `Cash Engine`, `The Firm as a Cash Engine`, `Cash Engine and Working Capital Architecture`, `Entrepreneurial Finance Framework`, `Lemonade Stand Framework`
@@ -415,14 +410,14 @@
 - **Aliases:** `Working Capital Strategy`, `Operating Working Capital`, `Float Management`
 - **Definition:** The structural policies, payment terms, and inventory rhythms that determine how cash flows through operational accounts. It dictates whether sales growth requires consuming external cash (working capital trap) or generates surplus operating liquidity (negative working capital).
 - **Formula:** $\text{Working Capital} = \text{Current Assets} - \text{Current Liabilities}$
-- **Stage:** Stage 7.
+- **Stage:** Stage 5.
 - **Common Trap:** Growing sales rapidly on 60-day invoice terms while paying suppliers on 15-day terms, triggering insolvency despite accounting profitability.
 - **Related Terms:** Cash Conversion Cycle (CCC), The Firm as a Cash Engine, Customer Financing (Negative Working Capital), The Lemonade Stand Model.
 
 ### `Customer Financing (Negative Working Capital)`
 - **Aliases:** `Customer Financing`, `Customer Float`, `Customer-Funded Growth`, `Negative Working Capital Model`
 - **Definition:** A business architecture where customers fund company growth in advance of delivery through subscription prepayments, upfront retainers, milestone deposits, or multi-year contracts, driving the Cash Conversion Cycle negative and eliminating reliance on dilutive capital.
-- **Stage:** Stage 7.
+- **Stage:** Stage 5.
 - **Common Trap:** Failing to escrow unearned revenue, treating customer deposits as pure profit before fulfilling delivery obligations.
 - **Related Terms:** Cash Conversion Cycle (CCC), The Firm as a Cash Engine, Working Capital Architecture, The Lemonade Stand Model.
 
@@ -435,7 +430,7 @@
 ### `Venture De-Risking`
 - **Aliases:** `Tough Tech De-Risking`, `Systematic Risk Elimination`, `De-Risking Strategy`
 - **Definition:** The disciplined methodological sequence of identifying, prioritizing, and systematically eliminating the highest-consequence existential uncertainties (technical, market, regulatory, financial) at minimum cost and time.
-- **Stage:** Stage 7 / All Stages.
+- **Stage:** Stage 5 / All Stages.
 - **Common Trap:** Expending capital on easy, secondary execution tasks (marketing brochures, website design, office space) while delaying lethal discriminating experiments.
 - **Related Terms:** Discriminating Experiment (The Killer Experiment), Staged Financing (Milestone Financing), Assumption Risk vs. Execution Risk.
 
@@ -456,16 +451,23 @@
 - **Definition:** Capital borrowed from lenders that must be repaid with interest over a contractual schedule. Creditors possess capped upside (principal + interest) and senior claim on venture assets in liquidation, but typically hold no equity ownership or voting board seats.
 - **Axiom:** Demands predictable cash flows, liquid collateral, or established enterprise value to service periodic obligations.
 - **Originators:** Ramana Nanda, Corporate Finance Principles.
-- **Stage:** Stage 7.
+- **Stage:** Stage 5.
 - **Common Trap:** Attempting to finance exploratory scientific R&D with traditional debt, triggering default when early revenues do not materialize.
-- **Related Terms:** Equity Capital (Equity Financing), Debt vs. Equity Risk Asymmetry, Venture Debt, The Firm as a Cash Engine.
+- **Related Terms:** Equity, Equity Capital (Equity Financing), Debt vs. Equity Risk Asymmetry, Venture Debt, The Firm as a Cash Engine.
+
+### `Equity`
+- **Aliases:** `Equity Ownership`, `Company Equity`, `Equity Shares`, `Shareholder Equity`, `Stock Ownership`, `Common and Preferred Shares`
+- **Definition:** The value of the total shares of ownership in a company. Equity shares in a company can be held through various types of shares such as common stock (which is what is traded in public markets), preferred stock, and other types of shares.
+- **Stage:** Stage 5 / Stage 6.
+- **Common Trap:** Failing to distinguish between different classes of equity (e.g., common stock held by founders and employees versus preferred stock held by investors with liquidation preferences and protective vetoes).
+- **Related Terms:** Equity Capital (Equity Financing), Dilutive Capital, Cash Flow Rights, Control Rights, Illiquid Investment, Exit.
 
 ### `Equity Capital (Equity Financing)`
 - **Aliases:** `Equity Financing`, `Venture Equity`, `Common and Preferred Equity`, `Risk Capital`
 - **Definition:** Capital provided by investors in exchange for ownership shares (preferred stock) in the company. Equity investors share unlimited enterprise upside and absorb complete downside loss without requiring fixed periodic cash interest or mandatory principal repayment.
 - **Axiom:** Well-suited for high-uncertainty deep tech where assets are intangible and early cash flows are deeply negative.
 - **Originators:** Ramana Nanda, Institutional VC Practice.
-- **Stage:** Stage 7.
+- **Stage:** Stage 5.
 - **Common Trap:** Treating equity as "free money" while ignoring severe dilution and governance loss (surrendering control rights).
 - **Related Terms:** Debt Capital (Debt Financing), Debt vs. Equity Risk Asymmetry, Cash Flow Rights, Control Rights, Institutional Venture Capital (VC).
 
@@ -477,20 +479,20 @@
 - **Implication:** Early-stage deep tech cannot be funded with traditional debt because there are no steady cash flows or tangible assets to repossess.
 - **Formula:** $\text{Payoff}_{\text{Debt}} = \min(D, V), \quad \text{Payoff}_{\text{Equity}} = \max(0, V - D)$
 - **Originator:** Prof. Ramana Nanda.
-- **Stage:** Stage 6.
+- **Stage:** Stage 5.
 - **Related Terms:** Debt Capital (Debt Financing), Equity Capital (Equity Financing), Venture Debt, Non-Dilutive Capital.
 
 ### `Venture Debt`
 - **Aliases:** `Venture Loans`, `Venture Lending`, `Growth Debt`
 - **Definition:** A specialized form of debt financing provided to venture-backed companies that have already secured institutional equity rounds. Venture lenders pair term loans with equity warrants to compensate for higher default risk, providing runway extension between equity financing rounds.
-- **Stage:** Stage 6 / Stage 7.
+- **Stage:** Stage 5 / Stage 6.
 - **Common Trap:** Taking venture debt when business model metrics or customer adoption are slowing, transforming the loan into an unserviceable trap.
 - **Related Terms:** Debt Capital (Debt Financing), Equity Capital (Equity Financing), Staged Financing (Milestone Financing).
 
 ### `Dilutive Capital`
 - **Aliases:** `Dilutive Financing`, `Equity Dilution`, `Dilutive Funding`
 - **Definition:** Any capital infusion in your startup that requires you (the founders) to give up a share of your equity or ownership in your company. In exchange for capital, founders issue shares, diluting their proportional claim on future financial surplus and potentially surrendering governance control.
-- **Stage:** Stage 6.
+- **Stage:** Stage 5.
 - **Comparison:** Unlike Non-Dilutive Capital (grants, customer prepayments), dilutive capital permanently transfers enterprise ownership to outside investors.
 - **Common Trap:** Raising dilutive capital prematurely before resolving foundational assumption risks, leading to severe equity loss at depressed valuations.
 - **Related Terms:** Non-Dilutive Capital, Equity Capital (Equity Financing), Cash Flow Rights, Control Rights.
@@ -498,7 +500,7 @@
 ### `Non-Dilutive Capital`
 - **Aliases:** `Non-Dilutive Funding`, `Grant Capital`, `Non-Dilutive Financing`, `Non-Equity Funding`
 - **Definition:** Capital received by a company that does not require giving up equity shares, ownership percentage, or governance voting rights. Examples include government research grants, foundation awards, tax credits, and customer prepayments.
-- **Stage:** Stage 6.
+- **Stage:** Stage 5.
 - **Common Trap:** Becoming an "R&D grant mill" that survives on research subsidies without building commercial commercialization architecture.
 - **Related Terms:** Dilutive Capital, SBIR / STTR Grants, Customer Financing (Negative Working Capital), Advanced Customer Commitments, The Firm as a Cash Engine.
 
@@ -507,20 +509,20 @@
 - **Definition:** Competitive US federal grant programs that award non-dilutive research funding to small deep-tech businesses to explore feasibility (Phase I: ~\$150k–\$300k) and prototype development (Phase II: ~\$1M–\$2M) across federal agencies (NSF, NIH, DoD, DOE).
 - **The Founder Bandwidth Dilemma:** Grants require intensive compliance reporting; pursuing grants misaligned with commercial GTM drains vital founder bandwidth.
 - **Originator:** US Small Business Administration (SBA).
-- **Stage:** Stage 6.
+- **Stage:** Stage 5.
 - **Related Terms:** Non-Dilutive Capital, Advanced Customer Commitments, Technology Readiness Levels (TRL).
 
 ### `Advanced Customer Commitments`
 - **Aliases:** `Customer Off-Take Agreements`, `Letters of Intent (LOI)`, `Advance Commitments`
 - **Definition:** Binding or structured legal agreements with prospective industrial customers (such as paid pilot contracts, milestone-based LOIs, or off-take guarantees) secured prior to product completion to de-risk demand and validate willingness to pay.
-- **Stage:** Stage 5 / Stage 6.
+- **Stage:** Stage 4 / Stage 5.
 - **Common Trap:** Relying on generic, non-committal letters of support that involve no financial or operational stakes.
 - **Related Terms:** Non-Dilutive Capital, Customer Financing (Negative Working Capital), Customer Validation.
 
 ### `Cash Flow Rights`
 - **Aliases:** `Economic Rights`, `Liquidation Preference Rights`, `Investor Economics`, `Dividend Rights`
 - **Definition:** The contractual provisions in equity financing agreements that dictate how monetary proceeds, dividends, and exit returns are distributed among shareholders (e.g., 1x non-participating vs participating preferred stock, seniority order, anti-dilution ratchets).
-- **Stage:** Stage 6.
+- **Stage:** Stage 5.
 - **Common Trap:** Accepting aggressive liquidation preferences (e.g., 2x or 3x participating preferred) to artificially maintain an inflated headline valuation.
 - **Related Terms:** Control Rights, Equity Capital (Equity Financing), Institutional Venture Capital (VC), Investor Syndicate.
 
@@ -528,7 +530,7 @@
 - **Aliases:** `Governance Rights`, `Board Representation`, `Protective Provisions`, `Investor Vetoes`
 - **Definition:** The legal provisions in venture term sheets that dictate who makes strategic decisions and governs the enterprise, including board seat composition, voting thresholds, and protective vetoes over additional debt, key hires, intellectual property licensing, or M&A.
 - **Principle:** *"Money is not just money — it comes attached to strings and investor governance."* (Ramana Nanda).
-- **Stage:** Stage 6 / Stage 7.
+- **Stage:** Stage 5 / Stage 6.
 - **Common Trap:** Founders retaining majority equity ownership but surrendering negative control (protective vetoes), effectively losing operational autonomy.
 - **Related Terms:** Cash Flow Rights, Equity Capital (Equity Financing), Institutional Venture Capital (VC), Investor Syndicate.
 
@@ -538,18 +540,18 @@
   - **Assumption Risk:** The foundational uncertainty that core hypotheses regarding scientific physics, regulatory approval, or customer willingness to pay are fundamentally flawed.
   - **Execution Risk:** The operational uncertainty that a proven business model will fail due to poor operational coordination, hiring mistakes, or sub-par delivery.
   - **Axiom:** In deep-tech ventures, resolving Assumption Risk via discriminating experiments must strictly precede scaling Execution.
-- **Stage:** Stage 5 / Stage 6.
+- **Stage:** Stage 4 / Stage 5.
 - **Common Trap:** Scaling sales and marketing execution before resolving foundational technical and customer assumption risks.
 - **Related Terms:** Venture De-Risking, Discriminating Experiment (The Killer Experiment), Pre-Mortem Protocol.
 
 ---
 
-## Stage 7: Scaling, Spin-Offs, Syndicates & Standards
+## Stage 6: Scaling, Spin-Offs, Syndicates & Standards
 
 ### `Angel Investors (Angel Capital)`
 - **Aliases:** `Angel Investors`, `Angel Capital`, `Business Angels`, `High-Net-Worth Individuals`
 - **Definition:** High-net-worth individuals who invest their own personal capital into early-stage startups (often pre-seed or seed stage). Unlike institutional fund managers, angels do not have fiduciary commitments to external Limited Partners, granting them flexible investment horizons and willingness to support unorthodox early ventures.
-- **Stage:** Stage 6 / Stage 7.
+- **Stage:** Stage 5 / Stage 6.
 - **Common Trap:** Populating the capitalization table with dozens of unaccredited, fragmented angels, complicating future investor consents.
 - **Related Terms:** Institutional Venture Capital (VC), Venture Capital Funds (VC), Family Office, Investor Syndicate, Staged Financing (Milestone Financing).
 
@@ -557,26 +559,40 @@
 - **Aliases:** `Family Offices`, `Single-Family Office (SFO)`, `Multi-Family Office (MFO)`, `Patient Capital Providers`
 - **Definition:** A special investment entity that manages the wealth owned by individuals and families with high net worth. They are increasingly entering venture investment as a relatively new capital provider, and often can be more patient or expect lower returns than traditional investors. They may also be mission-driven and invest in important sectors or companies that are difficult to invest in traditionally but have the potential for social impact.
 - **Investment Characteristics:** Unlike traditional VC funds bound by rigid 10-year LP mandates, family offices deploy evergreen, multi-generational balance sheet capital, making them uniquely suited for long-cycle deep tech, climate tech, and frontier science ventures.
-- **Stage:** Stage 6 / Stage 7.
+- **Stage:** Stage 5 / Stage 6.
 - **Common Trap:** Conflating professional institutional family offices with passive private wealth; failing to verify whether the family office has in-house technical due diligence capabilities or requires external validation from a lead VC.
 - **Related Terms:** Angel Investors (Angel Capital), Venture Capital Funds (VC), 10-Year Fund Lifecycle, Dilutive Capital, Investor Syndicate.
 
 ### `Venture Capital Funds (VC)`
 - **Aliases:** `Venture Capital Funds`, `Venture Capital`, `VC Funds`, `Institutional Venture Capital`, `Growth Equity Fund`, `Institutional Capital, VC Fund Incentives, and Investor Syndicates`, `Introduction to Venture Financing`, `History and Evolution of Risk Capital`, `Venture Capital Dynamics`, `The Hits Business`
 - **Definition:** A specific kind of capital provider that invests in early stage companies that may have progressed beyond the initial incubation and acceleration stages, exchanging capital for equity ownership. VC funds may invest at different stages in a startup’s lifecycle, and these investment rounds are denoted by terms such as Seed, Series A (both denoting early stages) to Series B, C and further. If a startup is sufficiently mature and requires VC investment for expansion, it may be called a Growth Round and such a fund, a Growth Equity Fund.
-- **Stage:** Stage 6 / Stage 7.
+- **Stage:** Stage 5 / Stage 6.
 - **Fund Structure:** Professional investment firms that manage pooled funds supplied by Limited Partners (pension funds, endowments, sovereign wealth funds), operating under formal 10-year fund lifecycles where return profiles are dominated by power law economics.
 - **Common Trap:** Taking institutional VC money when the addressable market size cannot support the >\$1B outcome required by fund economics.
 - **Related Terms:** Angel Investors (Angel Capital), Dilutive Capital, Exit, The Power Law ("The Hits Business"), 10-Year Fund Lifecycle, Investor Syndicate, Cash Flow Rights, Control Rights.
+
+### `Seed Funds`
+- **Aliases:** `Seed Fund`, `Seed Capital Providers`, `Seed-Stage Fund`, `Early-Stage Risk Capital`
+- **Definition:** A particular kind of capital provider for startups, which are structured similarly to venture capital funds, but invest in companies that may be at an earlier stage than the stage at which traditional venture capital firms would invest.
+- **Stage:** Stage 5 / Stage 6.
+- **Common Trap:** Raising from seed funds without verifying their reserves for follow-on rounds, which can create signaling risk if they fail to participate in later financing.
+- **Related Terms:** Venture Capital Funds (VC), Angel Investors (Angel Capital), Dilutive Capital, Investor Syndicate, Signaling Risk, Staged Financing (Milestone Financing).
+
+### `Illiquid Investment`
+- **Aliases:** `Illiquid Investments`, `Illiquid Asset`, `Illiquidity`, `Illiquidity Risk`, `Illiquid Equity`
+- **Definition:** Any investment that may not be easily tradable for cash due to any reason. Typical equity investments in early stage startups are illiquid because there may not be enough buyers for that equity stake yet, requiring investors to hold their position until a formal liquidity event or exit occurs.
+- **Stage:** Stage 5 / Stage 6.
+- **Common Trap:** Treating illiquid startup equity as liquid wealth, or underestimating the holding period (often 7–10+ years) required to achieve liquidity.
+- **Related Terms:** Exit, Venture Capital Funds (VC), Seed Funds, Angel Investors (Angel Capital), 10-Year Fund Lifecycle, Equity Capital (Equity Financing).
 
 ### `Exit`
 - **Aliases:** `Liquidity Event`, `Venture Exit`, `Investor Exit`, `M&A and IPO Exit`
 - **Definition:** Any event when an investor can sell or transfer a stake in a company to another party. For instance, venture capital investors can exit an investment when the startup in question is acquired by a larger firm or undergoes an initial public offering (IPO).
 - **Primary Routes:** Strategic Trade Sale / Acquisition (Mergers & Acquisitions / M&A), Initial Public Offering (IPO), and secondary share transfers.
-- **Stage:** Stage 7.
+- **Stage:** Stage 6.
 - **Role in Venture Ecosystem:** Exits provide liquidity that allows venture capital funds to realize capital gains and return proceeds to their Limited Partners (LPs) within their 10-year fund mandates.
 - **Common Trap:** Optimizing prematurely for an acquisition before achieving operational defensibility, or assuming public IPO windows remain perpetually open during economic downturns.
-- **Related Terms:** Venture Capital Funds (VC), 10-Year Fund Lifecycle, The Power Law ("The Hits Business"), Cash Flow Rights.
+- **Related Terms:** Illiquid Investment, Venture Capital Funds (VC), 10-Year Fund Lifecycle, The Power Law ("The Hits Business"), Cash Flow Rights.
 
 ### `The Power Law ("The Hits Business")`
 - **Aliases:** `The Power Law`, `Power Law Returns`, `The Hits Business`, `Venture Return Distribution`, `Skewed Returns Distribution`
@@ -593,14 +609,14 @@
 ### `Investor Syndicate`
 - **Aliases:** `Investor Syndicate`, `Investor Syndicates`, `Venture Syndicate`, `Co-Investment Syndicate`, `Seeking Investment and Investor Relationship Dynamics`
 - **Definition:** The collaborative structure where multiple venture capital firms and angel investors co-invest in a single financing round, typically led by a lead investor who negotiates term sheet economics, sets governance rights, and conducts primary due diligence.
-- **Stage:** Stage 7.
+- **Stage:** Stage 6.
 - **Common Trap:** Building syndicates with misaligned fund lifecycles or conflicting reserve allocation strategies for follow-on rounds.
 - **Related Terms:** Signaling Risk, Institutional Venture Capital (VC), Angel Investors (Angel Capital), Cash Flow Rights.
 
 ### `Signaling Risk`
 - **Aliases:** `Negative Signaling`, `Inside Round Signal`, `Investor Pass Risk`
 - **Definition:** The reputational and financing hazard that occurs when an existing, privileged inside investor (such as the lead investor from a previous round) chooses not to participate or take up their pro-rata rights in a subsequent funding round, signaling to prospective outside investors that the venture is secretly troubled.
-- **Stage:** Stage 7.
+- **Stage:** Stage 6.
 - **Common Trap:** Granting super-pro-rata rights or right-of-first-refusal to an investor who may later strategically walk away, poisoning outside interest.
 - **Related Terms:** Investor Syndicate, Institutional Venture Capital (VC), Staged Financing (Milestone Financing).
 
@@ -610,23 +626,37 @@
 - **Antidote:** Negotiating milestones tied to commercial success, clean IP assignment, and equity splits reflecting operational commitment.
 - **Related Terms:** Freedom to Operate (FTO), Venture Acceleration, Open Innovation.
 
+### `Accelerators`
+- **Aliases:** `Accelerator`, `Startup Accelerators`, `Fixed-Timeframe Acceleration`, `Demo Day Programs`, `YCombinator Model`
+- **Definition:** Structured programs for startups, typically with a fixed timeframe, within which individual firms work to develop a concept for a business, working with mentors and advisors. Accelerators draw on a large network of advisors whom they match with entrepreneurs. Startups often present their concepts and prototypes to a group of investors on a Demo or Demonstration Day. Often accelerators serve startups that have moved beyond the idea stage. The first program to use this term was YCombinator. They are distinct from incubators.
+- **Stage:** Stage 6.
+- **Common Trap:** Conflating accelerators with incubators (which offer open-ended co-working or laboratory space without fixed batch deadlines), or applying generic 12-week software accelerators to capital-intensive deep-tech and hardware ventures.
+- **Related Terms:** Venture Acceleration, Tech Transfer Office (TTO) Pitfalls, Seed Funds, Venture Capital Funds (VC).
+
 ### `Venture Acceleration`
 - **Aliases:** `Spin-Off Acceleration`, `Commercialization Acceleration`, `Incubation and Acceleration`
 - **Definition:** The institutionalized systems, mentors, seed capital, and commercialization pathways designed to compress the time required for university or laboratory research spin-offs to reach commercial validation and private financing.
-- **Stage:** Stage 7.
+- **Stage:** Stage 6.
 - **Common Trap:** Relying on generic software accelerators that enforce 12-week batch cycles ill-suited for deep-tech physics, biology, or hardware timelines.
-- **Related Terms:** Tech Transfer Office (TTO) Pitfalls, The Valley of Death, Staged Financing (Milestone Financing).
+- **Related Terms:** Accelerators, Tech Transfer Office (TTO) Pitfalls, The Valley of Death, Staged Financing (Milestone Financing).
+
+### `Platforms`
+- **Aliases:** `Platform`, `Platform Organization`, `Multi-Sided Platform`, `Multi-Faced Organizational Structure`, `Platform Ecosystem`
+- **Definition:** A multi-faced organizational structure that allows for transactions and dialogue between a variety of stakeholders for any purpose. For example, Facebook may be considered a platform that connects several stakeholders: firms, advertisers, individuals, political and social groups and communities, and researchers.
+- **Stage:** Stage 3 / Stage 6.
+- **Common Trap:** Attempting to build platform network effects without first solving the "chicken-and-egg" multi-stakeholder adoption problem through single-sided utility.
+- **Related Terms:** Structure (Operating Model), Business Architecture, Value Creation, Value Capture, Standards War, Go-to-Market Foundations.
 
 ### `Standards War`
 - **Aliases:** `Standards Battles`, `Platform Standards Contest`, `Case Study - Qualcomm CDMA Commercialization`, `Qualcomm CDMA Story`
 - **Definition:** An existential commercial battle where rival technological architectures compete to become the de facto industry standard (e.g., CDMA vs TDMA/GSM, Betamax vs VHS, AC vs DC).
 - **Case Study:** Qualcomm CDMA commercialization: overcoming industry consensus, running the Dallas shoot-out demonstration, and pivoting from pure licensing to chip and system manufacturing to force global standard adoption.
-- **Related Terms:** Market Antibodies, Go-to-Market Foundations.
+- **Related Terms:** Platforms, Market Antibodies, Go-to-Market Foundations.
 
 ### `Go-to-Market Foundations`
 - **Aliases:** `GTM Strategy`, `Commercialization Foundations`, `Go-to-Market Architecture`
 - **Definition:** The strategic blueprint detailing how a venture reaches, educates, acquires, and retains target customers across specific commercial channels, addressing customer acquisition cost (CAC), channel incentives, and incumbent lock-in.
-- **Stage:** Stage 5 / Stage 7.
+- **Stage:** Stage 4 / Stage 6.
 - **Common Trap:** Relying on generic direct sales when existing distributor relationships or channel partners control customer access.
 - **Related Terms:** Market Antibodies, The 10x Imperative, Standards War, Customer Activity Chain.
 
@@ -634,7 +664,7 @@
 
 ## Glossary Audit & Quality Check
 
-This master glossary contains **87 primary innovation terms** and **415+ cross-referenced concepts and aliases**.  
+This master glossary contains **92 primary innovation terms** and **435+ cross-referenced concepts and aliases**.  
 To scan existing notes or check new research papers against this lexicon, execute:
 ```bash
 python3 glossaries/check-glossary-coverage.py --scan-dir . --glossary glossaries/master-glossary.md

@@ -6,7 +6,7 @@
 
 ## 1. Commercialization Pathway Matrix
 
-*Use in Stage 4 to decide whether to form a Product Firm, Service Provider, Platform, or Licensing entity.*
+*Use in Stage 3 to decide whether to form a Product Firm, Service Provider, Platform, or Licensing entity.*
 
 | Evaluation Criteria | Product Firm (Software / Device) | Service Firm (Bespoke Solutions) | Platform / Matchmaker (Multi-Sided) | Pure IP Licensing (Royalty Model) |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@
 
 ## 2. Capital Instrument Selection Matrix
 
-*Use in Stage 6 to select the appropriate financing instrument based on risk and venture stage.*
+*Use in Stage 5 to select the appropriate financing instrument based on risk and venture stage.*
 
 | Dimension | Customer Prepayments & Bootstrapping | Non-Dilutive SBIR / STTR Grants | Venture Debt / Asset-Backed | Institutional Venture Capital (VC) |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@
 
 ## 3. Go-to-Market (GTM) Entry Route Matrix
 
-*Use in Stage 4 & 5 to navigate the entrant-incumbent asymmetry (Prof. Vish Krishnan & Dr. Rana el Kaliouby).*
+*Use in Stage 3 & 4 to navigate the entrant-incumbent asymmetry (Prof. Vish Krishnan & Dr. Rana el Kaliouby).*
 
 | Strategy Route | Strategic Mechanism | Primary Advantage | Existential Hazard |
 |---|---|---|---|

@@ -13,12 +13,11 @@ const sidebarConfigs = [
     manualSortFileNameByPriority: [
       'index.md',
       'stage-1-discovery-and-seeds.md',
-      'stage-2-problem-framing-and-ph.md',
-      'stage-3-needs-seeds-synchronization.md',
-      'stage-4-business-architecture.md',
-      'stage-5-market-assessment-and-mvp.md',
-      'stage-6-venture-derisking-and-capital.md',
-      'stage-7-spinoffs-and-scaling.md'
+      'stage-2-technology-market-fit.md',
+      'stage-3-business-architecture.md',
+      'stage-4-market-assessment-and-mvp.md',
+      'stage-5-venture-derisking-and-capital.md',
+      'stage-6-spinoffs-and-scaling.md'
     ]
   },
   {
@@ -62,7 +61,7 @@ const sidebarConfigs = [
 export default withMermaid(
   defineConfig({
     title: "Innovation Research",
-    description: "Lab-to-Market Documentation Hub & Operational Engine",
+    description: "Lab-to-Market Documentation Hub & Operational Engine (Source: HarvardX LBTechX1: Technology Entrepreneurship: Lab to Market)",
     base: process.env.BASE_URL || (process.env.GITHUB_ACTIONS ? '/innovation-research/' : '/'),
     ignoreDeadLinks: true,
     srcExclude: ['templates/**'],
@@ -87,7 +86,7 @@ export default withMermaid(
         provider: 'local'
       },
       footer: {
-        message: 'Released under open documentation principles.',
+        message: 'All materials are from source: HarvardX LBTechX1 — Technology Entrepreneurship: Lab to Market.',
         copyright: 'Innovation Research Hub'
       }
     }

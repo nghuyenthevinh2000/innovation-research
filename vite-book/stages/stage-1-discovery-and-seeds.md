@@ -44,7 +44,7 @@ Stage 1 begins in the research laboratory (academic institution, corporate R&D c
 
 ## 5. Stage Gate 1: Exit Deliverables
 
-Before advancing to [**Stage 2: Problem Representation**](./stage-2-problem-framing-and-ph.md), the venture must possess:
+Before advancing to [**Stage 2: Technology-Market Fit & Needs-Seeds Synchronization**](./stage-2-technology-market-fit.md), the venture must possess:
 - [ ] Documented Laboratory Proof-of-Concept (TRL 3 benchtop demonstration).
 - [ ] Provisional patent application filed with broad functional claims.
 - [ ] Preliminary assessment of physical boundaries (temperature, pressure, power, yield limits).

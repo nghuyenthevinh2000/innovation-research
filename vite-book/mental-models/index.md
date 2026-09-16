@@ -1,6 +1,7 @@
 # Mental Models & Cognitive Architecture
 
-> **The Foundational Lenses, Decision Paradigms, and Heuristic Frameworks of Technology Commercialization**
+> **The Foundational Lenses, Decision Paradigms, and Heuristic Frameworks of Technology Commercialization**  
+> *Source: HarvardX LBTechX1 — Technology Entrepreneurship: Lab to Market*
 
 ---
 

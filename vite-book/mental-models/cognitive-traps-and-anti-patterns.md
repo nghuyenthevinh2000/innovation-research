@@ -102,9 +102,8 @@ Understanding these failure modes serves as an essential **pre-mortem diagnostic
 | Stage | Primary Trap | Consequence | Diagnostic Detection Metric |
 |---|---|---|---|
 | **Stage 1: Discovery** | Reasonableness Trap | Kills transformative ideas early | Rejection by conventional peer reviewers |
-| **Stage 2: Representation** | Representational Trap | Engineering deadlock | Burn rate increases without resolution |
-| **Stage 3: Needs-Seeds** | Hammer seeking a Nail | Product nobody buys | >6 months with zero validated customer pain |
-| **Stage 4: Architecture** | Architectural Misalignment | Delivery collapse | Gross margin < cost of customer delivery |
-| **Stage 5: Market Assessment** | Hypothetical Bias & Pioneer Trap | False validation / Capital exhaustion | Customers praise in meetings, refuse to buy; TRL exceeds fund |
-| **Stage 6: Finance** | Working Capital Trap | Insolvent while profitable | Cash reserves drop while AR increases |
-| **Stage 7: Governance** | Toxic Cap Table | Unable to raise Series A | Institutional VC passes due to passive equity |
+| **Stage 2: Technology-Market Fit** | Representational Trap & Hammer seeking a Nail | Engineering deadlock / Building what nobody buys | Burn rate increases without resolution; zero validated customer pain |
+| **Stage 3: Architecture** | Architectural Misalignment | Delivery collapse | Gross margin < cost of customer delivery |
+| **Stage 4: Market Assessment** | Hypothetical Bias & Pioneer Trap | False validation / Capital exhaustion | Customers praise in meetings, refuse to buy; TRL exceeds fund |
+| **Stage 5: Finance** | Working Capital Trap | Insolvent while profitable | Cash reserves drop while AR increases |
+| **Stage 6: Governance** | Toxic Cap Table | Unable to raise Series A | Institutional VC passes due to passive equity |

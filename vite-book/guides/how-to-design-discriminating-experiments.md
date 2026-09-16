@@ -64,6 +64,6 @@ flowchart TD
 
 | Outcome | Experimental Data | Strategic Action |
 |---|---|---|
-| **Validated** | Re-read rate < 10%; customer requests pilot contract. | Advance to Stage 6 (Raise staged capital for backend engineering). |
+| **Validated** | Re-read rate < 10%; customer requests pilot contract. | Advance to Stage 5 (Raise staged capital for backend engineering). |
 | **Ambiguous** | Re-read rate 15–25%; users praise concept but hesitate. | Iterate front-end UI; re-test with 10 additional users. |
 | **Decisively Invalidated** | Re-read rate > 30%; users refuse to rely on output. | **KILL HYPOTHESIS IMMEDIATELY.** Pivot business architecture before capital is burned. |

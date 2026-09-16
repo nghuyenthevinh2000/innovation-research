@@ -1,4 +1,4 @@
-# Stage 4: Business Architecture Design & Model Alignment
+# Stage 3: Business Architecture Design & Model Alignment
 
 > **Phase Focus:** Combining the Business Model (Value Creation & Capture) with the Operating Model (Structure, Capabilities, Assets) into a Defensible System.
 
@@ -6,7 +6,7 @@
 
 ## 1. Stage Objective & Theoretical Foundation
 
-A superior technology matched with a validated customer need will still fail if wrapped in an untenable business architecture. Stage 4 transforms a technical capability into a sustainable, scalable economic enterprise.
+A superior technology matched with a validated customer need will still fail if wrapped in an untenable business architecture. Stage 3 transforms a validated technology-market fit into a sustainable, scalable economic enterprise.
 
 > **The Xerox PARC Warning**  
 > *"Xerox PARC invented the GUI, the mouse, Ethernet, and laser printing — but failed to capture their commercial value. Apple and Microsoft captured that value through superior business and operating models."*  
@@ -65,9 +65,9 @@ flowchart TD
 
 ---
 
-## 5. Stage Gate 4: Exit Deliverables
+## 5. Stage Gate 3: Exit Deliverables
 
-Before advancing to [**Stage 5: Market Assessment, Due Diligence & MVP Validation**](./stage-5-market-assessment-and-mvp.md), the venture must possess:
+Before advancing to [**Stage 4: Market Assessment, Due Diligence & MVP Validation**](./stage-4-market-assessment-and-mvp.md), the venture must possess:
 - [ ] Completed **Business Architecture Canvas** mapping both pillars.
 - [ ] Preliminary **Unit Economics Model** (Contribution Margin = Revenue per unit - Direct delivery cost).
 - [ ] Validated Operating Structure decision (Product vs. Service vs. Platform).

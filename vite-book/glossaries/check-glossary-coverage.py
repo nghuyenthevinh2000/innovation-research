@@ -46,7 +46,7 @@ def extract_glossary_terms(glossary_path: Path):
     
     for line in content.splitlines():
         # Check for stage section headers
-        stage_match = re.match(r"^##\s+(?:Stage\s+\d+:|General|Core|Cross-Stage)\s*(.*)", line, re.IGNORECASE)
+        stage_match = re.match(r"^##\s+(?:Stage\s+[0-9&,\s]+:|General|Core|Cross-Stage)\s*(.*)", line, re.IGNORECASE)
         if stage_match:
             current_stage = stage_match.group(1).strip()
             continue

@@ -1,6 +1,7 @@
 # Innovation Structures, Canvases & Decision Frameworks
 
-> **Operational Toolkits, Diagnostic Canvases, and Multi-Criteria Decision Matrices for Systematic Commercialization**
+> **Operational Toolkits, Diagnostic Canvases, and Multi-Criteria Decision Matrices for Systematic Commercialization**  
+> *Source: HarvardX LBTechX1 — Technology Entrepreneurship: Lab to Market*
 
 ---
 

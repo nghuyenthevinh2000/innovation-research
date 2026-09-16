@@ -7,14 +7,14 @@ hero:
   tagline: "The central knowledge base, semantic registry, and operational engine for technology entrepreneurship, deep-tech translation, and breakthrough venture building."
   actions:
     - theme: brand
-      text: 7 Lifecycle Stages
+      text: 6 Lifecycle Stages
       link: /stages/
     - theme: alt
       text: Actionable Guides
       link: /guides/how-to-deconstruct-technology-seeds
 
 features:
-  - title: 7 Lifecycle Stages
+  - title: 6 Lifecycle Stages
     details: Complete stage-gate architecture spanning benchtop discovery and seeds to institutional VC syndicates and category scaling.
     link: /stages/
   - title: How-To Playbooks
@@ -30,11 +30,15 @@ features:
     details: Practical decision canvases, multi-criteria matrices, and worksheets to structure commercialization.
     link: /structures/
   - title: Stage-Gate Audit Canvas
-    details: Comprehensive evaluation instrument for stress-testing ventures across all 7 stages.
+    details: Comprehensive evaluation instrument for stress-testing ventures across all 6 stages.
     link: /guides/how-to-conduct-stage-gate-audit
 ---
 
 <div style="margin-top: 3rem;">
+
+::: info 🎓 Source Attribution
+All the materials in this knowledge base are from source: **HarvardX LBTechX1: Technology Entrepreneurship: Lab to Market**.
+:::
 
 ## 🏛️ Diátaxis Documentation Framework
 
@@ -42,7 +46,7 @@ This repository is structured according to the international **Diátaxis Documen
 
 | Diátaxis Quadrant | User Orientation | Repository Directory & Core Artifacts |
 |---|---|---|
-| **Tutorials** | *Learning by Doing* | [**`stages/index.md`**](/stages/) (Step-by-step navigation of the 7 stages of commercialization). |
+| **Tutorials** | *Learning by Doing* | [**`stages/index.md`**](/stages/) (Step-by-step navigation of the 6 stages of commercialization). |
 | **How-To Guides** | *Problem Solving* | [**`guides/`**](/guides/how-to-deconstruct-technology-seeds) (Actionable playbooks: functional deconstruction, P-H reframing, killer experiments, alignment audit, glossary auditing). |
 | **Reference** | *Fact Lookup* | [**`glossaries/master-glossary.md`**](/glossaries/master-glossary), [**`mental-models/mental-models-catalog.md`**](/mental-models/mental-models-catalog), [**`structures/`**](/structures/). |
 | **Explanations** | *Conceptual Context* | [**`stages/stage-*.md`**](/stages/), [**`mental-models/cognitive-traps-and-anti-patterns.md`**](/mental-models/cognitive-traps-and-anti-patterns). |

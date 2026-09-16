@@ -25,7 +25,7 @@ Every glossary term added to [`master-glossary.md`](./master-glossary.md) must f
 - **Definition:** Clear, concise 2–3 sentence operational definition explaining what the concept is and why it matters.
 - **Formula / Axiom (if applicable):** Mathematical relationship, ratio, or formal representation (LaTeX syntax).
 - **Originators / Foundational Authors:** Key academic or industry figures who formalized the concept.
-- **Innovation Stage:** Stage 1 through Stage 7 where the term is most actively applied.
+- **Innovation Stage:** Stage 1 through Stage 6 where the term is most actively applied.
 - **Common Trap / Anti-Pattern:** The specific mistake founders make regarding this concept.
 - **Related Terms:** Cross-links to other defined terms (e.g., Term Name 1, Term Name 2).
 ```
@@ -87,7 +87,7 @@ python3 glossaries/check-glossary-coverage.py --scan-dir /path/to/notes
 
 When a gap is identified:
 
-1. **Locate the Target Section:** Open [`master-glossary.md`](./master-glossary.md) and scroll to the appropriate Innovation Stage section (Stage 1 through Stage 7, or Core Foundations).
+1. **Locate the Target Section:** Open [`master-glossary.md`](./master-glossary.md) and scroll to the appropriate Innovation Stage section (Stage 1 through Stage 6, or Core Foundations).
 2. **Draft the Schema Block:** Populate the entry according to Section 2 above.
 3. **Register Aliases:** If the term was referenced by alternative names or previous note titles (e.g., `Seeds - Needs Matching` vs `Accelerated Innovation`), include them in `- **Aliases:**`.
 4. **Re-Run the Scanner:** Execute `python3 glossaries/check-glossary-coverage.py` to verify that the gap has dropped to zero.
