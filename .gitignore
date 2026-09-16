@@ -10,3 +10,9 @@ local/
 # Temporary & scratch files
 tmp/
 scratch/
+
+# Node & VitePress
+node_modules/
+.vitepress/dist/
+.vitepress/cache/
+node_modules

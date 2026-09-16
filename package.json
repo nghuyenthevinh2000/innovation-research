@@ -1,0 +1,20 @@
+{
+  "name": "innovation-research",
+  "version": "1.0.0",
+  "description": "> **The Central Knowledge Base, Semantic Registry, and Operational Engine for Technology Entrepreneurship, Deep-Tech Translation, and Breakthrough Venture Building**   > *Synthesized from Harvard Business School (HBS LBTechX1), UC San Diego, Flagship Pioneering, Gen5 Group, and Atlas Venture frameworks.*",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "mermaid": "^11.17.2",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  }
+}
