@@ -4,7 +4,7 @@ import { generateSidebar } from 'vitepress-sidebar'
 
 const sidebarConfigs = [
   {
-    documentRootPath: '.',
+    documentRootPath: 'vite-book',
     scanStartPath: 'stages',
     resolvePath: '/stages/',
     rootGroupText: 'Lifecycle Stages',
@@ -22,7 +22,7 @@ const sidebarConfigs = [
     ]
   },
   {
-    documentRootPath: '.',
+    documentRootPath: 'vite-book',
     scanStartPath: 'guides',
     resolvePath: '/guides/',
     rootGroupText: 'How-To Playbooks',
@@ -31,7 +31,7 @@ const sidebarConfigs = [
     manualSortFileNameByPriority: ['index.md']
   },
   {
-    documentRootPath: '.',
+    documentRootPath: 'vite-book',
     scanStartPath: 'glossaries',
     resolvePath: '/glossaries/',
     rootGroupText: 'Semantic Registry',
@@ -40,7 +40,7 @@ const sidebarConfigs = [
     manualSortFileNameByPriority: ['index.md', 'master-glossary.md']
   },
   {
-    documentRootPath: '.',
+    documentRootPath: 'vite-book',
     scanStartPath: 'mental-models',
     resolvePath: '/mental-models/',
     rootGroupText: 'Cognitive Architecture',
@@ -49,7 +49,7 @@ const sidebarConfigs = [
     manualSortFileNameByPriority: ['index.md']
   },
   {
-    documentRootPath: '.',
+    documentRootPath: 'vite-book',
     scanStartPath: 'structures',
     resolvePath: '/structures/',
     rootGroupText: 'Innovation Structures',

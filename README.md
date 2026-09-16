@@ -128,40 +128,44 @@ Step-by-step procedural guides for critical commercialization activities:
 ```tree
 innovation-research/
 ├── README.md                                    # Central Master Portal & Diátaxis Hub
-├── stages/                                      # Innovation Lifecycle Stages (Explanations & Tutorials)
-│   ├── index.md                                 # Lifecycle map & stage-gate progression matrix
-│   ├── stage-1-discovery-and-seeds.md           # Stage 1: Scientific Discovery & Seeds (TRL 1-3)
-│   ├── stage-2-problem-framing-and-ph.md        # Stage 2: Problem Representation & P-H Pairs
-│   ├── stage-3-needs-seeds-synchronization.md   # Stage 3: Needs-Seeds Sync & Functional Analysis
-│   ├── stage-4-business-architecture.md         # Stage 4: Business Architecture Design
-│   ├── stage-5-market-assessment-and-mvp.md     # Stage 5: Market Assessment & Deep-Tech MVPs
-│   ├── stage-6-venture-derisking-and-capital.md # Stage 6: Cash Engine & Staged Financing
-│   └── stage-7-spinoffs-and-scaling.md          # Stage 7: Spin-Offs, Syndicates & Standards
-├── glossaries/                                  # Glossaries & Lexicon Management (Reference & Tooling)
-│   ├── index.md                                 # Glossary system portal
-│   ├── master-glossary.md                       # Comprehensive 60+ term master glossary
-│   ├── glossary-detection-guide.md              # Missing glossary detection protocol
-│   └── check-glossary-coverage.py              # Automated CLI audit & missing-term scanner
-├── mental-models/                               # Cognitive Models & Traps (Reference & Explanation)
-│   ├── index.md                                 # Mental models portal
-│   ├── mental-models-catalog.md                 # 17 core mental models, formulas & axioms
-│   └── cognitive-traps-and-anti-patterns.md     # 14 failure modes, fallacies & antidotes
-├── structures/                                  # Structures & Decision Frameworks (Reference & Tooling)
-│   ├── index.md                                 # Structures portal
-│   ├── canvases-and-worksheets.md               # 7 actionable canvases & worksheets
-│   └── decision-matrices.md                     # 3 multi-criteria decision matrices
-├── guides/                                      # Diátaxis How-To Playbooks (How-To Guides)
-│   ├── how-to-deconstruct-technology-seeds.md   # Functional deconstruction playbook
-│   ├── how-to-reframe-stuck-problems.md         # P-H reframing & crowdsourcing playbook
-│   ├── how-to-design-discriminating-experiments.md # Deep-tech MVP & killer experiment playbook
-│   ├── how-to-audit-business-architecture.md    # Business architecture alignment playbook
-│   ├── how-to-audit-and-expand-glossaries.md    # Glossary audit & expansion playbook
-│   └── how-to-conduct-stage-gate-audit.md       # Venture project stage-gate audit playbook
+├── vite-book/                                   # Dedicated VitePress Documentation Site Root
+│   ├── .vitepress/                              # VitePress site configuration, theme & plugins
+│   ├── index.md                                 # Site home portal & Diátaxis quad-map
+│   ├── assets/                                  # System diagrams, architecture charts & visuals
+│   ├── stages/                                  # Innovation Lifecycle Stages (Explanations & Tutorials)
+│   │   ├── index.md                             # Lifecycle map & stage-gate progression matrix
+│   │   ├── stage-1-discovery-and-seeds.md       # Stage 1: Scientific Discovery & Seeds (TRL 1-3)
+│   │   ├── stage-2-problem-framing-and-ph.md    # Stage 2: Problem Representation & P-H Pairs
+│   │   ├── stage-3-needs-seeds-synchronization.md # Stage 3: Needs-Seeds Sync & Functional Analysis
+│   │   ├── stage-4-business-architecture.md     # Stage 4: Business Architecture Design
+│   │   ├── stage-5-market-assessment-and-mvp.md # Stage 5: Market Assessment & Deep-Tech MVPs
+│   │   ├── stage-6-venture-derisking-and-capital.md # Stage 6: Cash Engine & Staged Financing
+│   │   └── stage-7-spinoffs-and-scaling.md      # Stage 7: Spin-Offs, Syndicates & Standards
+│   ├── glossaries/                              # Glossaries & Lexicon Management (Reference & Tooling)
+│   │   ├── index.md                             # Glossary system portal
+│   │   ├── master-glossary.md                   # Comprehensive 60+ term master glossary
+│   │   ├── glossary-detection-guide.md          # Missing glossary detection protocol
+│   │   └── check-glossary-coverage.py          # Automated CLI audit & missing-term scanner
+│   ├── mental-models/                           # Cognitive Models & Traps (Reference & Explanation)
+│   │   ├── index.md                             # Mental models portal
+│   │   ├── mental-models-catalog.md             # 17 core mental models, formulas & axioms
+│   │   └── cognitive-traps-and-anti-patterns.md # 14 failure modes, fallacies & antidotes
+│   ├── structures/                              # Structures & Decision Frameworks (Reference & Tooling)
+│   │   ├── index.md                             # Structures portal
+│   │   ├── canvases-and-worksheets.md           # 7 actionable canvases & worksheets
+│   │   ├── decision-matrices.md                 # 3 multi-criteria decision matrices
+│   │   └── funding-taxonomy-and-capital-selection.md # Capital taxonomy & selection architecture
+│   └── guides/                                  # Diátaxis How-To Playbooks (How-To Guides)
+│       ├── how-to-deconstruct-technology-seeds.md # Functional deconstruction playbook
+│       ├── how-to-reframe-stuck-problems.md     # P-H reframing & crowdsourcing playbook
+│       ├── how-to-design-discriminating-experiments.md # Deep-tech MVP & killer experiment playbook
+│       ├── how-to-audit-business-architecture.md # Business architecture alignment playbook
+│       ├── how-to-audit-and-expand-glossaries.md # Glossary audit & expansion playbook
+│       └── how-to-conduct-stage-gate-audit.md   # Venture project stage-gate audit playbook
 ├── templates/                                   # Standardized Authoring Templates (Excluded from web docs)
 │   └── research-template.md                     # Deep-dive research whitepaper template
 ├── research/                                    # Topic-specific whitepapers & research reports
-├── notes/                                       # Raw signals, paper reading notes & observations
-└── assets/                                      # System diagrams, architecture charts & visuals
+└── notes/                                       # Raw signals, paper reading notes & observations
 ```
 
 ---
@@ -169,8 +173,8 @@ innovation-research/
 ## 🔬 Research & Authoring Workflow
 
 1. **Capture Signals:** Log early observations, papers, or lab findings in [`notes/`](./notes/).
-2. **Deconstruct & Frame:** Use [`guides/how-to-deconstruct-technology-seeds.md`](./guides/how-to-deconstruct-technology-seeds.md) and [`guides/how-to-reframe-stuck-problems.md`](./guides/how-to-reframe-stuck-problems.md).
+2. **Deconstruct & Frame:** Use [`vite-book/guides/how-to-deconstruct-technology-seeds.md`](./vite-book/guides/how-to-deconstruct-technology-seeds.md) and [`vite-book/guides/how-to-reframe-stuck-problems.md`](./vite-book/guides/how-to-reframe-stuck-problems.md).
 3. **Draft Deep Dive:** Copy [`templates/research-template.md`](./templates/research-template.md) into `research/<topic-slug>/README.md`.
-4. **Audit Architecture:** Evaluate using the canvases in [`structures/canvases-and-worksheets.md`](./structures/canvases-and-worksheets.md).
-5. **Run Stage-Gate Due Diligence:** Score the venture using [`guides/how-to-conduct-stage-gate-audit.md`](./guides/how-to-conduct-stage-gate-audit.md).
-6. **Audit Glossary Coverage:** Run `python3 glossaries/check-glossary-coverage.py` to ensure all concepts resolve cleanly to [`glossaries/master-glossary.md`](./glossaries/master-glossary.md).
+4. **Audit Architecture:** Evaluate using the canvases in [`vite-book/structures/canvases-and-worksheets.md`](./vite-book/structures/canvases-and-worksheets.md).
+5. **Run Stage-Gate Due Diligence:** Score the venture using [`vite-book/guides/how-to-conduct-stage-gate-audit.md`](./vite-book/guides/how-to-conduct-stage-gate-audit.md).
+6. **Audit Glossary Coverage:** Run `python3 vite-book/glossaries/check-glossary-coverage.py` to ensure all concepts resolve cleanly to [`vite-book/glossaries/master-glossary.md`](./vite-book/glossaries/master-glossary.md).

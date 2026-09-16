@@ -4,9 +4,9 @@
   "description": "> **The Central Knowledge Base, Semantic Registry, and Operational Engine for Technology Entrepreneurship, Deep-Tech Translation, and Breakthrough Venture Building**   > *Synthesized from Harvard Business School (HBS LBTechX1), UC San Diego, Flagship Pioneering, Gen5 Group, and Atlas Venture frameworks.*",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:dev": "vitepress dev vite-book",
+    "docs:build": "vitepress build vite-book",
+    "docs:preview": "vitepress preview vite-book"
   },
   "keywords": [],
   "author": "",
