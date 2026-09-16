@@ -290,5 +290,5 @@ Copy and execute this worksheet directly during the formal stage-gate evaluation
 - **Problem Reframing:** [How-To Guide: Reframe Intractable Problems Using P-H Pairs](./how-to-reframe-stuck-problems.md)
 - **Experiment Design:** [How-To Guide: Design Killer Discriminating Experiments for Deep Tech](./how-to-design-discriminating-experiments.md)
 - **Business Architecture:** [How-To Guide: Audit Business & Operating Model Alignment](./how-to-audit-business-architecture.md)
-- **Capital Taxonomy:** [Capital Taxonomy & Funding Selection Architecture](../structures/funding-taxonomy-and-capital-selection.md)
+- **Capital Taxonomy:** [Capital Taxonomy & Funding Selection Architecture](../structures/five-different-capital-types.md)
 - **Decision Canvases:** [Actionable Canvases & Diagnostic Worksheets](../structures/canvases-and-worksheets.md)

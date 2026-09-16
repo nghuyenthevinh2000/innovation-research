@@ -154,7 +154,7 @@ innovation-research/
 │   │   ├── index.md                             # Structures portal
 │   │   ├── canvases-and-worksheets.md           # 7 actionable canvases & worksheets
 │   │   ├── decision-matrices.md                 # 3 multi-criteria decision matrices
-│   │   └── funding-taxonomy-and-capital-selection.md # Capital taxonomy & selection architecture
+│   │   └── five-different-capital-types.md           # Capital taxonomy & selection architecture
 │   └── guides/                                  # Diátaxis How-To Playbooks (How-To Guides)
 │       ├── how-to-deconstruct-technology-seeds.md # Functional deconstruction playbook
 │       ├── how-to-reframe-stuck-problems.md     # P-H reframing & crowdsourcing playbook
