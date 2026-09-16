@@ -10,7 +10,7 @@
 |---|---|
 | **Primary Innovation Stage** | Stage 1 (Discovery) / Stage 2 (Representation) / Stage 3 (Needs-Seeds) / Stage 4 (Architecture) / Stage 5 (Readiness) / Stage 6 (Validation) / Stage 7 (Capital) / Stage 8 (Scaling) |
 | **Current TRL** | TRL 1–3 (Laboratory Proof-of-Concept) / TRL 4–6 (Simulated / Field Environment) / TRL 7–9 (Commercial Scale) |
-| **Primary Mental Models Applied** | `[[Biological Evolution of Ideas]]`, `[[P-H Search Space]]`, `[[Functional Thinking]]`, `[[10x Imperative]]`, `[[The Firm as a Cash Engine]]` |
+| **Primary Mental Models Applied** | `Biological Evolution of Ideas`, `P-H Search Space`, `Functional Thinking`, `10x Imperative`, `The Firm as a Cash Engine` |
 | **Governing Main Parameters of Value (MPVs)** | 1. [Metric 1, e.g., Speed <5s] <br> 2. [Metric 2, e.g., Cost < \$10/unit] |
 | **Target Customer Job-to-Be-Done** | [Core functional / operational goal customer seeks to accomplish] |
 | **Research Date & Lead Investigator** | YYYY-MM-DD \| [Author / Research Team] |
@@ -118,4 +118,4 @@ flowchart TD
 ## 8. Key References, Glossaries & Artifacts
 
 - **Primary Source Notes:** `[Source Note Title 1]`, `[Source Note Title 2]`
-- **Glossary Cross-References:** [[Main Parameters of Value]], [[Freedom to Operate]], [[The Firm as a Cash Engine]]
+- **Glossary Cross-References:** Main Parameters of Value, Freedom to Operate, The Firm as a Cash Engine

@@ -75,18 +75,9 @@ def extract_glossary_terms(glossary_path: Path):
 
         # Look for aliases or related notes in term body
         if current_term and any(marker in line for marker in ["**Aliases:**", "**Also known as:**", "- **Related Notes:**"]):
-            # 1. Extract any [[wikilinks]] in this line as aliases
-            for wikilink_match in re.finditer(r"\[\[([^\|\]]+)(?:\|[^\]]+)?\]\]", line):
-                alias_clean = wikilink_match.group(1).split("#")[0].strip().lower()
-                if alias_clean:
-                    defined_terms[alias_clean] = term_metadata[current_term]["display"]
-            
-            # 2. Extract plain text aliases separated by commas/backticks
             aliases_part = line.split(":", 1)[1]
-            # Strip out wikilink syntax so we don't double-process
-            cleaned_aliases_part = re.sub(r"\[\[.*?\]\]", "", aliases_part)
-            for alias in re.split(r"[,;]|`", cleaned_aliases_part):
-                alias_clean = alias.strip().replace("`", "").lower()
+            for raw_alias in re.split(r"[,;]", aliases_part):
+                alias_clean = re.sub(r"[\[\]`*]", "", raw_alias).strip().lower()
                 if alias_clean and len(alias_clean) > 1:
                     defined_terms[alias_clean] = term_metadata[current_term]["display"]
 

@@ -28,8 +28,8 @@ python3 glossaries/check-glossary-coverage.py --scan-dir /path/to/notes
 ## Step 2: Review the Audit Diagnostic Output
 
 The scanner reports three sections:
-1. **Validated Glossary Cross-References:** Total number of wikilinks that successfully resolve.
-2. **Missing or Unindexed Wikilinks:** Any `[[Concept]]` that was linked in notes but lacks an entry or alias in `master-glossary.md`.
+1. **Validated Glossary Cross-References:** Total number of indexed terms and aliases recognized across documentation.
+2. **Unindexed Terms & Gaps:** Any concept that was referenced in notes but lacks an entry or alias in `master-glossary.md`.
 3. **Frequent Candidate Terms:** Recurring bolded concepts that appear across multiple notes and may warrant formal glossary definitions.
 
 ---
@@ -49,13 +49,13 @@ Open `glossaries/master-glossary.md` and insert the entry under the appropriate 
 
 ```markdown
 ### `Canonical Term Name` (Acronym)
-- **Aliases:** `[[Note Title]]`, `Alternative Name 1`, `Synonym 2`
+- **Aliases:** `Alternative Name 1`, `Synonym 2`
 - **Definition:** Precise 2–3 sentence operational definition explaining what the mechanism is and its commercial importance.
 - **Formula / Axiom (if applicable):** LaTeX equation or ratio.
 - **Originators:** Key researchers or founders who formalized it.
 - **Stage:** Stage 1 through Stage 8 where the term is most active.
 - **Common Trap:** The specific cognitive or operational error founders commit.
-- **Related Terms:** Cross-links using `[[Other Defined Term]]`.
+- **Related Terms:** Cross-links to other defined terms (e.g., Term Name 1, Term Name 2).
 ```
 
 ---
