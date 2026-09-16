@@ -75,7 +75,8 @@ export default withMermaid(
             items: [
               { text: 'Overview', link: '/structures/' },
               { text: 'Decision Matrices', link: '/structures/decision-matrices' },
-              { text: 'Canvases & Worksheets', link: '/structures/canvases-and-worksheets' }
+              { text: 'Canvases & Worksheets', link: '/structures/canvases-and-worksheets' },
+              { text: 'Capital Taxonomy & Selection', link: '/structures/funding-taxonomy-and-capital-selection' }
             ]
           }
         ],
