@@ -1,5 +1,72 @@
 import { defineConfig } from 'vitepress'
 import { withMermaid } from 'vitepress-plugin-mermaid'
+import { generateSidebar } from 'vitepress-sidebar'
+
+const sidebarConfigs = [
+  {
+    documentRootPath: '.',
+    scanStartPath: 'stages',
+    resolvePath: '/stages/',
+    rootGroupText: 'Lifecycle Stages',
+    useTitleFromFileHeading: true,
+    includeRootIndexFile: true,
+    manualSortFileNameByPriority: [
+      'index.md',
+      'stage-1-discovery-and-seeds.md',
+      'stage-2-problem-framing-and-ph.md',
+      'stage-3-needs-seeds-synchronization.md',
+      'stage-4-business-architecture.md',
+      'stage-5-market-assessment-and-mvp.md',
+      'stage-6-venture-derisking-and-capital.md',
+      'stage-7-spinoffs-and-scaling.md'
+    ]
+  },
+  {
+    documentRootPath: '.',
+    scanStartPath: 'guides',
+    resolvePath: '/guides/',
+    rootGroupText: 'How-To Playbooks',
+    useTitleFromFileHeading: true,
+    includeRootIndexFile: true,
+    manualSortFileNameByPriority: ['index.md']
+  },
+  {
+    documentRootPath: '.',
+    scanStartPath: 'glossaries',
+    resolvePath: '/glossaries/',
+    rootGroupText: 'Semantic Registry',
+    useTitleFromFileHeading: true,
+    includeRootIndexFile: true,
+    manualSortFileNameByPriority: ['index.md', 'master-glossary.md']
+  },
+  {
+    documentRootPath: '.',
+    scanStartPath: 'mental-models',
+    resolvePath: '/mental-models/',
+    rootGroupText: 'Cognitive Architecture',
+    useTitleFromFileHeading: true,
+    includeRootIndexFile: true,
+    manualSortFileNameByPriority: ['index.md']
+  },
+  {
+    documentRootPath: '.',
+    scanStartPath: 'structures',
+    resolvePath: '/structures/',
+    rootGroupText: 'Innovation Structures',
+    useTitleFromFileHeading: true,
+    includeRootIndexFile: true,
+    manualSortFileNameByPriority: ['index.md']
+  },
+  {
+    documentRootPath: '.',
+    scanStartPath: 'templates',
+    resolvePath: '/templates/',
+    rootGroupText: 'Templates & Rubrics',
+    useTitleFromFileHeading: true,
+    includeRootIndexFile: true,
+    manualSortFileNameByPriority: ['index.md']
+  }
+]
 
 export default withMermaid(
   defineConfig({
@@ -21,75 +88,7 @@ export default withMermaid(
         { text: 'Structures', link: '/structures/' },
         { text: 'Templates', link: '/templates/stage-gate-audit-template' }
       ],
-      sidebar: {
-        '/stages/': [
-          {
-            text: 'Lifecycle Stages',
-            items: [
-              { text: 'Overview & Framework', link: '/stages/' },
-              { text: 'Stage 1: Discovery & Seeds', link: '/stages/stage-1-discovery-and-seeds' },
-              { text: 'Stage 2: Problem Framing & P-H', link: '/stages/stage-2-problem-framing-and-ph' },
-              { text: 'Stage 3: Needs-Seeds Synchronization', link: '/stages/stage-3-needs-seeds-synchronization' },
-              { text: 'Stage 4: Business Architecture', link: '/stages/stage-4-business-architecture' },
-              { text: 'Stage 5: Market Assessment & MVPs', link: '/stages/stage-5-market-assessment-and-mvp' },
-              { text: 'Stage 6: Venture De-risking & Capital', link: '/stages/stage-6-venture-derisking-and-capital' },
-              { text: 'Stage 7: Spin-Offs & Scaling', link: '/stages/stage-7-spinoffs-and-scaling' }
-            ]
-          }
-        ],
-        '/guides/': [
-          {
-            text: 'How-To Playbooks',
-            items: [
-              { text: 'Deconstruct Technology Seeds', link: '/guides/how-to-deconstruct-technology-seeds' },
-              { text: 'Reframe Stuck Problems', link: '/guides/how-to-reframe-stuck-problems' },
-              { text: 'Design Discriminating Experiments', link: '/guides/how-to-design-discriminating-experiments' },
-              { text: 'Audit Business Architecture', link: '/guides/how-to-audit-business-architecture' },
-              { text: 'Audit & Expand Glossaries', link: '/guides/how-to-audit-and-expand-glossaries' }
-            ]
-          }
-        ],
-        '/glossaries/': [
-          {
-            text: 'Semantic Registry',
-            items: [
-              { text: 'Glossary Overview', link: '/glossaries/' },
-              { text: 'Master Lexicon (60+ terms)', link: '/glossaries/master-glossary' },
-              { text: 'Glossary Detection Guide', link: '/glossaries/glossary-detection-guide' }
-            ]
-          }
-        ],
-        '/mental-models/': [
-          {
-            text: 'Cognitive Architecture',
-            items: [
-              { text: 'Overview', link: '/mental-models/' },
-              { text: 'Mental Models Catalog (17 Models)', link: '/mental-models/mental-models-catalog' },
-              { text: 'Cognitive Traps & Anti-Patterns', link: '/mental-models/cognitive-traps-and-anti-patterns' }
-            ]
-          }
-        ],
-        '/structures/': [
-          {
-            text: 'Innovation Structures',
-            items: [
-              { text: 'Overview', link: '/structures/' },
-              { text: 'Decision Matrices', link: '/structures/decision-matrices' },
-              { text: 'Canvases & Worksheets', link: '/structures/canvases-and-worksheets' },
-              { text: 'Capital Taxonomy & Selection', link: '/structures/funding-taxonomy-and-capital-selection' }
-            ]
-          }
-        ],
-        '/templates/': [
-          {
-            text: 'Templates & Rubrics',
-            items: [
-              { text: 'Stage-Gate Audit Template', link: '/templates/stage-gate-audit-template' },
-              { text: 'Research Template', link: '/templates/research-template' }
-            ]
-          }
-        ]
-      },
+      sidebar: generateSidebar(sidebarConfigs),
       socialLinks: [
         { icon: 'github', link: 'https://github.com/nghuyenthevinh2000/innovation-research' }
       ],
