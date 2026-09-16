@@ -156,7 +156,7 @@ innovation-research/
 │   ├── how-to-design-discriminating-experiments.md # Deep-tech MVP & killer experiment playbook
 │   ├── how-to-audit-business-architecture.md    # Business architecture alignment playbook
 │   ├── how-to-audit-and-expand-glossaries.md    # Glossary audit & expansion playbook
-│   └── stage-gate-audit-template.md             # Venture project stage-gate audit rubric
+│   └── how-to-conduct-stage-gate-audit.md       # Venture project stage-gate audit playbook
 ├── templates/                                   # Standardized Authoring Templates (Excluded from web docs)
 │   └── research-template.md                     # Deep-dive research whitepaper template
 ├── research/                                    # Topic-specific whitepapers & research reports
@@ -172,5 +172,5 @@ innovation-research/
 2. **Deconstruct & Frame:** Use [`guides/how-to-deconstruct-technology-seeds.md`](./guides/how-to-deconstruct-technology-seeds.md) and [`guides/how-to-reframe-stuck-problems.md`](./guides/how-to-reframe-stuck-problems.md).
 3. **Draft Deep Dive:** Copy [`templates/research-template.md`](./templates/research-template.md) into `research/<topic-slug>/README.md`.
 4. **Audit Architecture:** Evaluate using the canvases in [`structures/canvases-and-worksheets.md`](./structures/canvases-and-worksheets.md).
-5. **Run Stage-Gate Due Diligence:** Score the venture using [`guides/stage-gate-audit-template.md`](./guides/stage-gate-audit-template.md).
+5. **Run Stage-Gate Due Diligence:** Score the venture using [`guides/how-to-conduct-stage-gate-audit.md`](./guides/how-to-conduct-stage-gate-audit.md).
 6. **Audit Glossary Coverage:** Run `python3 glossaries/check-glossary-coverage.py` to ensure all concepts resolve cleanly to [`glossaries/master-glossary.md`](./glossaries/master-glossary.md).

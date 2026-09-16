@@ -31,7 +31,7 @@ features:
     link: /structures/
   - title: Stage-Gate Audit Canvas
     details: Comprehensive evaluation instrument for stress-testing ventures across all 7 stages.
-    link: /guides/stage-gate-audit-template
+    link: /guides/how-to-conduct-stage-gate-audit
 ---
 
 <div style="margin-top: 3rem;">
