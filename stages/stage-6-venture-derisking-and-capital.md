@@ -8,8 +8,8 @@
 
 Raising external venture capital is not a badge of honor; institutional equity is the most expensive and restrictive capital instrument in existence. Stage 6 architects the venture's financial engine to minimize external dilution, compress the cash conversion cycle, and structure capital deployment around **hypothesis-driven discriminating milestones**.
 
-> [!QUOTE] The Entrepreneurial Finance Principle
-> *"Raising external finance from a venture capital investor is really not necessarily a badge of honor. You do it when all other sources of capital are not feasible, because venture capital is very expensive."*
+> **The Entrepreneurial Finance Principle**  
+> *"Raising external finance from a venture capital investor is really not necessarily a badge of honor. You do it when all other sources of capital are not feasible, because venture capital is very expensive."*  
 > — Prof. Ramana Nanda (Harvard Business School)
 
 ```mermaid

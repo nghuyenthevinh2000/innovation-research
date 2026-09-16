@@ -8,7 +8,7 @@
 
 Stage 1 begins in the research laboratory (academic institution, corporate R&D center, or defense lab). The objective is to translate an observable scientific anomaly or breakthrough into a defined, repeatable **Technology Seed** while avoiding the delusion that invention alone guarantees commercial value.
 
-> [!QUOTE] The Lab Reality
+> **The Lab Reality**  
 > Over **75% of issued patents never generate a single dollar of commercial revenue**. Scientific discovery is merely the opening ante; commercialization requires building the delivery vehicle that brings it to market. (Karim Lakhani & Vish Krishnan).
 
 ---

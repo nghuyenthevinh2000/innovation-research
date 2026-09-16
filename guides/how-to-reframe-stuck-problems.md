@@ -18,7 +18,7 @@ Review your team's current behavior against the **Trap Checklist**:
 - [ ] Increasing compute or capital is the only proposed solution.
 - [ ] Disagreements revolve around fine-tuning parameters within a single discipline.
 
-> [!IMPORTANT] The Simon Principle
+> **Important — The Simon Principle:**  
 > If you are computing mental arithmetic combinations to sum to 15, do not compute faster. **Map the 3×3 Magic Square.**
 
 ---

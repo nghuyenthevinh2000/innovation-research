@@ -8,8 +8,8 @@
 
 Once a technology seed is isolated, founders must determine *how to represent the problem space*. The choice of coordinate system dictates whether commercialization will be computationally impossible, agonizingly slow, or effortlessly trivial.
 
-> [!QUOTE] The Herbert Simon Principle
-> *"Solving a problem simply means representing it so as to make the solution transparent."*
+> **The Herbert Simon Principle**  
+> *"Solving a problem simply means representing it so as to make the solution transparent."*  
 > — Herbert Simon (Nobel Laureate, 1978)
 
 ```mermaid

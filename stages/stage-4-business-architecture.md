@@ -8,8 +8,8 @@
 
 A superior technology matched with a validated customer need will still fail if wrapped in an untenable business architecture. Stage 4 transforms a technical capability into a sustainable, scalable economic enterprise.
 
-> [!QUOTE] The Xerox PARC Warning
-> *"Xerox PARC invented the GUI, the mouse, Ethernet, and laser printing — but failed to capture their commercial value. Apple and Microsoft captured that value through superior business and operating models."*
+> **The Xerox PARC Warning**  
+> *"Xerox PARC invented the GUI, the mouse, Ethernet, and laser printing — but failed to capture their commercial value. Apple and Microsoft captured that value through superior business and operating models."*  
 > — Prof. Karim Lakhani (Harvard Business School)
 
 $$\text{Business Architecture} = \underbrace{\text{Business Model}}_{\text{Value Creation \& Capture}} + \underbrace{\text{Operating Model}}_{\text{Structure, Capabilities, Assets}}$$

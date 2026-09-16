@@ -8,8 +8,8 @@
 
 Stage 7 governs the formal transition from an exploratory project into a scaled corporate entity. It addresses institutional friction: spinning IP out of universities, navigating accelerator dynamics, structuring investor syndicates, and fighting standards wars to achieve market dominance.
 
-> [!QUOTE] The Syndicate Reality
-> *"You've got all your eggs in that one basket. The VC has a portfolio. What your definition of success is can be very different from your investor's. You might feel a \$50M exit is transformational; the VC might see that as a failure because they need a billion-dollar outcome to return their fund."*
+> **The Syndicate Reality**  
+> *"You've got all your eggs in that one basket. The VC has a portfolio. What your definition of success is can be very different from your investor's. You might feel a \$50M exit is transformational; the VC might see that as a failure because they need a billion-dollar outcome to return their fund."*  
 > — Prof. Ramana Nanda (Harvard Business School)
 
 ```mermaid
