@@ -21,7 +21,7 @@ flowchart TD
     S1 --> S2 --> S3 --> S4 --> S5 --> S6
 
     S4 -.->|"Disconfirming feedback"| S2
-    S4 -.->|"FTO or channel block"| S3
+    S4 -.->|"Legal or market barrier"| S3
     S5 -.->|"Failed killer experiment"| S2
 ```
 
