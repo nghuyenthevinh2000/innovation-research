@@ -14,7 +14,7 @@
 | [**Stage 3**](#stage-3-business-architecture--model-alignment) | Venture Architecture | Business Architecture, Business Model, Value Creation, Value Capture, Operating Model, Structure, Capabilities, Assets, Misalignment |
 | [**Stage 4**](#stage-4-market-assessment-due-diligence--deep-tech-mvps) | Market Assessment & MVPs | TRL (1–9), Cloverleaf Framework, Freedom to Operate (FTO), Blocking Patents, Market Antibodies, 10x Imperative, Patience Dilemma, 100-Interview Funnel, Customer Validation, Disconfirming Evidence, Mom Test, Dog Food Test, MVP in Deep Tech, Conceptual MVP, Simulated MVP, Prototypical MVP, Think-Aloud |
 | [**Stage 5**](#stage-5-venture-de-risking--capital-architecture) | Finance & Staging | Cash Engine, Cash Conversion Cycle (CCC), Working Capital, Customer Financing, Lemonade Stand, Venture De-Risking, Discriminating Experiment, Staged Financing, Debt Capital, Equity, Equity Capital, Dilutive Capital, Non-Dilutive Capital, SBIR / STTR Grants, Cash Flow Rights, Control Rights |
-| [**Stage 6**](#stage-6-scaling-spin-offs-syndicates--standards) | Governance & Scale | Angel Investors, Family Office, Venture Capital Funds (VC), Seed Funds, Illiquid Investment, Exit, Power Law, 10-Year Fund Lifecycle, Investor Syndicate, Signaling Risk, TTO Pitfalls, Accelerators, Platforms, Venture Acceleration, Standards War, Go-to-Market Foundations |
+| [**Stage 6**](#stage-6-scaling-spin-offs-syndicates--standards) | Governance & Scale | Angel Investors, Family Office, Venture Capital Funds (VC), Seed Funds, Illiquid Investment, Exit, Power Law, 10-Year Fund Lifecycle, Investor Syndicate, Signaling Risk, Technology Transfer, TTO Pitfalls, Accelerators, Platforms, Venture Acceleration, Standards War, Go-to-Market Foundations |
 
 ---
 
@@ -754,12 +754,20 @@
 - **Common Trap:** Granting super-pro-rata rights or right-of-first-refusal to an investor who may later strategically walk away, poisoning outside interest.
 - **Related Terms:** Investor Syndicate, Institutional Venture Capital (VC), Staged Financing (Milestone Financing).
 
+### `Technology Transfer`
+
+- **Aliases:** `Tech Transfer`, `Technology Commercialization`, `Tech Commercialization`, `Technology Transfer Process`, `Commercialization of Technology`
+- **Definition:** The process of moving a technology or capability developed in a laboratory or other research setting to a commercial use form through a startup, large established business, or other organization. This is also sometimes called technology commercialization, although some consider the terms to have separate meanings.
+- **Stage:** Core Foundations / Stage 6 (Lab-to-Market Translation & Spin-Offs).
+- **Common Trap:** *The "Relay Race" Trap* — treating technology commercialization as a linear handoff where researchers produce a discovery in the laboratory, file a patent, and pass the baton over the wall to corporate licensees or external business managers, rather than engaging in a closed-loop "contact sport" with continuous co-development between scientists, entrepreneurs, and target customers from day one.
+- **Related Terms:** Innovation, Invention, The Valley of Death, Tech Transfer Office (TTO) Pitfalls, Venture Acceleration, Freedom to Operate (FTO), Open Innovation.
+
 ### `Tech Transfer Office (TTO) Pitfalls`
 
 - **Aliases:** `Tech Transfer Office Pitfalls`, `TTO Pitfalls`, `Spin-Off Pitfalls`, `University Tech Transfer Traps`, `Venture Acceleration and Spin-Off Pitfalls`
 - **Definition:** Common hazards encountered when licensing technology out of universities or national laboratories: aggressive upfront cash demands, excessive royalty drag on gross margins, unassigned intellectual property, and toxic cap tables (passive academic founders holding majority control).
 - **Antidote:** Negotiating milestones tied to commercial success, clean IP assignment, and equity splits reflecting operational commitment.
-- **Related Terms:** Freedom to Operate (FTO), Venture Acceleration, Open Innovation.
+- **Related Terms:** Freedom to Operate (FTO), Venture Acceleration, Open Innovation, Technology Transfer.
 
 ### `Accelerators`
 

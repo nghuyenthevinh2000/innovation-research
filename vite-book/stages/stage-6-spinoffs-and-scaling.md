@@ -32,6 +32,7 @@ flowchart LR
 
 ## 2. Key Concepts & Definitions
 
+- **Technology Transfer:** The process of moving a technology or capability developed in a laboratory or other research setting to a commercial use form through a startup, large established business, or other organization. This is also sometimes called technology commercialization, although some consider the terms to have separate meanings.
 - **Tech Transfer Office (TTO) Pitfalls:** Hazards in university licensing: aggressive upfront cash demands, excessive gross revenue royalty drag (5–10%), unassigned patent claims, and toxic cap tables (passive lab professors owning 40%+ of equity).
 - **The Power Law ("The Hits Business"):** Institutional VC portfolio math where ~5% of investments generate ~80% of aggregate returns. Funds cannot support modest lifestyle exits; every investment must hold theoretical potential to return the fund (> \$1B).
 - **The 10-Year Fund Lifecycle:**
