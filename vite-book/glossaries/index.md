@@ -16,7 +16,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 ## Navigation & Artifacts
 
 | Document | Purpose | Audience |
-|---|---|---|
+| --- | --- | --- |
 | [**`master-glossary.md`**](./master-glossary.md) | The definitive catalog of 87+ core innovation terms, mathematical formulas, axioms, originators, and anti-patterns. | Researchers, Founders, Investors |
 | [**`glossary-detection-guide.md`**](./glossary-detection-guide.md) | Step-by-step protocol for detecting missing terminology, applying the 3-question filter, and registering new entries. | Editors, Curators, Agents |
 | [**`check-glossary-coverage.py`**](./check-glossary-coverage.py) | Automated Python CLI linter that audits markdown notes, reports unindexed terms, and extracts candidate missing terms. | Automation, CI/CD, Local Audits |
@@ -39,7 +39,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 ### Core Foundations
 
 | Term | Quick-Scan Definition |
-|---|---|
+| --- | --- |
 | [**`Invention`**](./master-glossary.md#invention) | The creation of a novel, non-obvious technical capability, scientific discovery, physical mechanism, or proprietary algorithm. |
 | [**`Innovation`**](./master-glossary.md#innovation) | The successful commercial translation and deployment of a technical capability or invention into captured economic and societal value in the marketplace. |
 | [**`The Valley of Death`**](./master-glossary.md#the-valley-of-death) | The perilous funding and operational chasm between laboratory proof-of-concept (TRL 3–4) and self-sustaining commercial revenue (TRL 8–9). |
@@ -53,7 +53,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 ### Stage 2: Technology-Market Fit & Needs-Seeds Synchronization
 
 | Term | Quick-Scan Definition |
-|---|---|
+| --- | --- |
 | [**`Perspective`**](./master-glossary.md#perspective) | An internal coordinate system, mental model, or representational frame that dictates how a problem space is categorized, visualized, and decomposed. |
 | [**`Heuristic`**](./master-glossary.md#heuristic) | A search algorithm, rule of thumb, or navigational strategy applied to a problem space once it has been framed through a specific perspective to locate an optimal solution. |
 | [**`Perspective-Heuristic Pair (P-H Pair)`**](./master-glossary.md#perspective-heuristic-pair-p-h-pair) | The coupled combination of a representation (coordinate frame) and a search rule (algorithm). |
@@ -78,7 +78,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 ### Stage 3: Business Architecture & Model Alignment
 
 | Term | Quick-Scan Definition |
-|---|---|
+| --- | --- |
 | [**`Business Architecture`**](./master-glossary.md#business-architecture) | The comprehensive system design of a venture consisting of two interdependent pillars: the **Business Model** (value creation and capture) and the **Operating Model** (value delivery engine). |
 | [**`Business Model`**](./master-glossary.md#business-model) | The architectural pillar detailing why customers choose the offering (**Value Creation**) and how the enterprise captures a share of that economic value as sustainable revenue (**Value Capture**). |
 | [**`Value Creation`**](./master-glossary.md#value-creation) | The mechanism by which an offering delivers economic, operational, or emotional surplus to the customer. |
@@ -92,7 +92,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 ### Stage 4: Market Assessment, Due Diligence & Deep-Tech MVPs
 
 | Term | Quick-Scan Definition |
-|---|---|
+| --- | --- |
 | [**`Technology Readiness Levels (TRL)`**](./master-glossary.md#technology-readiness-levels-trl) | A 9-level milestone metric originally developed by NASA and DoD to assess the maturity and operational robustness of a technology from basic principles (TRL 1) to flight-proven commercial deployment (TRL 9). |
 | [**`The Cloverleaf Framework`**](./master-glossary.md#the-cloverleaf-framework) | A multidimensional diagnostic tool used to stress-test technology commercialization across four interdependent leaves: **Technology & IP Readiness**, **Market Need & Customer Value**, **Business Model Defensibility**, and **Execution & Operational Feasibility**. |
 | [**`Freedom to Operate (FTO)`**](./master-glossary.md#freedom-to-operate-fto) | The legal determination that practicing, manufacturing, or commercializing a technology will not infringe upon valid, active third-party patent claims or regulatory exclusivity rights. |
@@ -115,7 +115,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 ### Stage 5: Venture De-Risking & Capital Architecture
 
 | Term | Quick-Scan Definition |
-|---|---|
+| --- | --- |
 | [**`The Firm as a Cash Engine`**](./master-glossary.md#the-firm-as-a-cash-engine) | The fundamental economic representation of an enterprise as a transformation machine that takes cash, converts it into operating assets, and converts those assets back into cash plus a return. |
 | [**`Cash Conversion Cycle (CCC)`**](./master-glossary.md#cash-conversion-cycle-ccc) | The duration in days required to convert cash invested in operations (inventory, R&D, labor) back into cash collected from customers. |
 | [**`Working Capital Architecture`**](./master-glossary.md#working-capital-architecture) | The structural policies, payment terms, and inventory rhythms that determine how cash flows through operational accounts. |
@@ -136,11 +136,16 @@ This directory houses the complete semantic registry, detection tools, and gover
 | [**`Cash Flow Rights`**](./master-glossary.md#cash-flow-rights) | The contractual provisions in equity financing agreements that dictate how monetary proceeds, dividends, and exit returns are distributed among shareholders (e.g., 1x non-participating vs participating preferred stock, seniority order, anti-dilution ratchets). |
 | [**`Control Rights`**](./master-glossary.md#control-rights) | The legal provisions in venture term sheets that dictate who makes strategic decisions and governs the enterprise, including board seat composition, voting thresholds, and protective vetoes over additional debt, key hires, intellectual property licensing, or M&A. |
 | [**`Assumption Risk vs. Execution Risk`**](./master-glossary.md#assumption-risk-vs-execution-risk) | The critical distinction between two venture failure modes: |
+| [**`Fully Diluted Equity`**](./master-glossary.md#fully-diluted-equity) | The total share count assuming all options, warrants, and convertible instruments are fully exercised into common shares. |
+| [**`Capitalization Table (Cap Table)`**](./master-glossary.md#capitalization-table-cap-table) | The master corporate accounting ledger tracking securities, share counts, and percentage ownership on an issued and fully diluted basis. |
+| [**`The Sahlman Pie Axiom`**](./master-glossary.md#the-sahlman-pie-axiom) | The entrepreneurial finance rule that maximizing the dollar value of equity matters far more than percentage ownership, and who you take capital from matters more than initial terms. |
+| [**`The 3 Milestone Inflections`**](./master-glossary.md#the-3-milestone-inflections) | The three discrete empirical gates that govern staged venture capital: Technology Works $\rightarrow$ Product-Market Fit & Unit Economics $\rightarrow$ Scaled Deployment. |
+| [**`Capital Scarcity Discipline`**](./master-glossary.md#capital-scarcity-discipline) | The operational advantage of capital constraints, forcing teams to prove hypotheses through the scrappiest, leanest discriminating experiments. |
 
 ### Stage 6: Scaling, Spin-Offs, Syndicates & Standards
 
 | Term | Quick-Scan Definition |
-|---|---|
+| --- | --- |
 | [**`Angel Investors (Angel Capital)`**](./master-glossary.md#angel-investors-angel-capital) | High-net-worth individuals who invest their own personal capital into early-stage startups (often pre-seed or seed stage). |
 | [**`Family Office`**](./master-glossary.md#family-office) | A special investment entity managing the wealth owned by high-net-worth families, offering patient, multi-generational mission-driven capital. |
 | [**`Venture Capital Funds (VC)`**](./master-glossary.md#venture-capital-funds-vc) | A specific kind of capital provider that invests in early stage companies that may have progressed beyond the initial incubation and acceleration stages, exchanging capital for equity ownership. |
@@ -163,6 +168,7 @@ This directory houses the complete semantic registry, detection tools, and gover
 ## How to Run a Glossary Coverage Check
 
 Verify the entire repository for terminology completeness:
+
 ```bash
 python3 glossaries/check-glossary-coverage.py
 ```

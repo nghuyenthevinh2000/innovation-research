@@ -1,0 +1,91 @@
+
+RAMANA NANDA: VCs often have different stages that they refer to.
+It used to be the case that they started off
+with a Series A investment, a Series B investment, a Series C investment.
+These just had to do with the first and second and third investments
+that these companies got from venture capital investments.
+In the mid 2000s, it became much, much cheaper to start a new company.
+Amazon Web Services came along.
+So you didn't have to buy servers anymore.
+You could just go onto AWS, and you could scale up as demand grew.
+And there were many other developments, everything from open source software,
+and object-oriented programming, and other technological advancements
+that made it much, much cheaper to start businesses.
+What that meant was that the first amount of money going into a company
+fell.
+And VCs were able to get into companies a little bit earlier
+in the life of the company.
+So they developed a new stage that was called the seed stage of investment.
+And then it became even cheaper to start businesses.
+And so they've developed a new stage that's
+called a pre-seed stage of financing.
+I think at some level it's less important to be thinking
+about the names of these different stages
+and more important to think about what you're
+doing when you're taking your first amount of capital
+and what you're doing at later stages.
+And really the goal with raising money, there's
+sort of a sense in which some people will argue, look, raise as little money
+as you can as late as you can, because money from investors is expensive.
+And you want to dilute yourself as little as possible.
+While that's absolutely right, I think it's also
+important to think about the fact that you have a lot more negotiating power
+to raise your next round of funding if you have proven more with what you have
+learned with the last round of funding that you had
+and that you have some money that's already
+sitting in your bank account, which means that you're not desperate,
+which means that you have more negotiating power
+with the next round of investors.
+And so I think there's a healthy balance in how much you raise.
+You obviously want to raise as little as you can so that you don't get diluted.
+But you don't want to be running too low on money, because most of the time
+you will end up using more money and more time than you had anticipated.
+And it's those moments when you have run out of cash
+and you haven't proven that your technology works
+that you're going to have a very hard time raising the next round of money.
+And so we think about raising relatively small amounts
+of money in these pre-seed or seed rounds of financing.
+The range is off sometimes as low as a few hundred thousand dollars
+to a few million dollars, depending on what the business is.
+And there the goal is really to demonstrate that your technology works.
+The next round of capital that you raise is--
+it could be a seed round.
+It could be a Series A round of financing.
+Different people will call it different things.
+But the next round of funding is really to try
+to demonstrate product market fit.
+And there the idea is to show that customers
+are buying this product, that there seems
+to be some willingness to pay for it.
+There is a compelling use case.
+And you might be able to show something like a letter of intent from a customer
+that they have actually been able-- they have
+vouched that they want to buy this.
+That's a great way to be able to raise an initial round of funding.
+And then you prove out with that money that in fact their faith in you
+was justified.
+They actually like this product.
+They're willing to start paying for this and that there's other customers that
+are now willing to pay for this and that you're
+beginning to show what the unit economics might be for this product.
+And then finally, you have expansion stage capital
+that you raise where that you raise that to deploy your technology at scale
+in a way that then demonstrates that you are able to execute at scale,
+you're able to be a market leader, and that you can compete with the very best
+as a viable business.
+And so those I think are the three sorts of discrete stages of building
+a business, showing the technology works,
+demonstrating that there is some sort of product market fit.
+And then showing unit economics comes somewhere in the middle,
+and then scaling that.
+And it's really those inflection points that you should be thinking about.
+And as you raise money, you want to be thinking about,
+what do you need to prove to the next stage investors?
+What are they looking for to put money into your company?
+And you want to be raising enough money that
+will allow you to run the experiments that
+will enable you to prove to the next set of investors that you have a business
+that they will find interesting and attractive.
+And so that's the way I would advise thinking
+about the relationship between the technology development
+path and the financing path.

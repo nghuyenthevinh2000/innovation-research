@@ -1,0 +1,112 @@
+RAMANA NANDA: So as we think about how to pitch to venture capital investors,
+it's important to remember that VC is a hits model.
+So they are looking for the home run investment.
+What they want to see is that you have thought about a way
+to turn your idea into a product that can be a hit
+no matter how low that probability is.
+So oftentimes, people think that they're going to pitch a compelling--
+a high probability outcome that will have low--
+sort of a low value if it's successful.
+So I will guarantee you that I can be a $20 million a year company.
+That's not as exciting for a VC because they
+know that there is a very, very high chance
+that this thing will fail anyway.
+And so what they want to be able to see is if it's successful,
+can it deliver me a home run.
+And so what they are looking for is have you
+thought about what would it take to get your business to being a home run
+understanding that it's going to be a low likelihood of success.
+But what would be all the things that would
+need to line up for this to be a very successful venture?
+What would that state of the world look like?
+What would have had to have gone right for that to happen?
+And then can you show them that you have thought
+about what are the things that could go wrong
+and how are you going to be trying to understand
+whether that's going to happen while deploying less amounts of money?
+How will you ensure that you are trying to get the odds stacked in your favor
+so that over time, you can reduce the likelihood that this thing is
+going to fail and increasingly deliver that home run for them?
+So very often, people kind of get stuck in this I
+will pitch you the most likely outcome.
+And that's not going to be the right way to do it.
+You want to be pitching the most exciting outcome while understanding
+that there is a low likelihood of doing so, of achieving it,
+but at the same time, being thoughtful about understanding
+what are the barriers that will be needed
+to have gone over to be able to get to that very, very low probability
+but exciting outcome.
+So as we think about home runs from the perspective of a venture capital
+investor, they're really thinking about this in economic terms.
+Of course, there are correlations between ventures
+that are incredibly valuable for society and ventures that end up
+being very valuable economically.
+But it's not always the case that that is true.
+Sometimes you will have ventures that exited for very large sums of money
+but then ultimately ended up failing.
+But from the perspective of a venture capital investor, the thing to note
+is that they're making what's called an illiquid investment.
+They're making an investment into a company where they're
+getting some portion of the equity.
+But they can't sell that equity to anyone right now.
+Nobody is willing to buy that share in the company
+because it's not traded on the stock exchange.
+There is no market to trade that equity.
+So unlike a publicly traded company, where I can just buy some shares
+and I can sell them at any moment in time, these are private ventures.
+And so there is no secondary market typically for these kinds of shares.
+So the way in which the venture capital investors actually make money
+is when there is some exit event, what they call an exit event.
+And that exit event is typically if that company
+is bought by another company where they then
+buy all the equity in that company in return for cash,
+and now the venture capitalists can turn their ownership into cash,
+or what's known as an initial public offering or going
+public where the company registers its shares on a public stock
+market, an exchange, and then makes those shares tradable.
+And the VCs can then take the shares that they own
+and sell them to someone because now it's actually traded on an exchange.
+So VCs are often looking for companies where they can make their investment
+and exit again within a certain period of time.
+And it's in that context that many science-based ventures or tough tech
+ventures can be a poor fit with the time horizons
+that VCs have because of the fact that they may take a lot longer to actually
+build up to being valuable companies in part
+because there's real physical investment.
+You have to build a factory or you actually have to do real science.
+You have to launch a satellite into space.
+Those are all kinds of physical and time-consuming activities
+that are different from programming a website, which
+is much more in your control and can be done in a short period of time.
+So I can talk briefly about the fact that VCs have really kind of really
+been successful in some sense as investors
+in a pretty narrow band of technological innovation, mostly really
+information technology.
+They have, to some extent, been successful in biotech.
+But my colleague, Gary Pisano, has done some work
+showing that that has only really been in a few moments in time.
+And in general, even today, most VCs have
+exited from funding biotech companies to the extent
+that they're in funding health care.
+They're in really in health care IT rather than in biotech per se.
+So one of the big challenges I think that we face as a society
+is being able to deploy risk capital to tough tech, to science-based companies.
+And that's an area that is of active interest
+both among academics, but also among practitioners.
+So for example, there are the breakthrough energy ventures,
+the venture that is trying to--
+venture capital firm that is looking to try to make inroads
+into funding clean energy ventures is trying
+to take different approaches to building companies with different time horizons.
+A number of family offices that are not fixed,
+closed-end funds for 10-year periods are perhaps
+more appropriate for some of these kinds of ventures.
+And so as one thinks about building science-based ventures,
+while there is this key difference between dilutive and non-dilutive,
+I'd encourage entrepreneurs to think about being creative,
+about reaching out to non-traditional investment sources,
+and not necessarily stick only to VC if in fact the businesses that they're
+building are ones that have much longer time
+horizons or different kinds of capital needs
+that might be better suited to investors that also share that longer time
+frame or that ability to stay in the investment for a longer period of time.

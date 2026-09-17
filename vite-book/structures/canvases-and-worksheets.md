@@ -59,9 +59,9 @@
 |:---:|---|---|---|---|---|
 | **1** | **Scan Patient** | Patient transport delay | ED bed blocked (2 hrs) | Missing prior health record | Fear of unseen hemorrhage |
 | **2** | **Upload to PACS** | DICOM formatting errors | IT bandwidth strain | Fragmented visual slices | Fear of missing slice 142 |
-| **3** | **Radiologist Read** | Radiologist backlog | \$120/scan contractor fee | Preliminary report delay | Overnight fatigue liability |
+| **3** | **Radiologist Read** | Radiologist backlog | $120/scan contractor fee | Preliminary report delay | Overnight fatigue liability |
 | **4** | **Triage & Decision** | Manual phone call to ED | 45-min triage queue | Conflicting clinical notes | Risk of delayed surgery |
-| **5** | **Discharge / Admit** | Administrative EHR entry | \$2,400 unnecessary admit | Bed utilization opacity | Patient family frustration |
+| **5** | **Discharge / Admit** | Administrative EHR entry | $2,400 unnecessary admit | Bed utilization opacity | Patient family frustration |
 
 - **Decisive Point of Intervention:** [Step 3 & 4: Automated AI preliminary triage within 5 minutes]
 
@@ -76,7 +76,7 @@
   - *Core Customer Benefit:* [e.g., 40% reduction in diagnostic turnaround time]
   - *Decisive MPV:* [Speed: <5 minutes vs. 2 hours]
 - **Value Capture Model:** [Annual SaaS / Metered Pay-per-Use / IP Licensing]
-  - *Pricing Metric:* [\$50,000/facility base fee + \$12,000/scanner/year]
+  - *Pricing Metric:* [$50,000/facility base fee + $12,000/scanner/year]
   - *Target Contribution Margin:* [80%]
 
 ### Pillar II: Operating Model
@@ -130,14 +130,14 @@
 
 ### Step 2: MVP Archetype Selection
 - [ ] Conceptual MVP (Scenario Walkthrough)
-- [x] Simulated MVP (Wizard of Oz / Human-in-the-Loop)
+- [ ] Simulated MVP (Wizard of Oz / Human-in-the-Loop)
 - [ ] Prototypical MVP (Functional Benchtop Hardware)
 
 ### Step 3: Experiment Protocol
 - **Test Cohort:** 15 emergency hospital physicians during simulated night-shift scenarios.
 - **Workflow Simulation:** Physicians receive incoming traumatic CT scans with structured AI summaries. (Unbeknownst to them, summaries are drafted in real time by an off-site senior clinical radiologist).
 - **Metric Measured:** Speed to decision, clinical trust rating, and percentage of scans ordered for human re-read.
-- **Budget & Duration:** \$4,500 and 10 days.
+- **Budget & Duration:** $4,500 and 10 days.
 
 ### Step 4: Decision Rule
 - If Re-read Request Rate is < 10% → **PROCEED** to staged Series A financing.
@@ -150,11 +150,11 @@
 *Use in Stage 5 to model the Cash Conversion Cycle (Prof. Ramana Nanda).*
 
 ### Parameters
-- **Daily Operating Burn / Cost of Goods Sold (COGS):** \$ [ ______ ] / day
-- **Daily Gross Revenue Generated:** \$ [ ______ ] / day
-- **Days Inventory Outstanding (DIO):** [ ______ ] days
-- **Days Sales Outstanding (DSO):** [ ______ ] days (Accounts Receivable payment collection delay)
-- **Days Payables Outstanding (DPO):** [ ______ ] days (Supplier payment window)
+- **Daily Operating Burn / Cost of Goods Sold (COGS):** $10,000 / day (Example)
+- **Daily Gross Revenue Generated:** $15,000 / day (Example)
+- **Days Inventory Outstanding (DIO):** 45 days
+- **Days Sales Outstanding (DSO):** 60 days (Accounts Receivable payment collection delay)
+- **Days Payables Outstanding (DPO):** 30 days (Supplier payment window)
 
 ### Calculation
 $$\text{Cash Conversion Cycle (CCC)} = \text{DIO} + \text{DSO} - \text{DPO}$$
@@ -165,3 +165,61 @@ $$\text{Trapped Working Capital} = \text{Daily COGS} \times \text{CCC}$$
 1. *Convert DSO to Negative:* Shift enterprise accounts from Net-60 invoices to annual upfront prepaid contracts (DSO → -365 days).
 2. *Eliminate DIO:* Transition from stocking manufactured inventory to just-in-time dropship contract manufacturing.
 3. *Extend DPO:* Negotiate Net-60 terms with foundational cloud providers and hardware component vendors.
+
+---
+
+## Canvas 8: Investor Counterparty Alignment & Incentive Audit
+
+*Use in Stage 5 to systematically evaluate prospective investors before signing term sheets (Prof. Ramana Nanda).*
+
+- **Prospective Investment Firm:** [Enter Firm Name, e.g., Benchmark / Founders Fund]
+- **Fund Structure & Vintage:** [e.g., Fund IV, $250M, 10-year closed-end LP fund, Year 3 of investment cycle]
+
+| Forensic Dimension | Diagnostic Inquiry | Venture Evaluation / Findings | Alignment Status (Green / Amber / Red) |
+|---|---|---|:---:|
+| **1. Counterparty Mandate** | Who are the LPs? What is the expected fund liquidation timeline? | Institutional pension funds; 10-year hard close | [Amber / Red if venture requires 12+ years] |
+| **2. Monetization Engine** | Are returns driven by 20% carry on rare outliers, or asset-gathering management fees? | 20% carry; requires $1B+ enterprise value | [Green for power-law upside alignment] |
+| **3. Value-Add Beyond Capital** | What specific customer intros, executive hiring, or syndicate partners can they deliver? (Bill Sahlman Rule) | Direct connections to Fortune 500 clinical pilots | [Green — increases terminal pie value] |
+| **4. Governance Friction Points** | What veto thresholds, board seats, or liquidation preferences are demanded? | Demands $1\times$ non-participating, 1 board seat | [Green — standard clean terms] |
+| **5. Follow-On Signaling Risk** | Can they lead the next round, or will passing create a fatal toxic signal? | Reserved 2x initial check for follow-on | [Green — prevents insider signaling penalty] |
+
+---
+
+## Canvas 9: Staged Milestone & Experiment Financing Roadmap
+
+*Use in Stage 5 to map technical milestones to financing tranches and next-round investor expectations (Prof. Ramana Nanda).*
+
+```mermaid
+flowchart LR
+    M1["<b>Tranche 1: Pre-Seed/Seed</b><br/>Prove Tech Works<br/>(Runway: 18 months)"] --> M2["<b>Tranche 2: Seed/Series A</b><br/>Prove PMF & Unit Econ<br/>(Runway: 18–24 months)"]
+    M2 --> M3["<b>Tranche 3: Expansion</b><br/>Prove Scaled Dominance<br/>(Runway: 24 months)"]
+```
+
+| Venture Stage | Target Inflection Gate | Capital Required (Benchmark) | Runway Budgeted | Discriminating Metric / Deliverable | Next-Round Investor Expectation |
+|---|---|---|---|---|---|
+| **Inflection 1 (Pre-Seed / Seed)** | **Technology Works** | $250K – $2M | 18 mo (12 mo test + 6 mo cushion) | Functional benchtop/simulated prototype; preliminary FTO | Technical feasibility verified by domain specialists |
+| **Inflection 2 (Seed / Series A)** | **Product-Market Fit & Unit Economics** | $2M – $10M | 18–24 mo | Signed pilot contracts; paid LOIs; gross margins > 60%; churn < 1.5%/mo | Verifiable commercial demand and positive unit contribution |
+| **Inflection 3 (Expansion / Series B+)** | **Scaled Market Dominance** | $10M – $50M+ | 24 mo | Scaled ARR / gross profit; category distribution; low CAC | Market leadership, repeatable sales engine, defensible moat |
+
+---
+
+## Canvas 10: Fully Diluted Ownership & Cap Table Planner
+
+*Use in Stage 5 & 6 to model equity dilution, option pools, and terminal founder wealth (Bill Sahlman & Ramana Nanda).*
+
+### Cap Table Structure Example
+- **Current Common Shares:** 10,000,000 shares
+- **Unexercised Stock Options:** 1,500,000 shares
+- **Warrants / Convertible Notes / SAFEs:** 500,000 shares equivalent
+- **Total Fully Diluted Shares:** 12,000,000 shares
+
+### The Pie Maximization Calculation
+$$\text{Founder Terminal Wealth} = \text{Fully Diluted Ownership (\%)} \times \text{Terminal Valuation (\$)}$$
+
+| Scenario | Investor Lead | Pre-Money Valuation | Investment Amount | Post-Money Valuation | New Dilution | Founder Fully Diluted % | Expected Terminal Valuation (with Investor Support) | Founder Net Terminal Equity Value |
+|---|---|---|---|---|---|---|---|---|
+| **Scenario A (Terms Focus)** | Passive Fund | $15,000,000 | $3,000,000 | $18,000,000 | 16.7% | 45.0% | $40,000,000 (Low support) | **$18,000,000** |
+| **Scenario B (Value Focus - Sahlman Axiom)** | Top-Tier Strategic VC | $12,000,000 | $4,000,000 | $16,000,000 | 25.0% | 38.0% | $120,000,000 (High support) | **$45,600,000** |
+
+*Conclusion: Scenario B yields $27.6M more terminal founder wealth despite 7% higher dilution, proving Bill Sahlman's rule that who you take money from matters more than initial terms.*
+

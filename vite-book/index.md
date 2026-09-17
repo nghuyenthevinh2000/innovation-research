@@ -18,13 +18,13 @@ features:
     details: Complete stage-gate architecture spanning benchtop discovery and seeds to institutional VC syndicates and category scaling.
     link: /stages/
   - title: How-To Playbooks
-    details: Practical playbooks for functional deconstruction, problem reframing, and killer experiments.
+    details: Practical playbooks for functional deconstruction, problem reframing, killer experiments, and investor pitch & staged financing.
     link: /guides/how-to-deconstruct-technology-seeds
   - title: Semantic Rigor & Glossaries
-    details: Curated master lexicon of 60+ innovation terms with taxonomy and coverage frameworks.
+    details: Curated master lexicon of 95+ innovation terms with taxonomy and automated coverage linter.
     link: /glossaries/
   - title: Mental Models & Traps
-    details: 17 governing mental models, mathematical axioms, and 14 diagnostic failure modes and anti-patterns.
+    details: 22 governing mental models, mathematical axioms, and 19 diagnostic failure modes and anti-patterns.
     link: /mental-models/
   - title: Innovation Structures
     details: Practical decision canvases, multi-criteria matrices, and worksheets to structure commercialization.

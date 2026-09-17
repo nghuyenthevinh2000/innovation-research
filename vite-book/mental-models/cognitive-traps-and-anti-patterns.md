@@ -95,15 +95,41 @@ Understanding these failure modes serves as an essential **pre-mortem diagnostic
 - **Why It Happens:** Outside investors interpret the insider's refusal to reinvest as a catastrophic signal that the technology is fatally flawed.
 - **Antidote:** Form **diverse investor syndicates** where no single institutional player controls subsequent round signaling.
 
+### Trap 15: The "Safe Small-Ball" Pitch Trap
+- **The Failure Mode:** Pitching a high-probability, modest-upside business model (e.g., "We guarantee we will become a safe \$20M/year company") to institutional venture capital.
+- **Why It Happens:** Founders mistakenly believe VCs seek downside protection and moderate risk. In reality, VCs operate on a power-law hits model and know base-rate startup failure is high anyway; capped upside mathematically breaks portfolio returns.
+- **Antidote:** Pitch the audacious **home-run state of the world** (even if low probability), while systematically demonstrating how capital will be deployed in tranches to eliminate lethal barriers one by one.
+
+### Trap 16: The Share Count Illusion (Opaque Cap Table)
+- **The Failure Mode:** Founders evaluating their equity stakes by absolute share counts (e.g., "I own 1,000,000 shares!") rather than percentage ownership in fully diluted equity.
+- **Why It Happens:** Failure to account for option pools, warrants, and convertible instruments, resulting in unexpected, severe dilution at subsequent rounds.
+- **Antidote:** Model all equity on a **Fully Diluted Cap Table** and optimize for terminal ownership dollar value rather than raw share counts or vanity ownership percentages.
+
+### Trap 17: The Capital Abundance Trap
+- **The Failure Mode:** Raising large amounts of frictionless capital early in the venture's lifecycle, resulting in high burn rates, premature scaling, and bypass of lean customer validation.
+- **Why It Happens:** "Necessity is the mother of invention." Abundant cash eliminates the discipline to run scrappy, discriminating tests, leading founders to build expensive solutions to unvalidated problems.
+- **Antidote:** Enforce **Capital Scarcity Discipline**: force the team to prove core technical and behavioral hypotheses in the cheapest, scrappiest way possible before scaling expenditure.
+
+### Trap 18: The Cash-Exhaustion Negotiation Trap
+- **The Failure Mode:** Waiting until cash reserves dwindle to $< 3$ months before initiating the next financing round.
+- **Why It Happens:** Founders attempt to minimize dilution by delaying fundraising, but end up entering negotiations in desperation.
+- **Antidote:** The **Leverage Preservation Protocol**: initiate fundraising when you have proven your target milestone and still retain 6–9 months of cash runway, ensuring maximum negotiating leverage and competitive term sheets.
+
+### Trap 19: The Fund-Horizon Friction Trap
+- **The Failure Mode:** Financing a 12–15 year physical tough-tech or clinical development cycle exclusively with 10-year closed-end institutional VC funds.
+- **Why It Happens:** Failure to analyze counterparty fund mandates; standard VCs face pressure from their LPs to liquidate assets within 10 years, forcing premature acquisitions or fire sales of long-gestation science.
+- **Antidote:** Target **Patient Capital** partners (mission-driven family offices, Prime Coalition, Breakthrough Energy Ventures) and non-dilutive grant syndicates that tolerate longer maturation timelines.
+
 ---
 
 ## Diagnostic Matrix: Traps Across Innovation Stages
 
 | Stage | Primary Trap | Consequence | Diagnostic Detection Metric |
 |---|---|---|---|
-| **Stage 1: Discovery** | Reasonableness Trap | Kills transformative ideas early | Rejection by conventional peer reviewers |
+| **Stage 1: Discovery** | Reasonableness Trap & Invention vs Innovation Trap | Kills transformative ideas early / Building unneeded tech | Rejection by conventional peer reviewers; zero customer pain validation |
 | **Stage 2: Technology-Market Fit** | Representational Trap & Hammer seeking a Nail | Engineering deadlock / Building what nobody buys | Burn rate increases without resolution; zero validated customer pain |
 | **Stage 3: Architecture** | Architectural Misalignment | Delivery collapse | Gross margin < cost of customer delivery |
 | **Stage 4: Market Assessment** | Hypothetical Bias & Pioneer Trap | False validation / Capital exhaustion | Customers praise in meetings, refuse to buy; TRL exceeds fund |
-| **Stage 5: Finance** | Working Capital Trap | Insolvent while profitable | Cash reserves drop while AR increases |
-| **Stage 6: Governance** | Toxic Cap Table | Unable to raise Series A | Institutional VC passes due to passive equity |
+| **Stage 5: Finance** | Working Capital Trap, Abundance Trap & Small-Ball Pitch | Insolvent while profitable; capital waste; VC rejection | Cash drops while AR spikes; burn before validation; pitching capped upside |
+| **Stage 6: Governance** | Toxic Cap Table, Signaling Risk & Cash-Out Trap | Unable to raise Series A; fire-sale terms | Passive equity blocking rounds; fundraising with <3 mo runway |
+

@@ -57,7 +57,7 @@ flowchart TD
 ## 4. Alignment Diagnostic Matrix
 
 | Strategy Posture | Business Model Dimensions | Required Operating Model Alignment |
-|---|---|---|
+| --- | --- | --- |
 | **Low-Cost Disruptor** | Aggressive price discounting, high transaction velocity. | Lean automated structure, outsourced production assets, metrics-driven logistics capabilities. |
 | **White-Glove Enterprise** | Premium unit margins, multi-year SLAs. | Concierge solution-selling structure, deep regulatory capabilities, dedicated technical account assets. |
 | **Platform Ecosystem** | Direct/indirect network effects, transaction fee capture. | Software matchmaker structure, developer platform APIs, self-service onboarding capabilities. |
@@ -68,6 +68,7 @@ flowchart TD
 ## 5. Stage Gate 3: Exit Deliverables
 
 Before advancing to [**Stage 4: Market Assessment, Due Diligence & MVP Validation**](./stage-4-market-assessment-and-mvp.md), the venture must possess:
+
 - [ ] Completed **Business Architecture Canvas** mapping both pillars.
 - [ ] Preliminary **Unit Economics Model** (Contribution Margin = Revenue per unit - Direct delivery cost).
 - [ ] Validated Operating Structure decision (Product vs. Service vs. Platform).

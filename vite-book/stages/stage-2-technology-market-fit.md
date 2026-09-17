@@ -7,6 +7,7 @@
 ## 1. Stage Objective & Theoretical Foundation
 
 Once a scientific discovery or technology seed is isolated in the laboratory, founders face a lethal dual hazard:
+
 1. **Representational Inertia:** Staring at the technology exclusively through the narrow coordinate system of the academic discipline in which it was discovered.
 2. **Unidirectional Push ("Clapping with One Hand"):** Believing that superior benchtop physics alone will compel customer adoption ("a hammer in search of a nail"), or conversely chasing superficial customer feature requests ("the faster horse trap").
 
@@ -36,6 +37,7 @@ flowchart TD
 ## 2. Key Concepts & Definitions
 
 ### 2.1 Problem Representation & Cognitive Search
+
 - **Perspective:** An internal coordinate system, mental model, or representational frame that dictates how a problem space is categorized, visualized, and decomposed.
 - **Heuristic:** A search algorithm, rule of thumb, or navigational strategy applied to a problem space once it has been framed through a specific perspective to locate an optimal solution.
 - **Perspective-Heuristic Pair (P-H Pair):** The coupled combination of a representation and a search rule:
@@ -44,6 +46,7 @@ flowchart TD
 - **Cognitive Diversity:** Scott Page's *Diversity Trumps Ability Theorem* proves that a cognitively diverse group will consistently outperform a homogeneous group of high-ability domain experts because diverse problem-solvers bring disparate coordinate systems to the same landscape.
 
 ### 2.2 Functional Deconstruction & Needs Synchronization
+
 - **Universal Functional Analysis (Functional Thinking):** A systematic methodology developed by Dr. Sam Kogan that strips away proprietary jargon, commercial trade names, and physical parts to define a technology strictly by what it *does* at an elementary physical level.
   - *Core Axiom:* **Function is the goal; technology is merely a means.**
 - **Subject-Action-Object (S-A-O) Triad:** The semantic syntax of functional analysis: an active verb applied to a target object (e.g., *"separates hydrocarbon"*, *"stops impurities"*, *"transfers thermal energy"*).
@@ -87,6 +90,7 @@ flowchart TD
 ## 6. Stage Gate 2: Exit Deliverables
 
 Before advancing to [**Stage 3: Business Architecture Design & Model Alignment**](./stage-3-business-architecture.md), the venture must possess:
+
 - [ ] Documented **P-H Search Matrix** detailing at least 3 distinct market coordinate systems.
 - [ ] Completed **Universal Functional Deconstruction Worksheet** containing 3–5 active S-A-O triads.
 - [ ] Cross-domain analogy and patent query results mapping identical functions in adjacent industries.

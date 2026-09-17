@@ -288,6 +288,17 @@ flowchart TD
   * Corporate parent shifts strategy, stranding the startup.
 * **Suitable For:** Capital-intensive ventures requiring specialized manufacturing infrastructure or corporate distribution channels.
 
+#### 5.4 Patient Capital, Mission-Driven Family Offices & Frontier Syndicates
+* **Mechanism:** Long-horizon equity from evergreen family offices, philanthropic venture syndicates, and specialized breakthrough funds (e.g., Breakthrough Energy Ventures, Boston's Prime Coalition) that operate outside the rigid 10-year closed-end LP fund structure.
+* **Benefits:**
+  * **Horizon Alignment:** Tolerates 12–15+ year technical and clinical maturation timelines without forcing premature liquidity events.
+  * **Dual Mandate:** Prioritizes systemic societal impact (climate decarbonization, frontier health, clean fusion) alongside financial returns.
+  * **Exploits Physical Cost-Collapse:** Partners with founders using modular prototyping, micro-satellites (CubeSats < \$1M), CRISPR gene editing, and supercomputing nuclear simulations to de-risk physical ventures at orders-of-magnitude lower capital burn.
+* **Risks & Trade-Offs:**
+  * Smaller follow-on reserves compared to mega-growth institutional funds.
+  * Slower internal decision cycles if governance structures lack dedicated venture investment committees.
+* **Suitable For:** Hard science, nuclear engineering, climate tech, and novel therapeutics with extended regulatory and physical validation cycles.
+
 ---
 
 ## 4. Multi-Criteria Capital Selection Logic

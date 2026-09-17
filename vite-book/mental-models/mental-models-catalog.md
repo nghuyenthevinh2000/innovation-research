@@ -37,6 +37,11 @@ flowchart TD
         M15["Discriminating Experiment Staging"]
         M16["Capital Risk Asymmetry"]
         M17["VC Power Law & Fund Horizon"]
+        M18["Co-Determination of Strategy & Financing"]
+        M19["Sahlman Pie & Investor Value"]
+        M20["3-Milestone Inflection Progression"]
+        M21["Capital Scarcity Discipline"]
+        M22["Deep-Tech Experiment Cost-Collapse"]
     end
 
     Search --> Translation --> Architecture --> Financial
@@ -200,3 +205,46 @@ flowchart TD
 ### Model 17: The Power Law & VC Fund Horizon Tension
 - **Core Principle:** Institutional venture capital is governed by the mathematical power law: 5% of portfolio investments generate over 80% of aggregate returns.
 - **The Conflict:** Institutional VCs operate on a rigid **10-year fund lifecycle**. Deep-tech breakthroughs with 12–15 year physical or clinical maturation curves experience severe structural friction unless milestone de-risking matches fund horizons.
+
+---
+
+### Model 18: The Co-Determination of Strategy & Financing
+- **Core Principle:** Business model decisions and financing strategy decisions are not separate sequential silos; they are tightly co-determined, reciprocal feedback loops:
+  $$\text{Business Model} \iff \text{Cash Flow Timing/Profile} \iff \text{Financing Strategy \& Capital Counterparties}$$
+- **Mechanism:** What product-market strategy you pursue shapes your cash burn and capital requirements, determining who is willing to fund you. In turn, the governance, fund lifecycle, and return thresholds of your chosen financiers impose hard boundaries on what product-market strategy the venture is permitted to execute.
+- **Originator:** Prof. Ramana Nanda (Harvard Business School).
+
+---
+
+### Model 19: The Sahlman Pie & Investor Value Axiom
+- **Core Principle:** In entrepreneurial finance, absolute ownership percentage is a misleading vanity metric; what matters is the terminal dollar value of the founder's equity stake:
+  $$\text{Founder Terminal Wealth} = \text{Fully Diluted Ownership (\%)} \times \text{Terminal Enterprise Valuation (\$)}$$
+- **The Axiom:** *"A smaller piece of a much larger pie is worth vastly more than a large piece of a microscopic pie. Who you take money from is almost or if not more important than the terms."*
+- **Originator:** Prof. Bill Sahlman, Prof. Ramana Nanda (Harvard Business School).
+- **Implication:** High-value investors who accelerate customer acquisition, recruit executive leadership, and anchor follow-on syndicates expand the total pie by multiples that easily offset modest incremental dilution.
+
+---
+
+### Model 20: The 3-Milestone Inflection Progression
+- **Core Principle:** Technology commercialization does not advance through arbitrary financing labels (pre-seed, seed, Series A), but through three discrete empirical inflection points:
+  1. **Milestone 1 (Technology Works):** Proof of physical feasibility and fundamental technical performance.
+  2. **Milestone 2 (Product-Market Fit & Unit Economics):** Customer willingness to pay, verified commercial demand, and viable unit economics.
+  3. **Milestone 3 (Scaled Deployment):** Category dominance, scalable operational delivery, and competitive moats.
+- **Financing Rule:** Capital is raised in discrete tranches specifically to purchase the empirical data necessary to de-risk the venture to the exact threshold demanded by the *subsequent* round of investors.
+
+---
+
+### Model 21: The Capital Scarcity Discipline Hypothesis
+- **Core Principle:** Capital scarcity is an essential operational discipline in early-stage innovation ("necessity is the mother of invention"). Abundant, frictionless capital often harms startups by removing the imperative to run lean, discriminating tests.
+- **The Mechanism:** When capital is scarce, teams are forced to prove hypotheses in the cheapest, scrappiest way possible (e.g., Wizard of Oz simulations, paper MVPs, benchtop rigs). When capital is excessive, teams build bloated infrastructures and bypass true customer validation, precipitating catastrophic late-stage failure.
+- **Originator:** Prof. Ramana Nanda (Harvard Business School).
+
+---
+
+### Model 22: The Deep-Tech Experimentation Cost-Collapse
+- **Core Principle:** Just as cloud computing (AWS) and open-source software collapsed the cost of software experimentation in the 2000s, modular tools and computational simulation are now collapsing the cost of physical science experiments by orders of magnitude:
+  - **New Space:** CubeSat miniaturization enables satellite launches for $< \$1\text{M}$ instead of $\$50\text{M}+$.
+  - **Genomics & Life Sciences:** CRISPR and high-throughput sequencing allow early drug mechanism exploration at a fraction of historic costs.
+  - **Nuclear & Heavy Physics:** Supercomputing multi-physics simulations replace multi-billion-dollar concrete reactor test containment structures, saving billions in exploratory R&D.
+- **Strategic Impact:** Tough tech and clean tech ventures can now achieve early milestone de-risking using micro-capital before requiring mega-scale capital expenditure.
+

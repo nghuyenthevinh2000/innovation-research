@@ -1,0 +1,70 @@
+
+RAMANA NANDA: So one of the things that we have seen, obviously,
+in the last couple of decades is a dramatic rise in early-stage financing,
+in part driven by the fact that it's become so much
+cheaper to start companies.
+And so while traditionally, venture capitalists
+were the people who were making all the early-stage investments,
+we now have entry of new intermediaries, accelerators, platforms like AngelList
+and others that help entrepreneurs and angel investors get matched
+to each other, and a wide variety of other, smaller venture
+funds known as "seed funds" or "super angels," other fancy names.
+But at the end of the day, they're all smaller funds
+deploying smaller amounts of capital that
+then help prove our company before the larger VCs give the companies money.
+That's been great for early-stage experimentation in many ways,
+because it's allowed lots of people to try out new ideas that they have,
+and get funding for it.
+But as we pointed out, and as we spoke about,
+that growth and explosion of financing has been disproportionately benefiting
+information technology, software services companies.
+And it still is relatively harder to finance deep tech, and clean tech,
+and other science-based industries.
+I think the good news is that it has become cheaper to fund experiments
+in many of these industries.
+So for example, I'll give you an example.
+In new space, it's possible to now build and launch
+a satellite for under $1 million, which is just incredible--
+a small, shoebox satellite.
+These are called "cube sats."
+It is possible now, with CRISPR technology, to do a lot of work
+with gene sequencing, and gene editing, and to learn
+about the potential of a drug that you couldn't
+have done in maybe 10 years ago.
+It would have cost a lot more to be able to do that.
+With hardware, you have rapid prototyping
+that enables you to do very, very quick sequences to understand that.
+And even for something like nuclear technology--
+there was a renaissance around nuclear power in the last several years,
+where venture capitalists got involved in backing these companies.
+And the reason, in part, was because it's possible
+now to simulate the inside of a nuclear reactor with supercomputing,
+so that you don't actually have to build the nuclear power
+plant to test whether it works.
+And it turns out that the biggest expense in the nuclear power plant
+is actually the concrete that it takes.
+It's like billions of dollars of concrete
+to make sure that the reactor is safe.
+And you don't need to do that.
+You can do that for only a few hundred million dollars
+by simulating the inside of a nuclear reactor.
+So I think we have, in terms of orders of magnitude,
+it's become just so much cheaper to experiment across the board.
+Obviously in levels, it's still much cheaper
+to do it for software and other information technology.
+But as the cost of learning and starting new ventures
+has fallen across the board, I'm very bullish about venture capital being
+more and more able to finance industries that
+were not able to be funded in the past.
+That said, I think there's a lot to be done around ways, thinking about
+particularly creative ways, of bringing family offices who
+have an interest in a horizon that is longer, and perhaps a willingness
+to fund projects that are important for society, that might not have
+the same financial returns, to work creatively
+to find structures that can help them deploy the capital that they need.
+And there are efforts in place.
+In Boston, there is great work being done by the Prime Coalition, which
+is a group of family offices that are trying to work
+on funding clean energy in particular.
+And similarly, work around health care, trying
+to find ways to get more capital going into those areas.

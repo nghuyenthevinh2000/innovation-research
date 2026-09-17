@@ -68,6 +68,7 @@ flowchart LR
 ## 5. Stage Gate 6: Venture Graduation Checklist
 
 To achieve sustainable scale and corporate autonomy:
+
 - [ ] Fully executed, clean **TTO License Agreement** with no onerous gross royalty penalties.
 - [ ] Standardized cap table with 4-year vesting across all operational founders.
 - [ ] Tier-1 Lead Investor secured with multi-round follow-on capital reserves.

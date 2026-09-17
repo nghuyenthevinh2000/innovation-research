@@ -10,8 +10,8 @@
 This repository serves as a formalized, Diátaxis-compliant documentation and research engine designed to solve the commercialization crisis: bridging the **Valley of Death** between laboratory invention and scalable market adoption.
 
 It provides four foundational pillars:
-1. **Semantic Rigor (Glossaries System):** A curated master lexicon of 60+ innovation terms with an automated Python coverage linter to detect missing glossaries and terminology gaps.
-2. **Cognitive Clarity (Mental Models):** A catalog of 17 governing mental models, mathematical formulas, axioms, and 14 diagnostic failure modes/anti-patterns.
+1. **Semantic Rigor (Glossaries System):** A curated master lexicon of 95+ innovation terms with an automated Python coverage linter to detect missing glossaries and terminology gaps.
+2. **Cognitive Clarity (Mental Models):** A catalog of 22 governing mental models, mathematical formulas, axioms, and 19 diagnostic failure modes/anti-patterns.
 3. **Operational Discipline (Innovation Structures):** Practical decision canvases, multi-criteria matrices, and worksheets to structure commercialization.
 4. **Lifecycle Staging (6 Stages of Innovation):** An end-to-end stage-gate architecture spanning benchtop discovery to institutional VC syndicates and category standards.
 
@@ -26,7 +26,7 @@ flowchart TD
     subgraph Learning["PRACTICAL USE (Learning & Problem Solving)"]
         direction LR
         Tut["<b>Tutorials (Learning-Oriented)</b><br/>• Stage-Gate Progression<br/>• End-to-End Walkthrough"]
-        How["<b>How-To Guides (Task-Oriented)</b><br/>• Functional Deconstruction<br/>• Problem Reframing<br/>• Killer Experiments<br/>• Architecture Alignment<br/>• Glossary Auditing"]
+        How["<b>How-To Guides (Task-Oriented)</b><br/>• Functional Deconstruction<br/>• Problem Reframing<br/>• Killer Experiments<br/>• Investor Pitch & Staged Financing<br/>• Architecture Alignment<br/>• Glossary Auditing"]
     end
 
     subgraph Theoretical["THEORETICAL MASTERY (Information & Understanding)"]
@@ -41,7 +41,7 @@ flowchart TD
 | Diátaxis Quadrant | User Orientation | Repository Directory & Core Artifacts |
 |---|---|---|
 | **Tutorials** | *Learning by Doing* | [**`stages/index.md`**](./stages/index.md) (Step-by-step navigation of the 6 stages of commercialization). |
-| **How-To Guides** | *Problem Solving* | [**`guides/`**](./guides/) (Actionable playbooks: functional deconstruction, P-H reframing, killer experiments, alignment audit, glossary auditing). |
+| **How-To Guides** | *Problem Solving* | [**`guides/`**](./guides/) (Actionable playbooks: functional deconstruction, P-H reframing, killer experiments, investor pitching & staged financing, alignment audit, glossary auditing). |
 | **Reference** | *Fact Lookup* | [**`glossaries/master-glossary.md`**](./glossaries/master-glossary.md), [**`mental-models/mental-models-catalog.md`**](./mental-models/mental-models-catalog.md), [**`structures/`**](./structures/). |
 | **Explanations** | *Conceptual Context* | [**`stages/stage-*.md`**](./stages/), [**`mental-models/cognitive-traps-and-anti-patterns.md`**](./mental-models/cognitive-traps-and-anti-patterns.md). |
 
@@ -68,7 +68,7 @@ flowchart LR
 | **2** | **Technology-Market Fit** | Framing search spaces via P-H pairs, functional deconstruction (S-A-O) & customer activity chains. | [`stage-2-technology-market-fit.md`](./stages/stage-2-technology-market-fit.md) |
 | **3** | **Business Architecture** | Aligning Business Model (Value Creation/Capture) with Operating Model. | [`stage-3-business-architecture.md`](./stages/stage-3-business-architecture.md) |
 | **4** | **Market Assessment & MVPs** | Cloverleaf due diligence, FTO clearance, 100-interview funnel & deep-tech MVP probing. | [`stage-4-market-assessment-and-mvp.md`](./stages/stage-4-market-assessment-and-mvp.md) |
-| **5** | **De-Risking & Capital** | The firm as a cash engine (CCC), killer experiments, and staged financing. | [`stage-5-venture-derisking-and-capital.md`](./stages/stage-5-venture-derisking-and-capital.md) |
+| **5** | **De-Risking & Capital** | The firm as a cash engine (CCC), killer experiments, staged financing & investor alignment. | [`stage-5-venture-derisking-and-capital.md`](./stages/stage-5-venture-derisking-and-capital.md) |
 | **6** | **Spin-Offs & Scaling** | Clean TTO IP assignment, accelerator sprints, VC syndicates & standards wars. | [`stage-6-spinoffs-and-scaling.md`](./stages/stage-6-spinoffs-and-scaling.md) |
 
 ---
@@ -77,19 +77,19 @@ flowchart LR
 
 Ambiguity in terminology kills ventures. The repository features a unified semantic engine:
 
-- **[Master Glossary Registry](./glossaries/master-glossary.md):** 60+ primary terms, aliases, mathematical formulas, originators, and anti-patterns indexed across all 7 stages.
+- **[Master Glossary Registry](./glossaries/master-glossary.md):** 95+ primary terms, aliases, mathematical formulas, originators, and anti-patterns indexed across all 7 stages.
 - **[Glossary Auditing Guide](./glossaries/glossary-detection-guide.md):** The 3-question filter for identifying undefined concepts in notes and whitepapers.
 - **Automated CLI Coverage Tool:** Run the linter to verify cross-references and detect missing terms:
   ```bash
-  python3 glossaries/check-glossary-coverage.py
+  python3 vite-book/glossaries/check-glossary-coverage.py
   ```
 
 ---
 
 ## 🧠 Mental Models & Cognitive Architecture
 
-- **[Mental Models Catalog](./mental-models/mental-models-catalog.md):** 17 definitive paradigms including the Biological Evolution of Ideas, P-H Landscape Search, Magic Square Coordinate Transformations, Scott Page's Diversity Theorem, the 10x Imperative, and Ramana Nanda's Lemonade Stand Working Capital Model.
-- **[Cognitive Traps & Anti-Patterns](./mental-models/cognitive-traps-and-anti-patterns.md):** 14 systematic biases and organizational failure modes (Reasonableness Trap, Better Mousetrap Fallacy, Hammer seeking a Nail, Faster Horse Trap, Late-Joiner Trap, Early Pioneer Trap, Working Capital Trap, etc.).
+- **[Mental Models Catalog](./mental-models/mental-models-catalog.md):** 22 definitive paradigms including the Biological Evolution of Ideas, P-H Landscape Search, Magic Square Coordinate Transformations, Scott Page's Diversity Theorem, the 10x Imperative, Ramana Nanda's Lemonade Stand Working Capital Model, Strategy-Financing Co-Determination, Sahlman's Pie Axiom, and Deep-Tech Experiment Cost-Collapse.
+- **[Cognitive Traps & Anti-Patterns](./mental-models/cognitive-traps-and-anti-patterns.md):** 19 systematic biases and organizational failure modes (Reasonableness Trap, Better Mousetrap Fallacy, Hammer seeking a Nail, Safe Small-Ball Pitch Trap, Share Count Illusion, Capital Abundance Trap, Cash-Exhaustion Negotiation Trap, Fund-Horizon Friction, etc.).
 
 ---
 
@@ -103,6 +103,9 @@ Ambiguity in terminology kills ventures. The repository features a unified seman
   5. *Cloverleaf Due Diligence Diagnostic Scorecard*
   6. *Deep-Tech MVP & Killer Experiment Canvas*
   7. *Cash Engine & Working Capital Calculator*
+  8. *Investor Counterparty Alignment & Incentive Audit*
+  9. *Staged Milestone & Experiment Financing Roadmap*
+  10. *Fully Diluted Ownership & Cap Table Planner*
 - **[Decision Matrices](./structures/decision-matrices.md):**
   - *Commercialization Pathway Matrix* (Product vs. Service vs. Platform vs. IP Licensing)
   - *Capital Instrument Decision Matrix* (Customer Prepayments vs. Grants vs. Debt vs. Equity)
