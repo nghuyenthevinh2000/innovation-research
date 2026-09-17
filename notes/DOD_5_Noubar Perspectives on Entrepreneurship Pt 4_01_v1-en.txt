@@ -1,0 +1,219 @@
+NOUBAR AFEYAN: So in Moderna's case, talking about emergence,
+we understood by following the various scientific advances that people
+were playing around with converting fibroblast cells into what's
+called induced pluripotent stem cells.
+Somebody won a Nobel Prize recently for this.
+These are called Yamanaka Factor.
+So it turns out that if you take differentiated cells and you introduce
+a couple...few different proteins-- four of them specifically--
+these cells can dedifferentiate and look like what came before them, stem cells.
+They're not normal stem cells but they're close to being stem cells.
+And so why do that?
+Because then you could differentiate it and make other cells.
+So that was the general field.
+And in that field, there had been some people, particularly at UPenn and then
+more recently at Children's Hospital here in Boston,
+who'd been playing around with using what's called mRNA, messenger RNA,
+to use these to go into cells and express these proteins.
+Why had they done that?
+Because it turns out the mRNA they could actually
+get a better transformation of these cells.
+And so we were aware of this work, and we started asking what if questions.
+KARIM LAKHANI: So your team is reading scientific papers, it's in the air.
+NOUBAR AFEYAN: In this case, yeah, exactly.
+And we do this all the time.
+So basically we're--
+KARIM LAKHANI: You're in the midst of this flow of knowledge--
+NOUBAR AFEYAN: Exactly.
+It's not about reading papers for us, as much as just--
+I mean, we are talking to lots of people about lots of different things.
+And then somebody says, hey, by the way, I just saw this data about that.
+And then we actually read papers in hindsight.
+In other words we read papers once we have an idea of what to do,
+as opposed to read papers to get an idea per se.
+Because the signal to noise in papers is gigantic.
+If you sit there and read 1,000 papers and that
+gives you three ideas, hard to do anything else.
+I'm sure that can be done too, but that's not the way we approach it.
+Anyway, so long story short, we started wondering for lots of reasons
+that I can't almost reproduce because you'd have to go back to 2010
+in the summer, and whatever else was being thought of at the time.
+So I understand by that time, we had about 20 people
+that were doing this type of activity in various combinations for a living.
+And so it's important because these ideas get mixed and moved around.
+This is not a--
+one person thinking deeply is not going to get there.
+So we started asking, can you think about--
+we said, why is there no drug that is based on mRNA?
+Now, if you go back 10 years, drugs were made out
+of proteins and small molecules.
+There had been an effort to use viruses to introduce genes
+into the body called gene therapy, and a person had died early on
+and that whole field was shut down.
+And there really was no other variation to proteins and small molecules.
+And there had been some efforts to try to make--
+not to get too detailed but--
+other small DNA, RNA molecules, antisense is what it's called.
+And we were aware of all this, but we're saying,
+why don't people actually use this microRNA molecule?
+And that's just a thought experiment, and you can go and answer
+that question.
+KARIM LAKHANI: So you raised the problem?
+NOUBAR AFEYAN: You raise a what if problem.
+Initially, we don't start with we need to cure melanoma.
+We don't start the problem what good is this mRNA that
+can transform cells because it's not good for anything other than that.
+But we just kind of abstracted it and said,
+is there a combination of a solution and a problem
+that we can identify simultaneously around this space?
+And if there isn't one, then we move on.
+And in this case, that's part of our methodology.
+In this case, what we concluded was that people had tried and failed
+10 years earlier.
+We understood why they tried and fail.
+We realized that there was no obvious fix to it,
+but there was a directional fix in that you could modify chemically
+some of these RNA molecules.
+And they at least hinted that if you kept
+doing that there may be better ways.
+We had no proof.
+There was no academic literature that said this can be done.
+We could have waited for that, but we probably
+would've been 5, 6 years because now there is academic papers from which we
+could have started companies.
+But our whole thing is to almost mine this science of the future
+to try to solve problems of today, versus mine the science of today
+to solve problems of the future.
+And that is exactly backwards.
+And it's not any better.
+It's just that you look at the world differently.
+So publications give you evidence for what you want to do,
+but that's not why they published those things.
+They were thinking of a very different thing, do you know what I'm saying?
+So in that regard, that's a little bit-- so in Moderna's case we identified--
+a very integral part of what we do is that we don't do this in a vacuum.
+So we go out and talk to people about our hypotheses.
+These are not--
+KARIM LAKHANI: You're not afraid of people taking your idea?
+NOUBAR AFEYAN: No, and I'll tell you why.
+In order to try to create an evolution-- so
+we're trying to create an evolutionary environment.
+How do you do that?
+The scientific method uses hypotheses and experimentation.
+So we actually do the same thing.
+We create value hypothesis.
+We basically say, I will take an mRNA molecule formulated with this agent,
+stick it into muscle, use muscle to--
+none of it is true.
+None of it's been done before.
+But it's just a starting point.
+We then go with that to a handful of folks that are both experts
+and non-experts in the field.
+Super important thing if you're going to practice this kind of work
+is that experts actually are not the people who
+are going to give you an idea of how to do things dramatically differently.
+Because they became experts by already doing something
+dramatically differently, and now they're defending their territory.
+So if you go to talk to somebody and say, can this be done out here?
+Most people we talk to, they can tell you precisely why it can't be done,
+which is really valuable from a selection pressure
+standpoint, but not the source of and here is a completely different way.
+So other people who don't have expertise but have interesting creativity--
+so what we do is we take our hypotheses-- and it's never one.
+Because one of the things we've learned is
+that if you start with one starting point
+you only locally search the space around it.
+So we sample multiple different points.
+So it might be how about mRNA as a way to make more proteins in a fermenter?
+So around the theme we come up with totally different value poles
+we try to identify.
+And then, we put a starting point and then we start talking.
+And what's been interesting and a great learning exercise over the years
+that we've seen is that if you go to somebody with a bad idea,
+but you actually present it in a precise way,
+they will tell you why it's a bad idea.
+And in that transaction, something happens.
+They feel smarter and you get selection pressure.
+And so the way our process works is that we actually
+do this with multiple people.
+So when you said, aren't you afraid they're going to take your idea?
+What are they thinking?
+We just made it up.
+There is zero fact to it.
+Literally zero fact.
+KARIM LAKHANI: Just imagining a hypothesis.
+NOUBAR AFEYAN: Exactly.
+We're just a hypothesis, and they know it.
+Because then they tell us, what proof do you have?
+We say none.
+So then they still engage because it's a almost--
+when we talk to these folks, and this is what we're known for, we create a bit
+of an expert free zone in the sense that you're--
+see look, these scientists-- here we are at Harvard and MIT, Stanford.
+These people go to the meetings of their fields and they cannot say something
+that does not seem unbelievably smart and reasonable.
+Actually, I'll make the point.
+Let me caveat.
+Reasonableness, in my view, is like the gravitational force
+that keeps innovation from happening.
+Because people enforce reasonableness in the scientific world
+on what you are allowed to say.
+You go publish something in literature that's not reasonable to the reviewers,
+you can't--
+KARIM LAKHANI: You get killed.
+I've done a whole study on that.
+NOUBAR AFEYAN: So ask yourself the question.
+Why is it that we think that the only innovations worth working on
+start their life reasonably?
+In fact, I could show you many innovations
+that are now accepted as real, transformative things.
+Every one of them started life unreasonably.
+And yet, we go look for them in reasonable places
+by reasonable people who are using reasonableness filters to kill them.
+So because we knew that-- this was not the first thing I had done--
+we said, look, let's forget reasonableness for a second.
+Just think with us.
+And they tell us, bad idea, somebody in Japan had tried it,
+experiment won't work.
+And we keep tweaking and tweaking and tweaking.
+This is different than like you hear a lot in Silicon Valley
+speak in a pivoting-- this is not pivoting.
+Evolution is the master pivot.
+It's like nonstop pivoting.
+There's nothing to pivot from and to.
+You're just adapting and surviving.
+So that mindset is super important.
+What happens is over time things emerge, or they don't, but they emerge where
+the next person you talk to goes--
+they can't find fault with it.
+You know that because it frustrates them.
+And then they start telling you, well, do you have any proof?
+And you go, no, no.
+I just made this up.
+It's just that we've been...
+And then, that point is when we go into a lab for the first time,
+and then and only then do we test the idea.
+Now you can't test it fully.
+You can't test it where--
+because it takes years and years.
+And one of the expertise we've developed over the years
+is how to figure out what to test first.
+And in life science you can't use these words--
+killer experiment-- because life science you could kill.
+But you want to do the killer experiment early.
+And so figuring out what's the killer experiment or two or three or four--
+that if it doesn't fail allows you to go forward?
+That's the trick.
+And we do that in our shops.
+So in Moderna's case, we spent a couple of million dollar,
+about six months, doing a set of key things
+but for which we would not have proceeded.
+So we knew the idea had morphed and evolved and had some resilience to it.
+We went into labs and asked specific questions.
+Once we saw that actually some of the things we were hypothesizing
+could be done partially, we then decided,
+OK, let's form the best economic value creation engine known to mankind,
+which is a startup in my view.
+I'm biased.
+And then we deploy that startup to go after that value pool
+in as many different ways as we can.

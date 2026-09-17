@@ -1,0 +1,120 @@
+
+SAM KOGAN: Let's talk about value.
+As I said, Larry Miles developed value engineering
+while working in the purchasing department of General Electric.
+So he defined value as usefulness of the cost.
+We define value as functionality of the cost.
+What is the function?
+Function is why we'll buy products and technologies.
+Function is interaction between different components of the system.
+Why is functional analysis so important?
+There are three main reasons for importance of functional analysis.
+Number one, it breaks psychological inertia.
+Thinking about functions rather than components
+breaks psychological inertia.
+I'll give you an example that I love very much.
+In the late '60s, the Soviet Union was sending stations
+on the dark side of the moon.
+And as you can imagine, on the dark side of the moon,
+you need to have some light.
+Because when the station lands, you want to take pictures,
+grab samples, and so on.
+And every time when they tested the station,
+the light bulb that they had outside the station would break.
+They tried different technologies and they could not solve this problem.
+But they had a deadline.
+And if you don't meet the deadline, you could be in trouble.
+So they put together the best scientists in the country, and in three months
+they solved the problem.
+They could have solved this problem in five minutes
+if they used functional analysis.
+What is the function of a glass bulb that we have in a light bulb?
+This function is to stop air from reaching the hard filament.
+There is no air on the moon, so we don't need this function.
+And therefore, we don't need the glass bulb.
+You see?
+This is how we break psychological inertia, which
+is the ability to think and do things the same way as we'll always do.
+The second reason why we need functional analysis
+is because functions are universal.
+Let's say you take a water filter that you have in Brita or any other device.
+What is a function of a water filter?
+To stop impurities, right?
+But different water filters and differently designed filters
+would look differently.
+You can not use them.
+And by the way, the air filter that you have in a gas mask
+will look completely different.
+And I'm not talking about air filters in your car or in air conditioners
+and so on.
+And yet, all these filters are performing
+the same universal function--
+to stop impurities.
+And if you think about functional approach,
+you could use technology from one area to another.
+Remember the peanut butter example?
+Cement industry versus food industry.
+It's only because functions of moving particles are universal.
+We work with a company in the semiconductor
+industry that faced a severe problem.
+The photoresist polymer that they were using would start, from time to time,
+bubbling.
+And they had to scrub the whole run of wafers, which
+would cost them $1 million a day.
+So they dealt with objects.
+There was a photoresist polymer.
+And they obviously invited the best polymer scientists in the world
+and asked them to solve this problem.
+And they offered them a solution-- two years
+and $3 million development that will develop a new polymer.
+And yet, if they looked at the functional approach
+and defined problems that they had in a functional language,
+which was how to remove gas from liquid--
+and this function is universal.
+And there are many areas of science and engineering
+and different industries where people know how to perform this function--
+carbonated beverage, scuba diving, champagne production.
+In champagne, they need to perform the opposite function, right?
+How to contain gas in liquid.
+But if you know how to perform one function,
+you could perform the opposite.
+They actually adopted the solution from the champagne industry,
+and for $65, solved their problem.
+So the second reason is functions are universal,
+and they allow you to connect things that are not connected
+and adopt technologies from different areas.
+And the third one, functional approach helps
+you to identify problems that you could not have seen using other approaches.
+And by solving those problems, you will advance your development,
+developing new products and successfully commercializing them.
+Let me give you an example.
+There was a company in Europe that was making water heaters to boil
+a glass of water to have a cup of tea.
+The normal heater that they put in a glass of water
+would boil the water in 120 seconds.
+Their marketing showed that if they reduced the time down to 45 seconds,
+they would get an extra 35% of market share.
+They applied functional analysis and they
+identified that bubbles of air, which is the essence of boiling,
+were performing harmful functions.
+They were stopping heat transfer from the coil to the water.
+So the problem that they need to solve was not
+to increase power or change surface properties of the coil--
+which, by the way, every engineer in the field was telling them to do--
+but to perform a function to remove air bubbles.
+And they found technologies to do that and developed
+a product that was less expensive than the original
+that they had and was boiling water in 45 seconds.
+So there are three reasons why functional approach
+is useful for successful commercialization.
+Number one, functions break psychological inertia.
+Number two, functions are universal.
+They allow us and help us to connect industries and technologies that
+are not connected.
+And number three, they help us to identify problems
+that we haven't been able to identify using other methods.
+And overall, functional approach is the key
+for taking great technological advancement, advance
+at the main parameters value, and bring technological advancement
+to commercial success, which is what successful commercialization is all
+about.

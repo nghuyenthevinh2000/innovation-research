@@ -1,0 +1,83 @@
+
+RANA EL KALIOUBY: Emotion AI or artificial emotional intelligence
+is this notion that computers need to understand human emotions
+and be able to respond to it in a smart way.
+We actually envision that emotion AI is going to be ubiquitous.
+If you look at human machine interfaces, they're
+quickly becoming conversational and voice-driven.
+They're quickly becoming perceptual so we're
+starting to see the ubiquity of camera sensors
+and this idea of computer vision.
+So I believe we're a few years away from computers
+understanding humans in a truly fundamental way, which
+means that there are many, many applications of this technology.
+And I think for Affectiva, that's both the opportunity, that's
+what makes it so exciting, but it's also the challenge.
+From day one from spinning out of MIT, we've always had inbound interest
+from a number of industries and that--
+we had to take a step back and first define
+what are the industries we're never going to play in because they
+don't match our core values.
+But then beyond that, we had to identify, OK, which of these industries
+do we actually solve a real problem?
+And what is that pain point that we're solving?
+And then is this a big enough space for us to play in?
+And so I'll give you one particular example.
+A couple of years ago, we got inbound interest
+from a Japanese automotive company.
+And that was a space that we knew was interesting to us.
+But we didn't play in at all.
+And so when this Japanese automaker approached us,
+we were like, hmm, that's interesting.
+So we took on the project as a way to explore
+the market and kind of fine-tune the technology
+so that it works in the automotive context.
+But in parallel, we took a very kind of thoughtful, strategic approach
+to identify, OK, how big is the automotive industry
+and how big is our play within it, like understanding
+driver safety or distraction or drowsiness or intoxication.
+How big is that space?
+And then we kind of projected to the future
+where it's all going to be robo-taxis.
+And we're like, OK, what's our play within the robo-taxi world,
+like understanding the occupants and personalizing content to them.
+How big is that market?
+And then we quickly realized, OK, that's like a huge business opportunity.
+Combining that strategic approach with proof
+of concepts with that particular Japanese automaker
+allowed us to decide that we want to play in that market.
+And then we were able to prioritize it and build products specifically
+for that industry.
+So I think it's not always easy.
+There are definitely industries that I'm particularly very passionate about,
+but I also understand that it's important for companies to focus.
+And I will say because we've been focused on the automotive industry,
+we've been very successful in the last couple of years,
+especially the last year, because we're able to--
+what's the-- because we're immersed in that industry, we know their problems.
+We know the customers.
+We know our partners very well.
+And that's allowed us to be very effective.
+I do believe that using proof of concepts as a way to explore a market
+is really critical.
+And we've done that many, many times because it
+allows you to really understand what are the partners needs,
+but it also identifies the main gaps in your product.
+So again, I'll give the automotive example.
+When we worked with this Japanese automaker, all of our work
+up to that point did not involve doing anything in the car.
+It was mostly on your phone, you're watching video content.
+And so to repurpose the technology for a car context, we had to-- we were like,
+oh, people move their heads all the time.
+That's a challenge for the technology.
+Or when you're driving at night, how are we going to handle that.
+So we had to retrain all of our algorithms
+to recognize people's emotional and cognitive states using
+both a normal kind of camera sensor, but also a near-infrared camera sensor.
+And then we had to retrain the face detection algorithm
+to work from different angles to allow for different head movements and so on.
+So I think I really am a big fan of using proof of concepts
+to explore market opportunities and also build deep partnerships.
+It's the best way to find advocates that want to try--
+early champions of the technology and build deep partnerships
+and relationships with them.

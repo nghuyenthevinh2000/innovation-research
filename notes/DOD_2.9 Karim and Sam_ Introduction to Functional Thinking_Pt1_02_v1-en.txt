@@ -1,0 +1,85 @@
+
+KARIM LAKHANI: Dr. Sam Kogan, thank you so
+much for joining us today and participating in our module
+as a guest lecturer.
+You are the CEO and founder of Gen5 Group,
+and you help advise lots of companies with their innovation processes.
+So tell us a bit about yourself and what your company does.
+SAM KOGAN: I'm glad to be here.
+So my background: I'm a physicist and classical scientist, I would say.
+My masters degree in material science and PhD in polymer science.
+And for years, I was working, and then running R&D organizations
+and big chemical companies.
+My last achievement was developing a new process of making Teflon-type polymer.
+But 20 years ago, I completely changed my life.
+And since then, I've been in the field of innovation,
+helping big companies and startups to develop and commercialize
+new products and new technologies.
+I've been lucky working with an exceptional group of scientists,
+engineers that all use the same methodological approach to development
+and commercializing products and technologies.
+And the essence of our approach is a functional view on the world.
+We look at the world as full of functions, rather than objects.
+And this allows us to successfully work from potato chips to electronic chips
+industries, from nuts and bolts problem to the big strategic problems.
+KARIM LAKHANI: Fantastic.
+So tell me a bit more about functional thinking, how it came about,
+and how you discovered it in your own work.
+SAM KOGAN: So functional thinking was formalized in the late '40s
+by Larry Miles, who worked in the purchasing department of GE.
+And he wanted to get the best deals for GE
+when they were sourcing parts and materials.
+So eventually, he developed a value engineering approach,
+looking at the usefulness of the components of products and material
+they were buying versus what it would cost them.
+And it was great theory and that was used by a lot of economics, people
+from purchasing, from financial, and so on.
+And in late '60s and '70s, a group of thinkers,
+and scientists, and engineers around the great Soviet inventor Genrich
+Altshuller developed functional approach that they
+used toward engineering system, as they call
+it, technical systems and products.
+And this functional approach allowed them
+to create functional architecture of the problem and solve it differently.
+I'll give you an example of simple wrong use of functions.
+NASA, as they say, spent millions of dollars
+in developing a new pen that will work in space when
+there is no weight, right?
+So normal pens would not work.
+KARIM LAKHANI: Because, like, the microgravity--
+SAM KOGAN: Yeah.
+KARIM LAKHANI: The gravity doesn't exist in space--
+SAM KOGAN: Yeah.
+Yeah.
+KARIM LAKHANI: --and the ink won't flow down.
+SAM KOGAN: Yes.
+So they spent millions of dollars in developing this.
+And they created a new tool that it was called pencil.
+If they started from the very beginning, said, what is the function of the pen?
+It's not to move ink.
+It's to leave the mark on a surface.
+And there are other ways of doing that.
+KARIM LAKHANI: So just on this example, they
+were focused in on moving ink as what the pen did--
+SAM KOGAN: Yeah.
+KARIM LAKHANI: --instead of thinking of the function of the pen, which
+is really to leave marks on surfaces.
+SAM KOGAN: Absolutely.
+They were focusing on objects, on components.
+And functional thinking allows you to step back and look at the generally
+how you describe this function.
+And basically, functional approach, what attracted me to that,
+and, once again, what allows us to really move from pet care
+to aluminum wheels, from gas turbine to diapers, what allows this functional
+view is Esperanto for engineers and scientists.
+It's a universal language that would work with aluminum company that was
+making aluminum wheels for big trucks.
+It's a huge 18-feet wheel, and they needed to cool it.
+And we brought a technology from the semiconductor industry
+that where you cool microelements of the chip.
+Why?
+Because the function is the same.
+Components are different, but function is the same.
+I'm still kind of excited and have chills every time
+when I'm thinking about that and try to identify, what is the function here?
+What is the reason for this product or this component to exist?

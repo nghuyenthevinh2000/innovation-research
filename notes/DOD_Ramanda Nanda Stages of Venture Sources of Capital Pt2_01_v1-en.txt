@@ -1,0 +1,114 @@
+RAMANA NANDA: This actually ties very nicely
+to the question of, how much capital do I need to build this business?
+So one of the things that we get students to think a lot about,
+is the moment in the life of a company when
+it gets to being cash flow positive.
+And what that means is, that the company is generating enough cash
+flow from its own operations that it doesn't need any external finance.
+Not every business can be cash flow positive from the start.
+In the example that I gave you, that lemonade stand
+was cash flow positive from the very first day because of the subscription
+model.
+But most businesses are not going to be that way.
+But we still have this ambition of thinking about,
+can we get to cash flow positive as quickly
+and with as little external finance as possible?
+And so we want to be thinking very carefully
+about how much cash we burn in the early days before we get to being cash
+flow positive.
+And so to that end, we think about, what are
+the ways in which we can learn about the future potential of this business?
+And can we do that as quickly and as cheaply as possible?
+And can we run discriminating experiments?
+Can we try to understand what is the likelihood of this idea working?
+And what is the likelihood of customers being
+willing to pay the amounts that we expect them to pay?
+And how can we learn along the way by doing some of these tests
+with customers to understand that?
+And so typically the way it works is, very early in the life of technology,
+we might not even know if the technology works.
+This could be as early as sort of a science experiment,
+where it's still in the lab.
+But then once we get out of the lab, we want
+to be able to see that it can actually work in the world.
+And many times, I think scientists and engineers underestimate
+the messiness of the real world and how hard
+it is to take something that works in this perfectly controlled lab
+environment and get it to work outside.
+And so a lot of, particularly in tough tech and science-based ventures,
+the earliest stages of capital are really
+towards trying to understand that this technology works outside the lab.
+What are the parameters?
+What are the edge cases?
+What are the boundary conditions around which this thing will break down?
+Once we know that the technology itself has promise,
+we can then begin to try to understand whether there is a use case for this,
+and whether there is product market fit.
+And in some sense it's sort of, the analogy that you could use
+is, does the dog food actually, is there any sort of interesting new dog food?
+And then, does one dog want to try to eat the dog food?
+And then the third question you want to ask
+is, will the dog pay for the dog food?
+And then once we can figure out that we're profitable,
+then we can take this and scale it up.
+And so there are these discrete stages where
+we want to understand whether the technology works.
+We then want to see whether there is a product market fit.
+Are people actually interested in using this technology?
+And are they willing to pay for it?
+The third stage is to try to understand as this company is being built up,
+does it have properties that will allow the unit economics to actually
+be high enough that this will be a profitable business that
+will generate cash flow?
+So are there scale economies?
+Of course, the initial few customers will probably not
+be profitable, because we have a lot of cost that will scale across lots
+and lots and lots of customers.
+And so initially, these will be unprofitable customers.
+But the question is, can we see our way through to them being profitable?
+And once we can demonstrate that, then we raise a large amount of capital
+to just scale this up.
+And so those are sort of some of the stages that we have.
+And of course, between B2B and B2C businesses, the timing,
+the amount of learning, and the various cash
+flow characteristics can be very different.
+With consumer businesses, there is a lot of focus on virality.
+Is it the case that these customers, once there
+is, how quickly are customers referring individuals,
+referring this to their other friends?
+How much does it cost us to acquire a new customer?
+Do we have to do a lot of advertising or are people just
+telling their buddies about it?
+Are there network effects?
+Those end up being very, very useful properties of consumer businesses.
+The reason for that is, that if this business has network effects,
+it's called a sticky business.
+Why it that the case?
+Because if my friends are on this platform,
+I'm more likely to join the platform.
+I'm less likely to leave the platform.
+And so businesses often look at these metrics
+around churn rates and stickiness.
+And businesses that have, I'm sorry, investors
+look at metrics such as churn rates and stickiness.
+And so businesses that have these kinds of properties
+end up being very valuable.
+Another property that people look for in businesses
+is, does it have scale economies?
+Because what that means is, that once you
+can sell this product to a customer, when you scale it up,
+these fixed costs can be amortized across a large number
+of customers, which then make this a very profitable business.
+And so as we think about the drivers of cash flow,
+obviously profitability is one big element of it.
+And then asset intensity is the next big element of it.
+And asset intensity really has to do with the timing of the cash.
+The amount of cash, as we talked about earlier, that's tied up in an assets.
+And that could be physical assets, like factories and land and labs.
+But it could also be working capital, which
+is sort of the example I gave you around timing.
+And so as we think about this sort of growth of the business,
+we want to be thinking about making it as asset light as possible
+early in the life of the company.
+De-risking and learning about the potential,
+and then scaling it up at a later point.

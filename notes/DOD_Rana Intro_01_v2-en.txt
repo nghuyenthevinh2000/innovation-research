@@ -1,0 +1,48 @@
+RANA EL KALIOUBY: And I came to MIT Media Lab, and a couple of things
+struck me.
+First of all, the Media Lab has a very close relationship with industry.
+So twice a year, we would invite all of our industry sponsors
+to what we called "Demo or Die."
+And it was an event where--
+it was a week-long event where we had to show our technology.
+You couldn't just show a PowerPoint.
+That was not good enough.
+You had to show actual prototypes of what you were building.
+And so for a number of years, twice a year,
+we'd have this Demo or Die, sponsor week, or Demo or Die week.
+And we'd show our work.
+And at the time, the technology I was working on
+was basically building devices that could
+help individuals on the autism spectrum interact with each other better.
+But then we'd have all these companies who wanted
+to use it for other applications.
+So, for instance, Toyota wanted to use it to monitor
+drivers who were distracted or asleep.
+Bank of America wanted to understand the user experience and make it better.
+PepsiCo wanted to use the technology to do product testing.
+And I kept a logbook of all the different use cases.
+And when we got to about 20 of these, we were basically ignoring these sponsors.
+Because we had no mechanism of licensing our technology to these companies.
+So Ros Picard, who was the MIT professor I was working with, and myself,
+we went into the Media Lab Director's office.
+And we said, you know what?
+We need 10 more research students, because this is no good.
+We're upsetting our sponsors.
+And he said, this is not a research challenge anymore.
+This is a commercialization opportunity.
+And I had this knee-jerk reaction.
+I was, like, no, no, no, no, you're messing up with my career plans.
+I want to be faculty.
+I had never-- it never crossed my mind that I would start a company.
+But then I thought about it.
+And I felt that I had this unique opportunity
+to take something that I've worked on in academia, that I
+was very passionate about, and then bring it
+to the world in a very scalable way.
+To me, that was the tipping point.
+In academia, you're always pushing the state of the art.
+You're always pushing the envelope.
+But you don't often have the chance to apply something you've built at scale,
+and really change how people either do business
+or communicate with each other on a day-to-day basis.
+And so that was the impetus for starting Affectiva.

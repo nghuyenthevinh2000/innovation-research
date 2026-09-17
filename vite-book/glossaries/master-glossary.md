@@ -10,11 +10,11 @@
 | Innovation Stage | Focus Domain | Key Concepts |
 | --- | --- | --- |
 | [**Core Foundations**](#core-foundations) | Macro Theory & Emergence | Invention, Innovation, Valley of Death, Emergent Innovation, Reasonableness Trap, Expert-Free Zone, Five Big Ideas, Pre-Mortem |
-| [**Stage 2**](#stage-2-technology-market-fit--needs-seeds-synchronization) | Representation, Functional Deconstruction & Fit | Perspective, Heuristic, P-H Pair, Magic Square, Cognitive Diversity, Cross-Domain Transfer, Crowdsourced Search, Open Innovation, Solver Profile, Technology Seed, Customer Need, Accelerated Innovation, Functional Analysis, MPV, S-A-O Triad, JTBD, ODI, Activity Chains |
+| [**Stage 2**](#stage-2-technology-market-fit--needs-seeds-synchronization) | Representation, Functional Deconstruction & Fit | Perspective, Heuristic, P-H Pair, Magic Square, Cognitive Diversity, Cross-Domain Transfer, Crowdsourcing, Crowdsourced Search, Open Innovation, Solver Profile, Technology Seed, Customer Need, Seeds-Driven Innovation, Needs-Driven Innovation, Accelerated Innovation, Functional Analysis, Function, MPV, S-A-O Triad, JTBD, ODI, Activity Chains, Needs Statement (MRD) |
 | [**Stage 3**](#stage-3-business-architecture--model-alignment) | Venture Architecture | Business Architecture, Business Model, Value Creation, Value Capture, Operating Model, Structure, Capabilities, Assets, Misalignment |
-| [**Stage 4**](#stage-4-market-assessment-due-diligence--deep-tech-mvps) | Market Assessment & MVPs | TRL (1–9), Cloverleaf Framework, Freedom to Operate (FTO), Blocking Patents, Market Antibodies, 10x Imperative, Patience Dilemma, 100-Interview Funnel, Customer Validation, Disconfirming Evidence, Mom Test, Dog Food Test, MVP in Deep Tech, Conceptual MVP, Simulated MVP, Prototypical MVP, Think-Aloud |
+| [**Stage 4**](#stage-4-market-assessment-due-diligence--deep-tech-mvps) | Market Assessment & MVPs | TRL (1–9), Cloverleaf Model (Framework), Freedom to Operate (FTO), Blocking Patents, Market Antibodies, 10x Imperative, Patience Dilemma, 100-Interview Funnel, Customer Validation, Disconfirming Evidence, Mom Test, Dog Food Test, MVP in Deep Tech, Conceptual MVP, Simulated MVP, Prototypical MVP, Think-Aloud |
 | [**Stage 5**](#stage-5-venture-de-risking--capital-architecture) | Finance & Staging | Cash Engine, Cash Conversion Cycle (CCC), Working Capital, Customer Financing, Lemonade Stand, Venture De-Risking, Discriminating Experiment, Staged Financing, Debt Capital, Equity, Equity Capital, Dilutive Capital, Non-Dilutive Capital, SBIR / STTR Grants, Cash Flow Rights, Control Rights |
-| [**Stage 6**](#stage-6-scaling-spin-offs-syndicates--standards) | Governance & Scale | Angel Investors, Family Office, Venture Capital Funds (VC), Seed Funds, Illiquid Investment, Exit, Power Law, 10-Year Fund Lifecycle, Investor Syndicate, Signaling Risk, Technology Transfer, TTO Pitfalls, Accelerators, Platforms, Venture Acceleration, Standards War, Go-to-Market Foundations |
+| [**Stage 6**](#stage-6-scaling-spin-offs-syndicates--standards) | Governance & Scale | Angel Investors, Family Office, Venture Capital Funds (VC), Seed Funds, Illiquid Investment, Exit, Power Law, 10-Year Fund Lifecycle, Investor Syndicate, Signaling Risk, Technology Transfer, TTO Pitfalls, Accelerators, Platforms, Venture Acceleration, Network Effect, Licensing Arrangement, Joint-Development Partnership, Market Access, Standards War, Go-to-Market Foundations |
 
 ---
 
@@ -146,7 +146,15 @@
 
 - **Aliases:** `Cross-Domain Innovation`, `Model Porting`, `Cross-Disciplinary Search`
 - **Definition:** The systematic importation of a mature perspective or mathematical heuristic from an unrelated scientific discipline into a novel problem space (e.g., Brownian motion and thermodynamics applied to Black-Scholes option pricing; electrical circuit oscillation applied to deep-brain stimulation).
-- **Related Terms:** Functional Analysis (Functional Thinking), Perspective-Heuristic Pair (P-H Pair), Crowdsourced Search (Broadcast Search).
+- **Related Terms:** Functional Analysis (Functional Thinking), Perspective-Heuristic Pair (P-H Pair), Crowdsourced Search (Broadcast Search), Crowdsourcing.
+
+### `Crowdsourcing`
+
+- **Aliases:** `Crowd-Sourcing`, `Crowdsourced Innovation`, `Open Problem Solving`, `External Problem Sourcing`
+- **Definition:** A method of finding information or solutions to a problem by inviting ideas and solutions from a large set of experts (or laypeople, depending on the case) outside the boundaries of your firm or organization. Crowdsourcing is a relatively new term used to denote the practice of posting problems and inviting solutions over the internet, though the practice has been around for centuries in different forms (e.g., innovation contests, competitions on technical and design challenges, and open data analysis challenges).
+- **Stage:** Stage 2 (Technology-Market Fit & Cognitive Search).
+- **Core Mechanism:** Leverages distributed cognitive diversity across external networks to overcome internal organizational boundary constraints, attracting solvers whose distant perspectives provide breakthrough, non-obvious solutions.
+- **Related Terms:** Crowdsourced Search (Broadcast Search), Open Innovation, The Boundary Problem, Solver Profile, Cognitive Diversity.
 
 ### `Crowdsourced Search (Broadcast Search)`
 
@@ -154,7 +162,7 @@
 - **Definition:** The organizational practice of broadcasting a stripped, abstract functional formulation of an internal technical bottleneck to an open, global, multidisciplinary solver network to discover uncorrelated perspective-heuristic pairs.
 - **Cases:** Colgate-Palmolive submicron powder dispersion (solved via electrostatic physics by an outsider); NASA solar particle event forecasting (solved by a retired telecommunications engineer).
 - **Originator:** Karim Lakhani (Harvard LISH / InnoCentive research).
-- **Related Terms:** Open Innovation, The Boundary Problem, Solver Profile, Perspective-Heuristic Pair (P-H Pair).
+- **Related Terms:** Crowdsourcing, Open Innovation, The Boundary Problem, Solver Profile, Perspective-Heuristic Pair (P-H Pair).
 
 ### `Open Innovation`
 
@@ -185,14 +193,32 @@
 - **Aliases:** `Technology Push`, `Supply Push`, `Seed Technology`, `Supply-Side Innovation`
 - **Definition:** A novel laboratory discovery, material property, proprietary algorithm, or technological capability seeking commercial applications.
 - **Risk:** "A hammer in search of a nail" — developing advanced physics or engineering without an urgent customer problem.
-- **Related Terms:** Customer Need (Demand Pull), Accelerated Innovation, Functional Analysis (Functional Thinking).
+- **Related Terms:** Customer Need (Demand Pull), Seeds-Driven Innovation, Accelerated Innovation, Functional Analysis (Functional Thinking).
 
 ### `Customer Need (Demand Pull)`
 
 - **Aliases:** `Market Pull`, `Demand Pull`, `Customer Friction`, `Unmet Customer Need`
 - **Definition:** A validated, quantified point of friction, workflow bottleneck, economic loss, or unmet operational objective experienced by end-users in the market.
 - **Risk:** "The Faster Horse Trap" — customer myopia producing incremental, pedestrian benchmarks.
-- **Related Terms:** Technology Seed (Supply Push), Jobs-to-Be-Done (JTBD), Outcomes-Driven Innovation (ODI).
+- **Related Terms:** Technology Seed (Supply Push), Needs-Driven Innovation, Jobs-to-Be-Done (JTBD), Outcomes-Driven Innovation (ODI).
+
+### `Seeds-Driven Innovation`
+
+- **Aliases:** `Seed-Driven Innovation`, `Seeds Driven Innovation`, `Technology-Driven Innovation`, `Technology Push Innovation`, `Capability-Driven Innovation`
+- **Definition:** A process for innovation where the starting point is the capability that a technology can offer.
+- **Stage:** Stage 2 (Technology-Market Fit & Needs-Seeds Synchronization).
+- **Risk / Common Trap:** "A hammer in search of a nail" — developing advanced technical capabilities or benchtop physics without an urgent, quantified customer problem or economic justification.
+- **Antidote:** Universal Functional Analysis (stripping domain jargon to find unaddressed functions) and closed-loop synchronization with market pull.
+- **Related Terms:** Needs-Driven Innovation, Technology Seed (Supply Push), Accelerated Innovation, Functional Analysis (Functional Thinking).
+
+### `Needs-Driven Innovation`
+
+- **Aliases:** `Need-Driven Innovation`, `Needs Driven Innovation`, `Customer-Driven Innovation`, `Market-Driven Innovation`, `Demand-Pull Innovation`
+- **Definition:** A process for innovation where the starting point is a deep understanding of a customer's needs and wants.
+- **Stage:** Stage 2 (Technology-Market Fit & Needs-Seeds Synchronization).
+- **Risk / Common Trap:** "The Faster Horse Trap" — customer myopia producing incremental, pedestrian benchmarks and feature requests because customers cannot envision radical paradigm shifts.
+- **Antidote:** Jobs-to-Be-Done (JTBD), Outcomes-Driven Innovation (ODI), and Customer Activity Chain deconstruction to uncover root operational friction rather than superficial feature desires.
+- **Related Terms:** Seeds-Driven Innovation, Customer Need (Demand Pull), Accelerated Innovation, Jobs-to-Be-Done (JTBD), Outcomes-Driven Innovation (ODI).
 
 ### `Accelerated Innovation`
 
@@ -208,7 +234,15 @@
 - **Definition:** A systematic deconstruction methodology that strips away proprietary domain jargon and physical components to articulate what a technology *does* at an elementary physical level.
 - **Core Axiom:** *Function is the goal; technology is merely a means.* Customers never buy a product for what it is, but for what it does.
 - **Originator:** Dr. Sam Kogan (Gen5 Group).
-- **Related Terms:** Main Parameters of Value (MPV), Subject-Action-Object (S-A-O) Triad.
+- **Related Terms:** Function, Main Parameters of Value (MPV), Subject-Action-Object (S-A-O) Triad.
+
+### `Function`
+
+- **Aliases:** `Product Function`, `Universal Function`, `System Function`, `Function vs Technology`
+- **Definition:** The main reason that we buy a certain product or technology, defined as the interaction between different components of the system. Within the context of functional analysis, the function is defined in universal terms.
+- **Stage:** Stage 2 (Technology-Market Fit & Needs-Seeds Synchronization).
+- **Core Axiom:** *Function is the goal; technology is merely a means.* Customers buy solutions for what they do rather than what they are physically composed of. Expressing functions in universal physical terms decouples capabilities from specific industry domains.
+- **Related Terms:** Functional Analysis (Functional Thinking), Subject-Action-Object (S-A-O) Triad, Main Parameters of Value (MPV), Jobs-to-Be-Done (JTBD).
 
 ### `Main Parameters of Value (MPV)`
 
@@ -247,7 +281,16 @@
 - **Definition:** The sequential end-to-end journey of operational actions a customer executes to achieve an outcome (e.g., Search → Evaluate → Purchase → Install → Integrate → Operate → Maintain → Dispose).
 - **Originator:** Prof. Vish Krishnan (*Linkages-Driven Innovation*).
 - **Analytical Vector:** Analyzes functional, economic, informational, and emotional friction at every single link.
-- **Related Terms:** Outcomes-Driven Innovation (ODI), Jobs-to-Be-Done (JTBD).
+- **Related Terms:** Outcomes-Driven Innovation (ODI), Jobs-to-Be-Done (JTBD), Needs Statement.
+
+### `Needs Statement`
+
+- **Aliases:** `Market Requirements Document`, `MRD`, `Customer Needs Statement`, `Need Statement`, `Needs Statements`
+- **Definition:** A statement that expresses who the customer is, including information regarding: activities, behaviors, motivations, and specific problems experienced when trying to derive a benefit or utility. This is also sometimes called a market requirements document or MRD.
+- **Stage:** Stage 2 (Technology-Market Fit & Needs-Seeds Synchronization) / Stage 4 (Market Assessment & Due Diligence).
+- **Core Components:** Explicitly articulates customer identity/archetype, contextual workflows and behaviors, intrinsic/extrinsic motivations, and quantifiable operational bottlenecks encountered when seeking utility.
+- **Common Trap:** Conflating a needs statement with a product feature specification — prescribing technical architectures or engineering solutions before deeply defining the customer's problem space.
+- **Related Terms:** Customer Need (Demand Pull), Needs-Driven Innovation, Jobs-to-Be-Done (JTBD), Outcomes-Driven Innovation (ODI), Customer Activity Chain, Main Parameters of Value (MPV).
 
 ---
 
@@ -322,13 +365,19 @@
 - **Milestone Sweet Spot:** TRL 4–6 is the critical inflection zone where benchtop prototypes transition to real-world operational environments.
 - **Related Terms:** The Cloverleaf Framework, The Valley of Death, Freedom to Operate (FTO).
 
-### `The Cloverleaf Framework`
+### `The Cloverleaf Model` (The Cloverleaf Framework)
 
-- **Aliases:** `Cloverleaf Framework`, `Cloverleaf Diagnostic`, `Cloverleaf Model`, `Four-Leaf Diligence`
-- **Definition:** A multidimensional diagnostic tool used to stress-test technology commercialization across four interdependent leaves: **Technology & IP Readiness**, **Market Need & Customer Value**, **Business Model Defensibility**, and **Execution & Operational Feasibility**.
-- **Originators:** Vish Krishnan, Karim Lakhani.
-- **Rule:** A breakthrough on Leaf 1 (Technology) is useless if Leaf 3 (Monetization) or Leaf 4 (Regulatory/Supply Chain) is blocked.
-- **Related Terms:** Technology Readiness Levels (TRL), Freedom to Operate (FTO), Market Antibodies.
+- **Aliases:** `Cloverleaf Model`, `The Cloverleaf Model`, `Cloverleaf Framework`, `The Cloverleaf Framework`, `Cloverleaf Diagnostic`, `Four-Leaf Diligence`, `Heslop-McGregor-Griffith Cloverleaf`
+- **Definition:** A framework for determining whether a technology venture is ready to be taken to market. There are four dimensions in the model: technology readiness, market readiness, commercial readiness, and team readiness. Each dimension has a series of critical questions that can help develop a picture of where a technology venture currently stands.
+- **Four Dimensions (Leaves):**
+  1. **Technology Readiness:** Technical feasibility, lab-to-field stability (TRL 4–6), and patent/IP defensibility.
+  2. **Market Readiness:** Quantifiable customer friction, validated willingness to pay, and priority ranking in customer workflows.
+  3. **Commercial Readiness:** Sustainable business model defensibility, pricing power, and positive unit economics.
+  4. **Team Readiness:** Team operational capabilities, leadership execution capacity, and alignment across scientific and commercial disciplines.
+- **Originators:** Heslop, McGregor, and Griffith; Vish Krishnan, Karim Lakhani.
+- **Stage:** Stage 4 (Market Assessment, Due Diligence & Deep-Tech MVPs).
+- **Core Rule:** A venture breakthrough on Dimension 1 (Technology) is useless if Dimension 3 (Commercial) or Dimension 4 (Team) cannot execute.
+- **Related Terms:** Technology Readiness Levels (TRL), Freedom to Operate (FTO), Market Antibodies, Market Access.
 
 ### `Freedom to Operate (FTO)`
 
@@ -791,7 +840,39 @@
 - **Definition:** A multi-faced organizational structure that allows for transactions and dialogue between a variety of stakeholders for any purpose. For example, Facebook may be considered a platform that connects several stakeholders: firms, advertisers, individuals, political and social groups and communities, and researchers.
 - **Stage:** Stage 3 / Stage 6.
 - **Common Trap:** Attempting to build platform network effects without first solving the "chicken-and-egg" multi-stakeholder adoption problem through single-sided utility.
-- **Related Terms:** Structure (Operating Model), Business Architecture, Value Creation, Value Capture, Standards War, Go-to-Market Foundations.
+- **Related Terms:** Network Effect, Structure (Operating Model), Business Architecture, Value Creation, Value Capture, Standards War, Go-to-Market Foundations.
+
+### `Network Effect`
+
+- **Aliases:** `Network Effects`, `Direct Network Effects`, `Two-Sided Network Effects`, `Demand-Side Economies of Scale`, `Platform Network Effect`
+- **Definition:** An effect observed in certain products and services, where the value of the product or service increases as more users use it. Facebook and Uber are examples of platforms that exhibit network effects.
+- **Stage:** Stage 3 / Stage 6 (Business Architecture & Platform Scaling).
+- **Dynamics:** Creates self-reinforcing winner-take-most dynamics; however, platforms must solve the initial "chicken-and-egg" cold-start problem by delivering single-player utility before network effects take hold.
+- **Related Terms:** Platforms, Standards War, Value Creation, Value Capture, Structure (Operating Model).
+
+### `Licensing Arrangement`
+
+- **Aliases:** `Licensing Agreement`, `IP Licensing`, `Technology Licensing`, `Licensing Model`, `Licensor and Licensee Contract`
+- **Definition:** A contract between two organizations or individuals wherein one (the licensee) agrees to pay a fee for the use of intellectual property or other asset that the other (the licensor) owns the rights to. In a startup context, its importance is also that it is a way for highly inventive organizations with strong R&D capabilities to earn revenues from the products resulting from their R&D activities, without having to directly manufacture and sell products or services to mass consumers.
+- **Stage:** Stage 3 / Stage 6 (Value Capture, IP Monetization & Spin-Off Scaling).
+- **Strategic Utility:** Enables asset-light scaling and high gross margins for deep-tech ventures, bypassing the massive capital expenditures required for direct mass manufacturing and consumer distribution.
+- **Related Terms:** Value Capture, Structure (Operating Model), Tech Transfer Office (TTO) Pitfalls, Joint-Development Partnership, Market Access, Standards War.
+
+### `Joint-Development Partnership`
+
+- **Aliases:** `Joint Development Partnership`, `Joint Development Agreement`, `JDA`, `Co-Development Partnership`, `R&D Partnership`, `Collaborative Development`
+- **Definition:** An agreement between two organizations to develop a new product, service, solution or business line.
+- **Stage:** Stage 3 / Stage 6 (Operating Capabilities, Co-Development & Scaling).
+- **Strategic Utility:** Allows deep-tech startups to combine novel laboratory discoveries with an established corporate partner's domain engineering, regulatory assets, capital, or pilot testing infrastructure.
+- **Related Terms:** Licensing Arrangement, Market Access, Accelerated Innovation, Open Innovation, Operating Model.
+
+### `Market Access`
+
+- **Aliases:** `Customer Access`, `Channel Access`, `Distribution Access`, `Commercial Market Access`
+- **Definition:** The ability of a company to access a targeted set of customers.
+- **Stage:** Stage 4 / Stage 6 (Market Assessment, Channel Due Diligence & Go-to-Market).
+- **Venture Context:** A critical bottleneck for deep-tech startups. Incumbent distributors or enterprise channel partners frequently control customer touchpoints; partnering through licensing or joint-development arrangements is often the fastest way for an early-stage venture to secure rapid market access.
+- **Related Terms:** Go-to-Market Foundations, Joint-Development Partnership, Licensing Arrangement, Customer Activity Chain, Market Antibodies.
 
 ### `Standards War`
 

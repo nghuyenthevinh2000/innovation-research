@@ -1,0 +1,71 @@
+
+KARIM LAKHANI: Crowds have a important role
+in the history of technology as well.
+Before the invention of the modern university or the modern corporation,
+governments and societies relied on crowds
+to help solve tough technological problems faced by them.
+A marquee example of this comes from the UK.
+In 1707, part of the British fleet sank off
+the south coast of the UK due to bad navigation and bad weather,
+a common occurrence in the UK as you know.
+The UK parliament, faced with this naval disaster,
+established the Longitude Prize in 1707, where
+they offered 20,000 pounds for anybody they
+could come up with a working solution to finding the longitude at sea.
+In those days, it was very difficult to find out where you were in the world.
+Today, with our cell phones, we can know precisely
+our location because there are satellites up in the air
+telling us where we are.
+Now, the interesting thing about the prize that the British parliament set
+up was that they put Sir Isaac Newton as a chair of the prize
+committee and a principal adviser to the parliament on this prize.
+And Isaac Newton felt very strongly that the only approach to solve this problem
+was going to be through the methods of astronomy.
+Now, as you know, Isaac Newton himself was a scientific giant at that time.
+So when he said that the only methods that mattered are ones in astronomy,
+he was taking a perspective/heuristic approach
+based on his prior experience in astronomy
+and applying it to this problem.
+Regardless of what he said, there were a ton of solutions that got offered.
+In fact, more than a hundred were proposed.
+Some of them were quite creative.
+For example, somebody proposed that we should
+have telepathic dogs on ships, that would
+bray when we crossed the longitude.
+[BARKING]
+Other people said all we need to do is put cannon platforms at sea,
+that would go off at certain times.
+[EXPLOSION]
+That would inform the ships passing by as
+to what the location was going to be.
+Again, a very practical solution to this problem.
+The winning solution for this ended up coming
+by the invention of a clock or chronometer that
+could actually keep track of time.
+Here, John Harrison, who was an unknown carpenter in Yorkshire,
+came up with the winning solution because he understood
+expansion and contraction of materials.
+The problem at that time was that clocks that were being made
+could not keep track of time once they left shore.
+Once you were on the ship, because of a temperature change, and humidity
+change, and the motion, clocks would very quickly lose track of time.
+And the solution relied on the fact that once you knew the time
+you left that shore and the time currently you were faced with,
+you could through trigonometry, come up with a proper location
+of the longitude.
+Now, what we see here again is by going to the crowd
+we can get a diverse perspective and heuristic
+pairs that can be applied to a problem.
+Some may be successful.
+Some may not be successful.
+But that's the whole point.
+Here, when we want to generate a variety of perspective/heuristic pairs
+to solve our problem.
+Other historical examples of this include designing the dome
+at the cathedral in Florence.
+That was done by Brunelleschi, who was not an architect, but a goldsmith.
+And also the invention of food canning to feed Napoleon's armies, done so
+by a pharmacist.
+So throughout history, crowds have been an important way
+in which we can generate at scale diverse perspectives and heuristics
+to help us solve problems.

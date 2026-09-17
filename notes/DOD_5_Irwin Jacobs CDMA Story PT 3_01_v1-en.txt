@@ -1,0 +1,121 @@
+IRWIN JACOBS: And so we're in a position where we're
+manufacturing some infrastructure.
+We're manufacturing phones and bringing up other manufacturers,
+because we want it to be a worldwide approach.
+We are also making the chips, and that caused
+a problem in that other manufacturers, Samsung and LG and others,
+were suddenly beginning to finally get to manufacturing CDMA phones.
+And they said, well, how do we know that you're
+going to give us the chips and software early at the same time
+that you give them to your own manufacturing?
+And no matter what we said, they didn't really believe us.
+So we realized that strategically, we really
+should sell the handset business and the infrastructure business
+and focus on chips and on software that went with the chips
+and on moving the technology that much faster.
+And so Qualcomm evolved a business plan that was somewhat unique
+and is still somewhat unique of selling the chips to many manufacturers
+around the world and providing them with software, tools and software
+and education, and also having a licensing business
+where we did get a small return on every phone that was sold.
+And so that's the business model that Qualcomm has really
+followed ever since.
+And it has allowed us to move the technology very rapidly,
+because we are very focused.
+The company has been very focused on new technology,
+what more can be done with technology, and then once you come up with ideas,
+how do you get that into the hands of the other manufacturers rapidly?
+Well, we can do that by putting the chips in software
+and selling those broadly, and so that turned out to be a very useful model.
+It's what's called a horizontal model.
+One company doesn't do everything.
+One company does certain parts of the business, makes the phones
+but do not make the chips.
+And before Qualcomm had started this approach,
+there were a few vertical companies.
+They did everything.
+Nokia and Ericsson, Motorola, but as a result, very few manufacturers.
+And so we changed the whole industrial model
+of how you go through cellular situation.
+One had then a business model where we developed technology, came up
+with new ideas, expanded, by the way, the number of patents
+that we had in many areas.
+And also then, license the technology as broadly
+as we could so there would be many manufacturers.
+This horizontal business model was working very, very well.
+And so what might one do?
+Well, first of all there's Moore's Law, which says that every two years
+roughly-- it is not a law but was an observation--
+every two years you can about double the number
+of transistors that are on a chip and therefore add capability.
+So whatever capability you have this year,
+you have twice as much possibility two years later.
+And so our approach was to put as much as possible, on each chip.
+Let's call it a system on a chip, rather than having
+multiple chips, because that uses less energy and less space.
+You can have smaller devices.
+And so some of the competitors didn't follow that approach
+and eventually went out of business.
+But we were very much taking advantage of Moore's Law.
+And then there's new capabilities.
+There was a problem that was identified as cell phones became more
+popular with emergency calls, E911.
+When people dialed 911 from a wire line phone,
+the operator knew where the phone was located,
+could send emergency vehicles there.
+But with a cell phone they couldn't, and sometimes the person
+might not know where they were.
+And so we had to provide information on location.
+Now, every other manufacturer, all the GSM manufacturers, for example,
+and TDMA manufacturers, went to an approach
+using the location with respect to cell sites, triangulation,
+time delay, and the measurements to locate
+where the phone was placing the call.
+That works but not very well.
+They couldn't really get an accurate determination.
+From the beginning, we developed using GPS, Global Positioning System,
+putting that on the same chip and allowing us to get very good location
+information, and we actually came up with an enhancement which
+made use of some of the communication signal coming over the cellular network
+that provided some time, it provided frequency,
+and could provide some location coordinates
+on where the satellites were that we're trying to identify and use
+for position location.
+And so we pursued that.
+Everybody scoffed a bit-- as they had scoffed originally at CDMA--
+scoffed a bit that that's too expensive.
+And for example, China is never going to let phones
+in that require a US military system for its position location,
+and so they didn't follow that path initially.
+Now of course, everybody uses GPS.
+So that was a step ahead.
+And then there's other issues.
+We began probably around 2000 to think very seriously
+about how do you put a camera on the phone,
+make good use of the phone to support a camera capability?
+And of course, you go around and just talk with potential customers,
+you talk with operators, and everybody's response
+was, why would I ever want a camera on my phone?
+But you knew if you could do it right, that it should be,
+in fact, a very attractive capability.
+And so we pursued it, and of course, now perhaps that's
+the most attractive aspect of a cell phone.
+And so we continue to look for different areas that
+allow us to provide more and more capability on the phone,
+taking advantage of Moore's Law, and make
+that phone more and more attractive.
+And that allowed the market to grow exponentially for many, many years.
+Very exciting period.
+VISH KRISHNAN: Fascinating history.
+I mean, so much happened in the company and in the industry
+during that period of time.
+You just can't imagine the pace and the amount of accomplishment there.
+And you make a number of points there including when customers said,
+why would I want a camera on the phone?
+And today, almost everybody requires that.
+They wouldn't buy a phone without a camera for obvious reasons.
+So this is sometimes called the functional fixedness,
+that customers don't know what they want.
+They might immediately say something that's
+counter to what they actually may need in the future.
+So that's a very good point.

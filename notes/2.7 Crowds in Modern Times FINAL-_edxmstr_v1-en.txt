@@ -1,0 +1,41 @@
+
+KARIM LAKHANI: Now, you must be wondering,
+why is it that the crowd, a random set of people that we basically
+ask the world to come help solve our problems,
+can outperform the most elite institutions?
+Our lab has been working on this problem,
+trying to understand it and unpack, why is it
+that the crowd can beat solutions from as far back in history as Isaac Newton
+to now Harvard scientists or Broad scientists or scientists
+at other elite institutions like NASA?
+And what we have come up with is a fairly simple explanation.
+Many of you may recall in statistics that your professor talked
+about the fact that you can represent any activity
+through a statistical distribution.
+For example, the normal distribution, the Gaussian distribution,
+or the Bell curve distribution-- they're all
+describing the same thing, where basically the outcomes you're
+getting from a particular process follows a probability distribution that
+looks like a bell curve.
+Now, when you do something once, what statistics
+will tell you is that the first time you do something independently,
+you will get a statistical distribution which
+is going to give you the average value.
+Over time, as multiple people start to do the same activity independently,
+you will see the entire distribution shape up.
+Now, what the crowd allows us to do is it
+allows us to see the entire distribution of results.
+We see the bad and the ugly--
+so think back to cannons at sea, as well as braying dogs,
+all the way to a great extreme value solution on the right side
+of the distribution from what came about--
+from the chronometer, from John Harrison,
+to the examples that we've talked about so far in modern times.
+So what the crowd allows us to do is to come up with the entire distribution.
+And then as people sponsor the crowd, we can pick the best ones,
+the tail parts of the distribution.
+And often, this tail part of the distribution
+is way better than what even the elite institutions do.
+The elite institutions end up being the average, because they're just
+taking one crack at the problem versus a crowd gives us the entire distribution
+and then we pick up the tail part, the extreme value part of the answer.

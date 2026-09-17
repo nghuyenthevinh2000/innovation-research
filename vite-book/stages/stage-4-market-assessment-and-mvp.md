@@ -55,14 +55,14 @@ flowchart TD
 
 ## 2. Key Concepts & Definitions
 
-### 2.1 The Cloverleaf Diagnostic Framework
+### 2.1 The Cloverleaf Model (Diagnostic Framework)
 
-Developed by scholars **Heslop, McGregor, and Griffith**, the Cloverleaf Framework posits that science and technology commercialization cannot rely on technology readiness alone. A balanced market assessment requires four leaves of equal maturity:
+The **Cloverleaf Model** is a framework for determining whether a technology venture is ready to be taken to market. Developed by scholars **Heslop, McGregor, and Griffith**, it posits that science and technology commercialization cannot rely on technology readiness alone. A balanced market assessment requires evaluating four dimensions of equal maturity, each featuring a series of critical questions that help develop a comprehensive picture of venture readiness:
 
-- **Leaf 1: Technology & IP:** Verification of TRL 4–6 operational stability in noisy environments, coupled with comprehensive patent boundaries.
-- **Leaf 2: Market & Need:** Quantifiable customer pain, purchasing authority, and decisive validation that the problem ranks in the customer's top 1–3 priorities.
-- **Leaf 3: Business Model Defensibility:** Unit economics yielding strong positive gross contribution margins (>70%), clear monetization metrics, and sustainable switching barriers.
-- **Leaf 4: Operations & Ecosystem:** Feasible regulatory pathways (e.g., FDA 510(k), CE mark), scalable supply chain relationships, and an aligned founding team.
+- **Technology Readiness (Leaf 1):** Technical proof, TRL 4–6 operational stability in real-world/noisy environments, and freedom to operate (FTO) patent boundaries.
+- **Market Readiness (Leaf 2):** Quantifiable customer pain, purchasing authority, and decisive validation that the problem ranks in the customer's top 1–3 priorities.
+- **Commercial Readiness (Leaf 3):** Sustainable business model defensibility, pricing power, unit economics with positive gross margins (>70%), and clear monetization architecture.
+- **Team Readiness (Leaf 4):** Complementary leadership capabilities, operational execution capacity, aligned incentives, and balance across scientific and business disciplines.
 
 ### 2.2 Technology Readiness Levels (TRL 4–6 Sweet Spot)
 

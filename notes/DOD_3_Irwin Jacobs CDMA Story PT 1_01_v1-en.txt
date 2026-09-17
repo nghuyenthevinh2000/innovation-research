@@ -1,0 +1,184 @@
+
+IRWIN JACOBS: We had a consulting request from Hughes Aircraft.
+They had given a proposal to the FCC for a mobile satellite communication
+system.
+And they hired us to look at the technical aspects of their proposal.
+Were there any errors in it?
+Were there some small improvements that perhaps could be made?
+And it was using somewhat traditional TDM, TDMA, CDMA--
+not CDMA, FDMA type of technology.
+And after the second meeting up in Los Angeles, during the drive
+down the San Diego, about halfway, I suddenly realized
+that with a system that was for a single user a mobile communication system,
+that you're losing some use of the channel
+when someone stops and thinks about what they want to say
+or listens to the other side of the conversation.
+And with usual technology, you could not give up the channel
+and then get it back in time to continue your conversation.
+And so you're losing the use of the channel.
+You're losing capacity.
+One technology, CDMA, Code Division Multiple Access,
+the number of users at any given time depends on the interference
+from other active users.
+So if some of the users aren't active, they're
+not generating interference at any given instant.
+And on average, you can get a larger number of users.
+And so I had that idea partway down.
+And I said to one of the engineers, Klein Gilhousen, who
+was driving at the time, please take a look at that
+and see if, in fact, that can yield some significant improvement.
+About two days later I stopped in Klein's office--
+we were still a very tiny company--
+and asked Klein, how did you make out looking at the CDMA approach?
+And he looked back and he said, were you really serious about that?
+So he hadn't really paid attention.
+But after I convinced him, you know, it was serious, he began to look.
+And we found a whole set of other potential opportunities
+that would be offered by CDMA technology.
+So we went back to Hughes and explained it.
+It's complicated enough that it's very hard to get the ideas across.
+But they agreed to let us pursue that for a bit.
+And we actually were able to carry the ideas a little further,
+be able to build a sample satellite that we could put up
+on a hilltop and a sample receiver, and test some of the theory,
+and find out that indeed, it seemed to be working the way we thought.
+Unfortunately, Hughes heard back from the FCC
+that was probably going to be several years before they
+would act on their application.
+So they cut off the funding.
+Our problem then is that we didn't have any funding--
+still too small, too few people--
+to really continue on CDMA, which would take clearly a few years of activity.
+We had had a contract on another program, which
+we called Omnitracs, which was to put a satellite
+terminal on mid and large-sized trucks, and allow the trucking operators to be
+able to communicate with their trucks anywhere on the continent
+and to also keep location of the trucks so they
+could make reassignments and find out how best to optimize their operation.
+And so we pursued that particular product
+because we thought we could get that to market early enough.
+And it turned out that was also very useful in other ways.
+We were thinking OK, I'll go out and talk
+with some of the very large trucking operators,
+and tell them we can provide communications,
+and think that they will be very excited about that.
+But going out and talking with them was very educational.
+Because you find out when you talk with the customer and you say,
+I can provide this.
+They say yes, but that's not my problem my.
+Problem is I have a whole logistics system.
+I have the drivers and I have to do the proper assignments.
+We found very quickly we had to look at a much larger systems problem
+and be able to not only provide the communication links,
+but also get into the software that they were using
+for managing their whole operation.
+And so we stood back, thought about that--
+again, a way to innovate while you're providing some capability,
+let's look at the whole overall system and optimize or somewhat optimize that.
+And we came up with some ideas.
+And we won the largest trucking company in the country
+at the time, Schneider International, to be able to take on our products.
+That happened in October or so of 1988, a couple of years after we had started.
+And once we had had that contract, we were now shipping some product.
+And we were able to have a positive cash flow, and said, let's go back
+and look at CDMA.
+And by that time, the mid to late-80s, cellular was beginning to take off.
+And so the industry had recognized that they could not simply
+stay with the first generation of cellular communications, which
+was based on analog communications, or FM radio.
+But they needed to go from analog to digital.
+The industry had looked at FDMA, Frequency Division Multiple
+Access, TDMA, Time Division Multiple Access, CDMA,
+Code Division Multiple Access.
+And pretty much all the companies around the world that looked at CDMA
+said either too complicated, no benefits, no market thrust,
+and had given up on it.
+So everybody was focused on either FDMA or TDMA.
+
+At the beginning of 1989--
+January of 1989, actually--
+the industry then had a vote on whether to go with TDMA or FDMA
+here in the United States.
+And it was a very bitter fight.
+And the industry decided on going with TDMA.
+And so after that bitter fight, people began
+to work toward developing the technology, moving to a standard,
+and trying to move toward commercial equipment.
+We, just a few months earlier, had started again to look at CDMA.
+And it took until about March before we felt--
+we think we solved all the problems that people were worried about.
+And so I went to see PacTel Cellular, and presented
+them our thoughts on CDMA.
+And the first time anybody hears about CDMA, of course they--
+it's probabilistic, you know?
+Some of the users are talking.
+Some are not.
+What kind of a game can that give you?
+And it's complicated code division.
+You have to use codes to distinguish conversations,
+and a whole range of issues.
+But they were confident enough in the work we had done previously.
+They knew about Linkabit and so on.
+They knew Andy Viterbi, who was one of the founders, knew myself.
+And so they said well, we're willing to listen.
+And so we worked on it for a while.
+We went back with them.
+And they eventually set up a meeting with about 120 or 130 people
+from the industry around the world in Chicago
+where we could make a presentation about CDMA.
+And these were people that were already working very heavily on TDMA
+and most had looked at CDMA and thrown up their hands.
+And so when I made the presentation, I thought there was about a 50-50 chance
+that somebody was going to raise their hand and say,
+here's something you forgot.
+This is why it doesn't work.
+But nobody did.
+But of course, nobody was convinced by slides and presentations.
+They said, yeah, we don't see any problems, but--
+And so we immediately had to start working very quickly because everybody
+was rushing toward introducing TDMA.
+We had to start working very quickly to provide a demonstration system that
+would demonstrate that we had solved the problems everybody identified
+with CDMA.
+And so we had to move from an innovation and innovative idea,
+through inventing a number of different steps, onto how do we realize this,
+at least as a demonstration type of system?
+Well, we built two base stations and one portable phone.
+The portable phone was unfortunately so large it
+required a van to drive it around.
+But we could then be able to demonstrate that we had solved the problems
+people had raised with CDMA.
+So we invited everyone back again to come here to San Diego in November
+of '89, so just about a year after we started on CDMA,
+back to visit and we could give them a demonstration on the fact we had solved
+these problems that had bothered everybody.
+Power control: could you keep everybody... when they were driving around coming
+inside of a cell site not being in view of a cell site,
+could we control the power fast enough so we
+didn't cause too much interference from any particular user?
+Could we do hand-offs between cell sites in a very smooth fashion?
+Could we take advantage of the fact that one
+has not just a single copy of a radio signal,
+but reflections from all over-- you get multiple copies with multiple delays?
+Could we solve the multipath problem?
+So we had a number of things that we had to demonstrate
+that we had solutions for.
+We were successful with that demonstration.
+That got the operators interested because with CDMA, we pointed out
+that you could perhaps get 10 to 20 times the capacity, the number
+of subscribers, in a given amount of radio spectrum,
+that you could with TDMA.
+TDMA, you might get three.
+We could get 10 to 20.
+That's a large economic incentive.
+So the operators were interested.
+On the other hand, they didn't want to have a phone that
+took a van to drive it around.
+So we had to develop some integrated circuits
+to be able to reduce the size of the phone down to a commercial size.
+And also, not just the phone, but also the cell sites
+had to be commercial-sized as well.
+To do that, we had to develop three chips for the phone and two
+additional chips for the cell site.
+And that was an expensive and time-consuming operation.
+How are we going to pay for that?

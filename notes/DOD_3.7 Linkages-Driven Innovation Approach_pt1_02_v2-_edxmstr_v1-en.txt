@@ -1,0 +1,96 @@
+
+VISH KRISHNAN: Concrete operational approach
+for needs definition-- needs-driven innovation is
+what I call the linkages-driven approach, which
+seeks to offer more detailed cues by considering the so-called customer
+activity chain.
+What is that?
+So when customers engage in a major initiative or a project
+in their personal lives or at work, they must typically
+complete a whole range of activities.
+Consider a customer in the case of buying a car.
+They must engage in a range of activities
+such as researching the cars, deciding what to buy
+and where to buy it from, then what accessories and ancillary services
+to buy, whether to get extended warranty, leather seats.
+All these activities that a customer gets engaged in form an activity chain.
+Each of these activities not only have a functional and economic dimension,
+but also a social dimension and an emotional dimension,
+which we also try to understand in mapping the activity chain.
+So in this case, the customers must know where
+to buy these accessories and ancillary services from--
+directly from our dealer or are they going
+to get a better deal by buying from other sources on the internet?
+They're worried about the fact that is this a good deal?
+Also, how will my friends and my family respond or react
+to the purchase they made, the color I chose?
+The linkages-based approach seeks to find gaps or breaks in a customer
+activity chain and find an innovative technology
+enabler where to fill these gaps.
+The discussion here is based on an article in the Sloan Management Review
+that my co-authors and I wrote about with several examples
+from different industries.
+There are four types of linkages--
+temporal expansion, spatial expansion, temporal reconfiguration,
+and spatial reconfiguration.
+Let's first quickly review them, and then elaborate on them in more detail.
+So temporal expansion is about finding new opportunities, new offerings that
+add new activities within a primary activity chain
+to make this primary chain more efficient and more effective.
+Spatial expansion is about creating new activities in an adjacent activity
+chain--
+going from car purchase to home purchase, for example.
+Temporal reconfiguration is about finding
+new innovations, new opportunities that change the very structure
+and control of activities within the primary activity chain.
+And spatial reconfiguration, the last linkage,
+is about new innovation that changes the structure and control of activities
+in an adjacent activity chain.
+Each of these cases, we start by focusing
+on areas where customers typically spend significant time, money, and energy.
+Activities related to education, career management, home ownership, automobile
+ownership, parenting, and retirement.
+Each of these activities can be mapped out as a customer activity
+chain for starters.
+Consider the case of home ownership, which involves a number of activities,
+like searching for a home, negotiating a price to buy it, making an offer
+and getting the offer accepted, moving into it,
+furnishing and maintaining it, then protecting it, renovating
+and remodeling, and eventually selling the home.
+In business-to-business markets, the customer activity chain typically
+involves a similar sequence of activities
+that constitute a business process.
+So let's consider temporal expansion in more detail.
+In temporal expansion, we focus on the end-to-end customer activity chain,
+as in the case of buying a car, a home, or education.
+Customers typically need a host of complementary products and services
+to help perform activities that precede a company
+or follow the focal offering in the core customer activity chain.
+These new services require an expansion along the time dimension.
+So we call these opportunities temporal expansion opportunities.
+To identify these opportunities, innovators
+need to develop a deep understanding of the activity sequence
+that spans the entire lifecycle of the interaction between products
+and customers.
+Often, the activity chain can be extended or gaps in the activity chain
+can be filled with new products and services.
+Temporal expansion, therefore, focuses on the primary activity chain.
+However, innovative firms can also consider introducing new offerings
+into new adjacent opportunity spaces.
+These offerings typically involve new features
+that exploit existing products and services
+to create new platforms for customers.
+So while temporally-linked services deepen relationships with customers,
+spatially-linked services seek to broaden
+the portfolio of such relationships.
+Consider Google, which may move from the search activity chain focused
+on information provision, to an adjacent activity chain that involves mediation.
+So they may enter the ride-sharing market
+or Airbnb-like room-sharing market.
+To uncover opportunities for spatially-linked services,
+innovators need to develop a thorough understanding of customer needs
+and lifestyles in order to identify closely-related customer needs
+and related customer segments with our primary activity chain.
+Facebook, for example, may move beyond simple or friendly social networking
+to more deeper romantically-oriented social interactions,
+and that would be a spatial expansion.

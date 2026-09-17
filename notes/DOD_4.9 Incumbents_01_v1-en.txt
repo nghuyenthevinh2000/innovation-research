@@ -1,0 +1,85 @@
+Let's now consider business model decisions for established enterprises--
+incumbents who are already present in a marketplace for whom going to market
+is not such a major issue.
+They already have well-developed channels, distribution partnerships.
+What could be a problem for them?
+It turns out their own legacy, their install base,
+often tends to pose a problem.
+How could that be?
+Let's consider an example--
+the case of Kodak in the photography market.
+It wasn't that long ago that Kodak was an iconic company, a Dow 30 component,
+which means a member of the Dow Jones Industrial Average,
+and one of the major industrial successes.
+Kodak itself was a startup that pioneered film photography
+due to the genius of Eastman Kodak and its team.
+They built a highly successful, highly profitable enterprise
+that created enormous wealth and jobs, all based on film photography,
+where film sales greatly enriched the company and its community.
+At the turn of the century, this highly successful business
+was confronted by a new technology--
+digital photography-- that was starting to take root.
+But what's surprising is to know that much
+of the fundamental advances in digital photography actually happened at Kodak.
+A young engineer that Kodak had hired back in the 1970s, Steve Sasson,
+is credited with inventing digital photography
+by making the first digital camera.
+Story goes like this--
+it was actually an accident because Mr. Sasson
+was tasked with exploring new applications for another Kodak
+invention at that time, the charge coupled device, or CCD,
+which is actually a sensor that converts light patterns into electrical signals.
+While doing this, the electrical pulses quickly dissipated,
+so Steve resorted to digitization to store the image,
+and the first digital camera was thus invented, in fact,
+even before the first digital personal computers in the mid to late 1970s.
+Many of the first digital camera patents were actually issued to Kodak.
+But the digital camera breakthrough posed a dilemma
+for Kodak and its executives.
+If it were to actually take off, it could significantly crimp--
+cannibalize-- Kodak's highly profitable film business.
+Kodak's executives, like many others in such a situation,
+convinced themselves that digital photography would never
+take off due to some of its initial shortcomings,
+such as poor quality and a display device that
+was needed to view the image.
+Eventually, the issues with digital photography
+got worked out, quality improved, display systems emerged,
+and it took off big-time.
+Unfortunately, Kodak was not the beneficiary.
+Other companies, such as Canon and Sony, actually
+benefited from this new technology, while Kodak itself collapsed
+due to the drop in its film business.
+So launching breakthrough inventions that impact an existing business
+is a major challenge for incumbents.
+It's hard to let go of a highly profitable cash-cow business
+such as the film business.
+The organizational antibodies are ready to fight,
+ready to kill these new breakthrough technologies that are coming out.
+Kodak is not an isolated story.
+There are numerous such examples at other companies.
+Even Sony, that benefited in digital photography,
+was the victim in other markets.
+My own work with the company has shown that Sony had actually
+come up with prototypes of the iPod, even before Apple came out
+with its products.
+But the ecosystem within Sony ended up killing these iPod prototypes
+because it would cannibalize the very profitable Walkman business
+and also negatively impact Sony's content businesses.
+So the challenge for incumbents is to figure out
+the organizational structure, the environment,
+the climate that will advance such breakthroughs.
+For enlightened companies, it may be possible to concurrently advance
+both the existing and breakthrough technologies
+and create a nice, wide product line that can span their entire market.
+Wasn't it F. Scott Fitzgerald who said, "the test of a first-rate intelligence
+is the ability to hold two opposing ideas in mind at the same time
+and still retain the ability to function."
+However, for most complex organizations, this
+is still a challenge, dealing with breakthrough technologies that
+cannibalize the established business.
+Organizational alignment is hard to achieve.
+So for such companies, it may actually be better
+to spin off the breakthrough technology as a separate venture or business
+while these breakthroughs can be nurtured and developed independently,
+like a startup.

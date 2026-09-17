@@ -1,0 +1,311 @@
+
+KARIM LAKHANI: So let's dig in deeper into the Blockbuster business
+and understand how they were a success and then later figure out
+why they ended up failing.
+So whenever we think about a business, we always
+want to first think about its business model.
+And as we've been discussing in the course so far,
+a business model for a company is a function of two main things.
+There is value creation, all the reasons why customers come to you
+and want to transact with you.
+And there's value capture, all the ways in which you make money
+from all the value you're creating for the company.
+And so when we think about Blockbuster--
+Marco, what do you think?
+What was the value creation that Blockbuster offered?
+MARCO IANSITI: Let's remember the big yellow stores in all the neighborhoods.
+KARIM LAKHANI: Yes.
+MARCO IANSITI: You would--
+the value we created by offering all these great blockbuster
+hits at the store.
+KARIM LAKHANI: So Hollywood hits.
+MARCO IANSITI: Hollywood hits, all kinds of popular movies.
+KARIM LAKHANI: Yes.
+MARCO IANSITI: And you would show up at the store,
+have a great store experience, talk to the store manager and various employees
+in the store, maybe get some advice on the most recent movies.
+And you would find, right there ready for you,
+a really good availability of the top most interesting, most popular movies.
+KARIM LAKHANI: So, like, recommendations and curation--
+MARCO IANSITI: It's all part of it.
+It's all part of it.
+KARIM LAKHANI: --of the Hollywood hits that were coming on.
+MARCO IANSITI: Exactly.
+KARIM LAKHANI: Great.
+And then what was value capture?
+How did they make money?
+MARCO IANSITI: They made money--
+basically, just rental fees.
+KARIM LAKHANI: Yeah, yeah.
+MARCO IANSITI: You would rent--
+KARIM LAKHANI: Per video.
+MARCO IANSITI: --per video.
+[CHUCKLE]
+KARIM LAKHANI: Right?
+MARCO IANSITI: Yes, yes.
+It feels strange to even say.
+You would actually get the DVD.
+You would bring it home.
+You would watch it.
+KARIM LAKHANI: I remember the VHS cassettes.
+MARCO IANSITI: Yeah, even before that, my goodness.
+KARIM LAKHANI: Yes.
+MARCO IANSITI: Then late fees, of course.
+KARIM LAKHANI: Late fees, yes.
+MARCO IANSITI: I loved late fees.
+Got lots of money from late fees.
+KARIM LAKHANI: I think they were making $900 million a year on late fees.
+I mean, it's unbelievable.
+MARCO IANSITI: Yeah, the cost of lateness.
+Fantastic.
+Yes.
+KARIM LAKHANI: And then I also remember in the days of VHS,
+they would charge me extra for not rewinding the damn tape back
+to its beginning.
+MARCO IANSITI: Another historical relic--
+rewind fees.
+KARIM LAKHANI: Rewind fees, yes.
+MARCO IANSITI: Very cool.
+KARIM LAKHANI: And what else?
+How else did they make money?
+MARCO IANSITI: Oh, yeah, yeah!
+No, everything else that you needed, of course--
+KARIM LAKHANI: --to enjoy the movie experience.
+MARCO IANSITI: --to enjoy the movie.
+So the popcorn, the chocolates, all the stuff that was kind of bad for you.
+KARIM LAKHANI: Yeah.
+So all the snacks, right?
+MARCO IANSITI: Yeah.
+You'd show up at your great Blockbuster store.
+You get the movie that you wanted.
+And by the way, the movie had to be available.
+It was always like going home without having the movie stocked in the store--
+the latest Star Wars, or whatever-- was a real disappointment.
+And so stocking was a big deal.
+KARIM LAKHANI: So when you start talking about stocking,
+that's not about value creation and value capture.
+That's really how the company actually works.
+MARCO IANSITI: That's right.
+KARIM LAKHANI: So that's the operating model that the company has.
+MARCO IANSITI: That's right.
+KARIM LAKHANI: And so when we think about the operating
+model, what comes to you in terms of what Blockbuster had to do?
+MARCO IANSITI: Well, yeah, Blockbuster was
+built to deliver on all of these great value-creation points
+and value-capture points.
+So as part of this, the store, the store design,
+the store location was a big, big deal.
+KARIM LAKHANI: So store operations.
+MARCO IANSITI: Store operations.
+KARIM LAKHANI: Location.
+MARCO IANSITI: Location.
+KARIM LAKHANI: Design--
+MARCO IANSITI: --design, the HR policies, recruiting, and--
+KARIM LAKHANI: Oh, because you have people walking around.
+MARCO IANSITI: And not just people, you had to have the right people.
+KARIM LAKHANI: Yeah.
+MARCO IANSITI: You want to recruit a bunch of movie buffs
+to come in and help the customer choose what the customer may want,
+so all kinds of people running around.
+I think at peak, they had 84,000 employees.
+KARIM LAKHANI: Wow, wow.
+84,000 employees.
+And so you were saying, oh, what would happen if the Return of the Jedi
+was not in the store?
+So you need to actually have a--
+MARCO IANSITI: That was a big problem.
+So again, the supply chain was a big deal.
+So making sure--
+KARIM LAKHANI: So logistics and supply chain.
+MARCO IANSITI: Logistics and supply chain
+was a big deal for Blockbuster, making sure
+that the right movies were available in the right quantities
+in the right locations.
+Pretty complicated.
+KARIM LAKHANI: So demand management, demand forecasting.
+MARCO IANSITI: You didn't want to run out of movies.
+You didn't want to run out of popcorn.
+KARIM LAKHANI: Right, and then all the warehousing
+to put all the movies in and take them from place to place, and so on.
+MARCO IANSITI: Everything that you need end-to-end to deliver.
+KARIM LAKHANI: So the operating model really
+has to be aligned with the business model.
+The operating model enables value creation, but also value capture.
+MARCO IANSITI: Right.
+And Blockbuster was really incredibly successful in its time
+because of this tight alignment between operating and business model.
+KARIM LAKHANI: 9,000 stores at their peak.
+MARCO IANSITI: Right.
+KARIM LAKHANI: So very good setup in terms of the company
+and what it can do.
+So then let's talk about Netflix, which ended up destroying these guys.
+And let's do the same analysis.
+Let's try to figure out a business model and operating model for Netflix,
+as well.
+MARCO IANSITI: Sounds good.
+KARIM LAKHANI: So let's talk about the Netflix business model.
+And we're going to focus really on the business
+model that's sort of the 2.0 business model, the streaming business model--
+not the DVD mail business model, but the streaming business model.
+MARCO IANSITI: Yeah, because Netflix started as mailing out DVDs.
+So you would go on the internet to pick out
+the movie that you wanted and then it would be
+delivered to your house via the mail.
+KARIM LAKHANI: So then again, let's do the same analysis.
+We're going to do value creation, all the ways-- again,
+the key thing for us, whenever we're analyzing a business,
+is to be rigorous about separating out value creation and value capture.
+So what is value creation in the Netflix 2.0 business model?
+MARCO IANSITI: So consumers love Netflix because it streams to them
+a potentially huge variety of video.
+KARIM LAKHANI: So streams and is on demand.
+MARCO IANSITI: On demand.
+KARIM LAKHANI: So you don't have to go to a store.
+You can just be on your couch, or on your device anywhere in the world,
+and Netflix will give you the content you want.
+MARCO IANSITI: That's exactly right.
+KARIM LAKHANI: OK.
+What else?
+MARCO IANSITI: And it's a huge breadth of content, so less
+about the blockbusters in any particular week.
+It's much more about getting a huge variety of different kinds of things
+that you might be interested in, and then
+also tailoring the selection process on the application,
+on the app or the website, to your own individual interest.
+So using something that is known as "collaborative filtering"
+to potentially-- as you accumulate customer data in terms of what they
+like, you begin to make suggestions based on what similar people might
+have liked, as well.
+And you start steering people towards content.
+So that it's--
+KARIM LAKHANI: So here you would talk to the store manager or the employees
+to figure out what next movie to watch beyond the hits.
+Here the system is just telling you, based on your own history.
+MARCO IANSITI: Based on your own history and the history of similar people,
+what you might like, makes suggestions, displays the videos on the screen
+so that it's easy for you to pick them out,
+and essentially guiding you through the incredibly large inventory
+that they really have on their own back end.
+KARIM LAKHANI: So let's talk about value capture.
+What was value capture in the case for Netflix--
+or is in the case of Netflix?
+MARCO IANSITI: Value capture is real simple.
+It's just a monthly fee where you pay every month.
+And you get anything that's available, so "all you can eat," basically.
+KARIM LAKHANI: So a subscription and "all you can eat."
+MARCO IANSITI: "All you can eat."
+KARIM LAKHANI: So they're not charging me per gigabyte, or per reel of tape,
+or the number of movies I'm watching.
+MARCO IANSITI: No rewind fees.
+KARIM LAKHANI: No rewinding.
+It automatically rewinds.
+MARCO IANSITI: No late fees.
+KARIM LAKHANI: No late fees.
+No snack fees.
+MARCO IANSITI: No "It's 3:00 AM and so we don't feel like delivering it
+to you at this point in time" fees.
+KARIM LAKHANI: Yeah.
+I mean, it would be kind of cool if they could do 3D printing of pizza or food,
+like them.
+That would be fantastic.
+MARCO IANSITI: That would be fantastic if they could actually deliver that.
+KARIM LAKHANI: I should patent that.
+MARCO IANSITI: If you could stream pizza, that would be fantastic.
+KARIM LAKHANI: That'd be awesome.
+MARCO IANSITI: That would be great.
+We can't quite yet.
+KARIM LAKHANI: But in this world--
+MARCO IANSITI: Not yet.
+KARIM LAKHANI: --you're basically thinking
+about yourselves as very simple value capture, subscription base.
+Here you can see and imagine complexity here
+in terms of the right rental fees, the right late fees, the rewind fees,
+the snacks, and so forth.
+Here, simplicity in terms of value capture.
+So again, like we did with Blockbuster, what capabilities
+do you need in your company to be able to deliver on this?
+What's the operating model?
+MARCO IANSITI: The operating model is totally different from Blockbuster,
+totally different.
+So you have a small number of employees.
+I think at peak--
+I mean, so far we're talking about 4,000,
+5,000 employees, something like that, maybe even less.
+They have very different skill sets from the employees
+that you would have had in the Blockbuster stores.
+KARIM LAKHANI: For example?
+MARCO IANSITI: We're talking about data scientists that
+can help interpret data that Netflix accumulates, engineers that can code.
+KARIM LAKHANI: So software development?
+MARCO IANSITI: Software, exactly.
+Make-- code the apps, and marketing people,
+people that will do the deals for the content,
+which also are based on the data, informed
+by the data they capture from their customers.
+KARIM LAKHANI: Yeah, here you're just waiting
+on the ebb and flow of Hollywood hits.
+Here you actually are deliberate about the content you're actually getting.
+MARCO IANSITI: And it's a much broader range of things
+that you want to make deals for, and very asset-light, as a model.
+They don't have stores.
+KARIM LAKHANI: Yes.
+MARCO IANSITI: In fact, they don't even have data centers.
+They stream from, I think, Amazon.
+Amazon Web Services delivers the Netflix content.
+KARIM LAKHANI: So you just have to learn how to use the Amazon system.
+But you're not owning the data centers--
+MARCO IANSITI: Exactly.
+KARIM LAKHANI: --around the world.
+MARCO IANSITI: I think they're Amazon's biggest customer.
+KARIM LAKHANI: So interesting, so interesting.
+So you can see this is a totally--
+even though in the end, the experience is the same for the consumer.
+You're watching a movie at your home.
+The ways in which this gets delivered is so different from here versus there--
+MARCO IANSITI: Completely different.
+KARIM LAKHANI: --between Blockbuster and Netflix.
+MARCO IANSITI: Completely different.
+KARIM LAKHANI: Yeah.
+So what do you think?
+Easy or hard for an existing company like Blockbuster
+to now adapt to this new operating model that is being put together--
+MARCO IANSITI: Super--
+KARIM LAKHANI: --the new business model?
+MARCO IANSITI: --super hard.
+Because what happens is everything that's made you successful in the past
+now needs to change.
+So this great alignment that you had over the years
+to create this fantastic store experience all of a sudden
+is completely obsolete.
+KARIM LAKHANI: Yeah.
+MARCO IANSITI: And morphing from this kind
+of operating model to that kind of operating model is really hard.
+KARIM LAKHANI: Yeah.
+MARCO IANSITI: And you have different skill-sets, different people,
+different store strategy, completely different sets of capabilities
+to develop.
+And they didn't make it.
+KARIM LAKHANI: So even though Blockbuster had the opportunity
+to buy Netflix early on, you can imagine the people in the late fee department
+saying, wait a second!
+There's no late fees!
+How are you going to make money?
+The retailers are saying, wait!
+Our skill set in building retail stores now becomes obsolete in a world
+where we don't need retailers.
+And where are the software developers?
+Where are the software engineers that we need to be able to do that?
+So even if this becomes apparent, the challenge
+for most companies when they're faced with a shift
+is how I'm going to convert myself and this one fine-tuned model here to one
+over there.
+MARCO IANSITI: Operating models kind of have a life of their own.
+So they're very difficult to change.
+KARIM LAKHANI: Yes.
+MARCO IANSITI: They require all kinds of different assets and capabilities
+to deliver the kinds of value that you want in the business model.
+And when they get optimized and built out over time, they will resist change.
+And you see this in companies like Netflix.
+You see it in any company that has spent many years optimizing the connection
+between business and operating models.
+KARIM LAKHANI: So tough for us to do.

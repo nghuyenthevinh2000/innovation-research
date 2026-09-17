@@ -1,0 +1,107 @@
+
+SAM KOGAN: So let's look at another case study.
+We will apply our process that we have discussed,
+trying to find application, new applications for the patent that
+was developed by Air Force Research Laboratory.
+This patent was focusing on developing technology
+for real-time evaluation of damages in thermal conductivity between two
+interfaces.
+It's an important target, especially for the application that Air Force Research
+Laboratory was looking at.
+Its apparatus will go into space and work in other conditions
+where thermal damage is possible.
+So how does technology work?
+It takes two surfaces, sends the signal, vibrating signal through the surfaces,
+and then detect it on the way back and compare the signal that it
+gets in the way back with the base signal
+that they developed before the surfaces could be damaged.
+So a potential advantage of this technology it's fast,
+it's inexpensive, and could be used in real time.
+So remember our process.
+First, discovery, defining our technology
+in terms of parameters and function.
+What does our technology do?
+What function does it perform?
+Its main function, to inform the operator
+on a status of thermal conductivity between two surfaces.
+Why this information is important?
+Because then operator could make a decision of either
+to modify the surfaces, improve, replace, and so on.
+So what we will be looking at, we will be looking at potential areas
+where heat or other means could damage a connection between two surfaces
+and see if our technology could do better.
+We also will look at the areas where some auxiliary function of our technology,
+for example, vibrating could be used.
+So function is vibrate, inform, damage, overheat, and parameter
+is fast, inexpensive, real time.
+So once again, subject, action, object, heat, damages, surfaces.
+Heat overheats surfaces.
+This is what we're looking for.
+The Google search reveals around 25,000 potential hits.
+So as we discussed before, it's not practical.
+We will do the search in US patent base, because it's
+a well-structured database, easy to search,
+and secondly, it could give us a business intelligence.
+It will tell us in what areas people thought
+that heat could damage the interfaces and where
+it's important to know about that.
+It's not surprising that the search revealed
+almost 3,000 relevant patents that could be structured in 35 technology domains.
+And it's actually good news and bad news.
+There is good news, because there are potentially
+a lot of applications where our technology could be used.
+The bad news that we have to do the work and look
+at a number of potential relevant patents.
+Let's look at some of them.
+Let's say patent that measures damage in turbine blades
+that exposed to the heat.
+It's industrial application or application in semiconductors
+industry, where it's important to test the inkjet
+surface under thermal stress, or it's another application
+in medical technology where endoscopes are
+being put in autoclave to purify from all the possible bacteria and so on.
+And we want to know if they were damaged or not.
+Fuel cells, especially solid oxide fuel cells,
+are notorious for being damaged by the high temperature gases,
+and it's critical to know that the membranes of fuel cells
+are not damaged.
+That's another application or application
+for detecting of electrical corrosion between two surfaces.
+And once again, when the surfaces are corroded,
+the thermal conductivity is decreasing.
+So by using our structured approach and analyzing US patent base,
+we've identified a number of potential applications.
+Now let's look at potential new targets.
+So heat could damage not only thermal conductivity of the surfaces,
+but also contact areas or electrical resistance
+or structural integrity of the surfaces.
+So remember, heat hand moves, instead of air,
+we could look at different targets.
+Let's look at a potential new functionality of our technologies.
+Where else we could use it...
+Remember, auxiliary function to vibrate.
+Can we use our technology for spreading different substances,
+for increasing thermal grease connections and so on.
+Once again, we're looking through the US patent database
+to identify new applications.
+But not all applications are equal.
+Some of them are more difficult to adapt.
+Some of them bring more value than others.
+And eventually we need to look at the potential market size.
+So once again, we will look at three parameters,
+and compare the technology of potential application of our technology using
+ease of adoption, value proposition, and potential market size.
+So now let's look at what our search revealed versus original applications
+that developers in Air Force Research Laboratory were thinking of.
+They were thinking about a number of applications, like large structures,
+like aerospace industry, like manufacturing analysis, or electronics.
+Our search revealed few new areas of application,
+like medical technology, electrical machinery, energy,
+but as well, new applications in areas that they were looking at,
+like aerospace and electronics.
+So to summarize, we might say that using three guiding principle, innovation,
+main parameters of value, and functions, through the process
+of discovering new application that consists
+in four major steps: discovery, search, synthesis, and validation,
+we could identify new application of existing technologies,
+and then start working on bringing these new technologies to the market.

@@ -1,0 +1,154 @@
+
+SAM KOGAN: So let's look at the application of the process
+we discuss to the following case study.
+So a research organization has developed a new carbon
+membrane that had structured pores of a size between two and 50 nanometers,
+and it's important why I mention these pore size, you will see it later,
+and successfully used this membrane for purification of industrial gases,
+like oxygen, carbon dioxide, hydrogen, vapor water, and so on.
+How did it work?
+Very simple.
+So the gas will go through the membrane and impurities
+of a size bigger than 2 to 50 nanometers will
+stuck on the surface of a membrane.
+
+If you look at this membrane, it has a number of good features or parameters.
+But we will try to be more specific and define
+these technologies in terms of parameters and functions it performs.
+Remember, the process that we just discussed has four steps.
+And step number one is a discovery process
+where we will describe our technology in terms of parameters and functions.
+Why do we need this?
+Because in the later stage, when we start
+searching the universe of potential applications,
+we will focus this universe search through two lenses, lens
+of parameters that we are good at and lens of functions
+that our technology performs.
+So what this technology is good at and where
+it's better than other technologies of purification of gases,
+there are a number of them.
+But when we benchmark our technology against others,
+we've found the three main parameters where
+our technology is much better than any other gas purification technology.
+And these parameters are small footprint.
+Yeah, it's a small membrane that does a lot.
+Second, ability to function under high operating pressure, and the third
+is use of manufacturing and operation.
+So these three parameters we will be looking at
+will be identifying potential application of our technology.
+What function does our technology perform?
+By putting a simple functional model of the technology,
+we clearly see that technology perform two major function.
+It stops and directs impurities and purified gases.
+And also, it perform auxiliary function.
+It holds impurities.
+So these three functions, once again, we will use them
+as the lenses in our search.
+So discovery process is over.
+Let's go for the search.
+Now, we could use Google or any other search engine,
+typed our description, our technology, and see what we'll get.
+We'll probably get anywhere between 15,000 to 20,000 potential hits.
+But how do we know which of these are potential applications or publications
+or patents are good for us?
+So we need to have a structured process that
+allow us to get the smaller number of potential applications,
+but the ones where our functions and our parameters will be important.
+To do that, we will use the method using triad, subject, action, object.
+What did I do?
+My hand moves air.
+So hand is a subject.
+Moves is action.
+Air is the object.
+I could find new applications for the hand moving air.
+I could find a new target.
+When I say hand moves and hand moves chair,
+hand moves water or something else, or I could find new functionality.
+What else can my hand do?
+The same with our membrane.
+Remember, from our functional model, we know that membrane directs gas,
+or membrane stops impurities.
+So we will be looking for new application of a membrane that directs
+gas or membrane that stops impurities.
+We will be looking for new targets.
+Membrane stops or directs, or we will be looking for new application, what
+else our membrane can do.
+So this will be the focus of our research.
+Where will we look?
+We will look through the US patent base.
+First of all, why we're looking at US patent base?
+Because it's a well structured set of documents
+that's easy to search, but more importantly,
+it's because people patented certain technologies,
+because they felt that applications of these technology, application
+of these patents could create value in the marketplace.
+Our goal is to find the patents that perform similar function that ours,
+and then see if our technology could do better.
+So the goal of our search is not to find new patents
+and analyze them, but rather find applications
+where these patents were used, and then see if our technology could do better.
+So let's do the search.
+Now, instead of 15,000 potential hits from the Google search,
+we'll get 230 patents that separate them and 33 technology domains.
+Sounds like a lot, which is a good news because there
+are a lot of potential applications.
+But in the same time, it's a much narrower field that we need to analyze.
+So let's look at some of them.
+A patent that talks about using separation
+technology in pharmaceutical industry when they need to purify some peptides.
+We'll look at these patents, but we're not going to analyze the patents.
+Our goal is to see potential application.
+Another patent that talks about purification of exhaust gas
+from engines, pumps, and turbines.
+Once again, we're not going to analyze this patent,
+but we will see later on if our technology could perform a better job.
+So these two applications are direct new application of the membrane stops
+impurities and membranes direct gas.
+Let's look at application when a membrane could stop something.
+We will look for new target for our technology.
+As you might remember, our membrane has pore sizes
+between two to 50 nanometers.
+Therefore, we need to look at different substances that
+have sizes smaller or bigger than two to 50 nanometers.
+The substances that are smaller could go through.
+The substances that are bigger would get stuck on the surface.
+So we could direct or separate these substances out.
+There are new targets that could be used.
+There are sugars, lipids, or proteins.
+This is the area that developers of technology
+would never think about and never used it
+because their focus was of separation or purifying of industrial gases.
+Now, we could go in areas like blood analysis or preparation
+of sugars in food industries.
+So this is a new targets of our technology.
+And now let's see if we could find new functionality for our membrane.
+What else our membrane can do?
+Once again, as a developer of technology,
+we know everything about technology.
+And we know that certain substances will stuck on the surface of a membrane.
+Can we do something with these substances?
+Yes, we can.
+There are technologies where surfaces of different membranes
+are coated with catalyst that promotes some chemical reactions of substances
+are stuck on the surface.
+Can we do the same with our membrane?
+Once again, by using different taxonomy in search and using US patent base,
+we have identified areas where similar technology is being used.
+Now, our goal to see if we could bring our technology
+and do better and make money on that.
+In order to do that, we need to compare possible applications.
+We need to look at three main parameters.
+One, how easy or difficult is to adapt our technology for new application?
+What value does our technology bring?
+By bringing these new features, low footprint, easy to operation,
+and functionality under high pressure.
+And eventually how big is the market?
+So by doing analysis of all these three parameters for potential application,
+we could further narrow the search, and finally
+look at business case for our technologies for us
+as developer and technology, for end users.
+For this case, we need to look what is the size of potential business,
+and what kind of financial metrics we could
+use to analyze this business case, and secondly, how difficult for us,
+using our capabilities and capacity, to start producing
+this technology for new applications.

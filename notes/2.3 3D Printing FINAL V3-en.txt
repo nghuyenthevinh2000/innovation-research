@@ -1,0 +1,126 @@
+
+KARIM LAKHANI: Many of you may be familiar with 3D printing
+and actually take it for granted.
+But this was a revolutionary concept identified in 1989
+by Emanuel Sachs, a professor of mechanical engineering at MIT.
+Now, prior to 3D printing being invented,
+most manufacturing was known as subtractive, right?
+You took a block of metal, or you can imagine Michelangelo's David,
+take a slab of marble and then you subtract the material out of it
+to create your good, your sculpture, or whatever you're trying to do.
+You do subtraction from materials.
+3D printing was an additive approach.
+So, it is a revolutionary view.
+So, instead of taking things out, you add materials layer by layer by layer.
+And this was the great innovation done by Professor Sachs and his colleagues
+at MIT.
+Of course, they patented this technology in 1989.
+And then eventually, it led to 40 more patents,
+and then a brand new industry started.
+But if you read the patent abstract, 3D printing was described as a process
+that deposits of binder material onto a powder bed with inkjet printer
+heads layer by layer.
+That was a patent.
+And you can see from this description that how to use this technology
+and what different businesses you could generate from this technology
+was not necessarily clear.
+Professor Sachs invented 3D printing in 1989.
+And then creates a patent around this.
+And MIT's Technology Licensing Office then
+decides to invite entrepreneurs to come up
+with different business opportunities for this single MIT invention.
+Out of these eight individuals, eight entrepreneurs
+that thought through the different perspectives
+and heuristics on the market opportunities for 3D printing,
+MIT ultimately granted four non-exclusive licenses to entrepreneurs
+to create new companies.
+The fields in which they went into included architectural design,
+drug delivery, ceramic filters, and metal casting.
+And what we'll trying to do now is to take each of these four companies
+that got started at MIT from this initial seed technology
+and apply our perspective and heuristics framework to each example.
+Z Corp, or "Zed" Corp, if you prefer, started to come to the market
+with coming up with better ways to make models
+for architecture and industrial design.
+The entrepreneurs behind Z Corp were trained as mechanical engineers
+at MIT with previous experience in industrial design
+and in architecture markets.
+And they immediately saw how 3D printing could solve a big bottleneck that
+comes in architecture design and in design engineering
+and industrial design, which is the creation of prototypes.
+It used to be that you would design something on your CAD system
+and then send it off to somebody to make the actual model.
+This could take a lot of time and effort, and was expensive.
+So, the perspective that the entrepreneurs at Z Corp had was,
+let's actually make this happen at the desktop itself.
+So, the perspective was, let's take this seed technology
+and apply it to the architecture and design market.
+And the heuristic that they used was to actually create
+a 3D printer that would sit in somebody's office, like a shared
+printer that you use normally for printing.
+They said, let's make a shared 3D printer.
+Now, they could have, also-- their heuristic could have been,
+let's make a giant service bureau with lots of these printers sitting around,
+and you can email your files over, and then they could FedEx it back to you.
+That's not the heuristic they used.
+They used the heuristic of, basically, a desktop printer.
+So, this example shows us how both a perspective and heuristic
+around the same 3D technology created a prototyping business for Z Corp.
+Therics, a drug delivery company, took the same seed technology
+and had a very different perspective and heuristic on this.
+Here, the idea was that traditionally when pharmaceutical companies make
+pills for us to ingest, they use binders and powders and drugs,
+and they compress them into tablet form or coat them or put them
+into capsule, which makes pretty challenging how
+to control the amount and time and sequence of a drug delivery.
+Oftentimes, you want to be very careful about the dosage you provide
+and the delivery of that dosage once that drug is in the body.
+What these entrepreneurs, who had experience
+in pharmaceutical manufacturing for pills, said was,
+if you could in fact make pills by just coating them layer by layer,
+and creating the right materials in a way that
+would release on time or temperature, then all of a sudden,
+you have a very process to deliver drugs.
+So, the perspective on 3D printing was one around drug delivery.
+And the heuristic was to create a completely alternative manufacturing
+processes, by which you can manufacture 3D printed pills at scale
+for the pharmaceutical industry.
+This example, again, shows us how a very different perspective and heuristic
+pair on the same technology can yield us very different outcomes.
+Specific Surface Corporation provides us with yet another example
+of how perspectives and heuristics can be applied to the same seed technology
+to come up with wholly different business options for us.
+The founders of Specific Service Corporation
+had work experience in coal-burning power plants.
+And they saw 3D printing as a way to manufacture
+more durable and more efficient ceramic filters
+to be used in a coal burning plant.
+So, the company approached this perspective as saying,
+instead of us now trying to go to a tooling set or a die or a mold,
+I can directly create ceramic filters layer by layer
+directly from the computer drawing.
+And I can do this at scale.
+And so, here, again, we have an example of a different perspective
+and heuristic pair on the same technology being
+used for the marketplace.
+Our final example is a company called Soligen. Soligen
+was focused on making cast metal parts.
+And the problem with making cast metal parts
+is that the forms and tools you need to make the cast metal parts
+are very expensive and time consuming.
+So they thought, let's actually make our forms for the cast metal parts
+through 3D printing, and let's make them through ceramic technology.
+So let's make those most directly by creating a ceramic from 3D printing.
+So, the perspective was now not of making a part
+but making a mold for the cast metal parts themselves.
+That was their perspective.
+And the heuristic they used was to say, let's,
+instead of using the traditional ways to make our cast molds,
+let's use 3D printing to solve this problem for us.
+All these examples together show us how the seed we have
+of 3D printing, our base technology, can have many different perspectives
+and heuristics applied to it and then use
+that to generate a whole new set of entrepreneurial opportunities.
+And the challenge for us, when we're going to take something from the lab
+and bring it to the market, is for us to generate multiple perspectives
+and heuristics on the particular seed that we have access to.

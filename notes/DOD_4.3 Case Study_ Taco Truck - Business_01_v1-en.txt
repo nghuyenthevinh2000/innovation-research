@@ -1,0 +1,108 @@
+KARIM LAKHANI: Now, let's apply the business architecture framework
+of value creation, value capture for a business model,
+and the operating model of the structure, capabilities, and assets
+you have to a fun example.
+One of the privileges of being a professor
+is that I get to travel around the world to meet with various companies,
+to give talks at various universities, and to write cases
+on exotic companies around the world.
+And I get to travel some of the best places in the world.
+I've been to Istanbul.
+I've been to Kuala Lumpur and so on.
+And one of my fun activities to get to know a particular culture
+is to participate in eating street food.
+I love street food of all types.
+So I've had fish on the banks of the river in Istanbul.
+I've had great food in Singapore, great food in Kuala Lumpur, great food in LA,
+Santiago, Johannesburg.
+It's incredible.
+So I've been very privileged to be able to experience culture this way.
+And one of my favorite street foods is Mexican tacos.
+I just love tacos.
+Nice, spicy tacos just make my day.
+And I've met amazing people through engaging in and eating street foods
+in the various cities that I go to.
+So what I'd like us to do is to take this example of street foods
+and imagine creating a business architecture around street
+foods, and in particular, on tacos.
+So let's imagine, one day, you woke up, and you have now
+inherited a taco truck.
+[BEEPING]
+And your family's saying, hey, let's go create a business architecture
+around a taco truck.
+So what I'd like you to do first is to think about value creation.
+What are all the ways in which you will create
+value that will drive customers to come and transact with you for a taco truck?
+As you've noticed, I am a big believer in crowds.
+I study crowds.
+I get crowds engaged in a lot of interesting problem solving.
+So for this particular challenge, I went to my lab and the crowd in my lab.
+And I said, hey, labmates, help me out in coming up with various value
+creation options for a taco truck.
+Here's what my labmates came up with.
+It's a lot of fun.
+So the first one they said is, well, you could have a Mexican taco,
+but you could also do differentiation based on fusion tacos.
+You could have Tex-Mex tacos.
+You could have Greek-Mex tacos.
+You could have Korean-Mex tacos--
+all these different ways in which you could create differentiation for tacos.
+You could also differentiate based on the variety of drinks you have
+and the variety of sides you have.
+So that was one aspect of differentiation.
+Other people said, why don't you start a white-glove service for tacos?
+So when you come into the taco truck, it's not just a taco truck.
+It could be taco bus.
+And there's is a maitre d' there.
+That's fine tequila there for you, fine wine for you, fine drinks for you.
+Right?
+And there would be table side service for tacos.
+Some people may go for that.
+Additionally, you could imagine that you're not only
+just going to provide tacos, but you're going
+to provide the entire cultural experience of being in Mexico--
+so mariachi band, the crazy wrestlers, you name it.
+You would get to experience that as part of the taco truck
+that you come up with.
+You could even go further.
+You could say, well, not only are people coming to me for the tacos,
+but they may have some interest in Mexico.
+So why don't I offer trip advice and tips to do things in Mexico?
+Or you could even build a direct network effect business
+from this, where you attract people that love tacos and want
+to meet other people that love tacos.
+And then you can then create a whole lot of value
+for all the taco lovers in a particular city.
+So as you can see, just a little bit of creativity around value creation
+opens up a range of optionality for you for a simple taco truck.
+Now, let's apply this same perspective on value capture.
+So the first thing you can do for tacos--
+you can make sure that you price it in a way so that you make up for your cost.
+So you can charge a price greater than the cost you have, and you
+can charge per taco to your customers.
+You could also imagine a subscription service
+for tacos, where you charge dollars per month.
+And then, you can have an all-you-can-eat option.
+Or you could limit the number of tacos per month
+that a customer could get access to by having a subscription service.
+You could do a freemium model, kind of like what Spotify does.
+You can listen to music for free, or you can pay extra money
+and get more personalized recommendations from Spotify.
+In this case, you can imagine, you say, my freemium model
+is I'm going to offer tortilla and beans for free,
+but the sauce, the extra ingredients, like meat and fish and vegetables,
+will be extra charges.
+Me, I would definitely pay extra for the jalapenos, because I love spicy tacos.
+Finally, you can imagine a very different
+though capture strategy, which is you could convince the Mexican tourism
+authorities or the various city or regional based tourism authorities
+to sponsor free tacos in return for advertising, right?
+You could say to them that I will attract potential tourists who
+want to go to your particular town, your particular region,
+your particular activity, your particular resort in return
+for giving them free tacos.
+You will make money on the advertising.
+Customers will show up for free tacos.
+And then these customers will eventually end up going to Mexico for tourism.
+Again, lots of creativity in thinking through value
+capture strategies for a taco truck.

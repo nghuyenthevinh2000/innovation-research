@@ -1,0 +1,92 @@
+
+KARIM LAKHANI: Over the last several decades,
+one best practice in new product development and new business
+development has been for entrepreneurs to generate MVPs.
+MVP is not, like in sports, most valuable player.
+But in fact, it stands for minimal viable product.
+And the term was coined by Eric Ries behind the lean startup movement.
+The MVP is a minimum engineered product that
+allows you to test whether your solution will appeal
+to customers in a reliable fashion.
+Many times, customers aren't able to articulate what they need well enough.
+And showing them a PowerPoint of what your product is is simply not enough.
+You have to have them experience the product,
+experience the service that you are going to bring to the marketplace,
+and then help you give feedback.
+So the MVP consists of two different dimensions.
+One is the internal team, your team, will figure out
+a priority list of the functions and features
+that you think your product or service needs to have.
+That, then, needs to be offered to the customer
+so they can experience it and give you feedback about that list of priorities
+and the features you have.
+They may hate the features.
+They may ask you to develop different features.
+Or they may give you updates on what the features really should be.
+The essential part is to have an MVP that you can take and show
+to a customer and have them experience the business concept, the use
+case that you're trying to develop.
+Now, of course, MVPs for deep technology products
+are very different from software.
+But regardless, the challenge that you have in front of you
+is to develop an MVP.
+Depending on the technology you have and the use cases you're pursuing
+and the business architecture you're trying to develop,
+there might be three different MVPs that you could conceivably launch and work
+with with your customers.
+The first would be a conceptual MVP--
+a bare minimum set of concepts that you will show your customers,
+and an illustration of how the world for the customer
+will change if they were to adopt and buy your particular product or service.
+The conceptual MVP, though, has to be more than just PowerPoint.
+It has to put the customers through the process of experiencing
+what their world would be like if they started to use your product or service.
+Another type of MVP is a simulated MVP.
+When it comes to some products and services,
+it may be too expensive to generate the technologies that
+underlie the product or service that you want to bring to the market.
+It might be too expensive.
+It might take a long time.
+Yet, you can still conceive of the outcomes
+that a customer will experience when they use your product or service.
+So the challenge with a simulated MVP is to somehow simulate the outcomes
+without generating the technologies themselves.
+This requires some creative thinking.
+But the opportunity for you is to show to customers
+the outcomes of your technologies and get feedback on the functionality
+and features of those outcomes without spending
+all the time and effort and resources actually developing those technologies.
+A good example of this is the Mechanical Turk.
+Mechanical Turk was invented in the 1800s as a way
+to play games with a seemingly robot.
+The robot at that time was not actually real.
+It was a person inside the Mechanical Turk that was playing those games.
+But it created the simulation of an actual mechanical robot
+solving tough puzzles.
+So simulated MVP can be very useful in deep technology conditions,
+when you actually don't have the resources to go out there and build
+the technology in the first place.
+The final type of an MVP is an actual prototype, where you actually
+have built up a minimum engineered physical product or a software product,
+and you're getting feedback from the customers
+directly, by them touching or experiencing the product itself.
+These three MVPs-- a conceptual MVP, a simulated MVP,
+and actual prototype-driven MVP--
+are critical to allow you to reduce the time you spend in development,
+reduce the uncertainty about the features
+that you need to create inside of your products or services,
+and get valuable customer feedback to see if, in fact, that
+your customers are going to value the things that you are prioritizing.
+The maturity of the MVP will also link to your fundraising activities.
+The more well-developed your MVP, the more feedback you
+can show from customers about your MVP, the higher the likelihood
+you're going to get to raise funding.
+The key here, of course, is going to be iteration.
+You develop your first MVP.
+You get feedback.
+That feedback helps you generate the next MVP, an even more detailed MVP.
+And as you generate those MVPs, you will get a chance, then,
+to also update your business architecture, use case,
+and other elements.
+Again, the notion here is feedback from actual customers
+who will be using your product or service.

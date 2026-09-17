@@ -1,0 +1,60 @@
+
+SAM KOGAN: As we discussed before, any successful commercialization
+of technologies should be guided by three major principles.
+First, it's all about innovation but not invention.
+Invention is about creating technical novelties.
+Innovation is about creating value.
+Second, it's about main parameters of value,
+which are the attributes of a product and technologies
+that drive purchasing decisions.
+And last but not least, it's about function--
+function is the goal, technology is a mean.
+These three guiding principles of commercialization
+could be used for different applications.
+Today, we will talk about one of the most difficult and important one
+is finding new applications for existing technologies.
+The benefit of finding a new application is obvious--
+it's growth.
+A new application for existing technology could fuel this growth
+and help companies to prosper, but why is it difficult?
+There are a number of reasons for that.
+First, resources-- nobody has unlimited resources.
+Neither people, nor money, nor time.
+So we cannot boil the ocean.
+We need to find a way to be successful using the limited resources
+that we have.
+Second, finding new application is not about finding technical solutions.
+It's about finding applications where our technology could
+address new parameters of value of these markets.
+And last but not least, it's all about creating value
+for the end users or the customers.
+So as I said, it's not an easy process, but we should not give up.
+There is a structured process that we will discuss that help all of us
+to go through this difficult process of finding new application for existing
+technologies.
+This process consists of four major steps.
+In each of these steps, we will be answering on one major question.
+So let's look at them one by one.
+First step is discovery.
+In this stage, we will answer on one major question.
+What are we looking for?
+We will define our technologies and prepare it
+for the search for a new application, but we will define
+it using functions and parameters.
+The second stage is called search.
+This is kind of a normal search for new application,
+but we will use functions and main parameters of value
+as a new taxonomy of this search that would allow us to focus our search.
+Third stage called synthesis and selection.
+In this stage, we will look at all possible applications
+that we have found and decide which ones are the most
+promising, which ones could create the highest value for end users
+or customers.
+And finally is validation.
+In this stage, we will need to answer a very important question--
+what needs to be done to successfully apply our technology
+for this new application.
+So three guiding principle-- innovation, main parameters of value,
+and functional approach--
+used to address one of the most challenging issues of any research
+organization-- finding new application for existing technology.

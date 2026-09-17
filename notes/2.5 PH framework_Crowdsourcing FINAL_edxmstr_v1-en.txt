@@ -1,0 +1,78 @@
+
+KARIM LAKHANI: The prior example of how perspectives and heuristics,
+alternative perspectives and heuristics, can create breakthrough solutions
+in the field of finance or in the field of protein folding
+will probably raise a couple of questions in your mind.
+Probably you're skeptical, saying, well, first of all,
+it was pure serendipity that Black and Scholes ran
+into some mechanical engineering professors
+and they were able to trivially solve their complicated equations
+or that a postdoc just happened to, by accident,
+take a class in material science and then solve
+the R&D problem in protein folding.
+And so serendipity might be the answer.
+And it's hard for us to engineer serendipity.
+Or it could just simply be the feature of the university environment,
+where we're very lucky to have by definition multiple perspectives
+and heuristics across the faculty.
+For those of us that are entrepreneurs, that
+are innovators, that are commercializers of technology,
+we may not have ready access to diverse perspectives and heretics.
+So how do we solve this problem?
+Over the last 15 years, my core research area
+has been how crowdsourcing, how going to the crowd for solutions,
+can, in fact, open up diverse perspectives and heuristics
+through potential participants from different knowledge domains.
+Crowds can do this systematically.
+And today, crowds are available on demand.
+A great example of this is a company that
+was stuck with a chemical engineering problem that needed help.
+In particular, Colgate-Palmolive, the makers of the Colgate toothpaste brand,
+had a new formulation of fluoride for their toothpaste.
+And what they were concerned about was that this new formulation of fluoride
+was being dispersed into the atmosphere.
+And they didn't want to have that happen because
+of both the wastage and efficiency issues,
+but also the environmental issues that go along with it.
+So this new formulation was stuck in the lab
+because the R&D team could not figure out a way to prevent this dispersion.
+So finally, in desperation, they posted this problem
+to a platform called InnoCentive, to have this problem be solved.
+InnoCentive is an online marketplace established by Eli Lilly
+to help their engineers actually and their scientists actually
+source diverse perspectives and heuristics from around the world.
+InnoCentive put this out as a challenge, with a prize amount.
+And basically, Ed Melcarek, who was a electrical engineer in Canada,
+came up with the winning solution.
+Now, when Ed saw the problem, he immediately
+went to a perspective and heuristic pair that was not in chemistry.
+He was a electrical engineer.
+So he used a physics-based, electrical engineering-based solution
+to this problem.
+And the solution was pretty darn cool.
+What he did was he said, all you need to do
+is add a positive charge on the fluoride powder,
+a negative charge or ground the tube, and all of a sudden
+there won't be any dispersion whatsoever of the fluoride
+when you try to mix the toothpaste with the fluoride.
+For this effort, he got a $25,000 prize.
+And he only spent a few hours outlining the solution to this problem.
+But what it shows you is, again, the power now
+of the perspective/heuristic pair in going to somebody completely
+outside of the field of the problem to generate a winning solution that
+can solve this problem, that Colgate was stuck on for some time.
+There's some other really cool examples of this.
+I've got several papers written about this if you're interested.
+We'll put that up on our readings list.
+But another cool example was the development of an edible polymer
+delivery system for drugs.
+And different winning solutions for this particular problem
+came from an aerospace physicist, a small agribusiness owner,
+a transdermal drug delivery specialist, an industrial scientist.
+All four of these individuals took different perspectives and heuristics
+on the problem.
+And they all came up with successful solutions.
+So the key for us is to think about how we can rely on the crowd
+to help us systematically generate new, alternative, and multiple
+perspective/heuristic pairs for our problem solving efforts
+and for commercialization efforts.

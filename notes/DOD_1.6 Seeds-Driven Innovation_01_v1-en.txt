@@ -1,0 +1,36 @@
+
+VISH KRISHNAN: Seed-driven or supply-driven
+innovation is the name we'll use to refer to approaches where
+the drive for innovation, the push for innovation starts from the supply side.
+In this case, you look at the new technological approaches
+and capabilities that are emerging from our labs
+like transistors, new algorithms, gene sequencing methods.
+Gene editing models that we as a society are developing,
+and ask what major problems could we solve now with these capabilities?
+And we could do them much more efficiently and effectively
+than the incumbent solutions that we have today.
+In some cases, it does involve what is called applications innovation.
+That is finding suitable applications that could actually benefit
+from this new supply capability.
+In other cases, it may even require some adaptation,
+some recombination of these new found supply capabilities
+evolving them to solve the problems at hand.
+Most highly successful companies in this area like an Intel
+or a Qualcomm that have unleashed the micro electronics
+revolution, the transistor technology have taken this approach
+where they have used the supply capability to find new applications
+and solve them effectively.
+Seeds-driven innovations, these supply-driven approaches
+may look like a hammer in search of a nail.
+That's one of their problems.
+But in some cases, the bottleneck or constraining factor
+is not really the needs identification that may actually be a number of well
+understood needs that are captured.
+But it's really solving them, and achieving
+order of magnitude improvements that is essential
+for adoption of these new innovations can actually
+be done if we have compelling seeds, supply-driven capabilities.
+It is true that we must tightly blend the seed-driven capabilities,
+supply-driven capabilities with the market, and customer discovery,
+and needs identification process needs in order to realize
+a powerful innovation outcome.

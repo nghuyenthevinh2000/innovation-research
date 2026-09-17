@@ -1,0 +1,175 @@
+
+IRWIN JACOBS: So we came up with another innovative idea.
+We approached the operator, said, here's our problem.
+They said well, we can help a little bit but only so much.
+But they could recommend to the manufacturers
+that the manufacturers work with us to see if we can
+make CDMA a real commercial product.
+And so we were able to then come up with the idea,
+well, perhaps we'll license a manufacturer
+to have all the rights to our patents in the future for an upfront fee
+and a royalty per device if in, fact, this ever does become commercial.
+And so we negotiated originally with AT&T. This
+was before they had spun out Lucent.
+And so all the Bell Labs, and the operations
+of the telephone business and the manufacturing
+were all in one company at the point.
+So we negotiated a contract back and forth with them.
+And then moved on to other companies.
+We had Motorola, Nokia.
+And so that gave us funding from the upfront fees
+to continue to develop the chips.
+
+In two years, we developed all the chips we needed.
+We invited everybody back again to see that, in fact, we now
+had a commercial-sized phone and commercial-sized infrastructure.
+We could go out and have large numbers of these devices
+on a whole bunch of vans driving around, and measure
+the capacity in the real world.
+And indeed, we were getting a significant improvement.
+The operators, some were still skeptical.
+Some were convinced.
+They said we have to have a trial between the TDMA, which
+was presumably commercial at that point, and the CDMA technology.
+And so they set up--
+they asked us all to run trials bringing audio and video recordings of what
+had happened.
+And they'd have a meeting in Dallas, actually,
+in December of '91 to talk about--
+to see which seemed better commercially.
+Well, the TDMA people brought in their recordings.
+They were up first.
+It sounded terrible.
+We had been very careful not to cheat at all,
+but to make very good audio recordings, to go through and get hand-offs
+occurring, to be able to see the multi-path, the quality of the signals,
+and to have audio recordings of both ends.
+And what CDMA, it sounded wonderful.
+So that won some more converts.
+As a result, the industry in January said--
+January of '92-- said well, OK, we will now set up a competition
+because somebody else might have some good what they called
+wideband ideas versus TDMA ideas.
+And so we should have a competition, which went on for another six months.
+And after that, everybody was convinced that the Qualcomm approach was the best
+way.
+And then we entered a standards process.
+Well, standards usually take a long time.
+The reason for going into a standards process
+is if you want something to be built by many manufacturers around the world,
+there has to be a standard so that everybody is building the same product
+and that they can interact with one another.
+You build a phone, I build a phone, they can both work on the cell site.
+And so we went, for a year and a half, through a standards process.
+And we were lucky in the sense we were prepared.
+We had written a draft standard so people could start with that.
+But even more importantly, many companies
+had reasons why CDMA was not going to work.
+And we had invited them over the previous year to come to San Diego.
+We would set up an experiment to check whether their problem with CDMA
+was a problem or not.
+And so we had a lot of data on how CDMA did work.
+And with that, we were able to complete the standards
+process in a year and a half.
+So in July of 1993, we completed the standard.
+Then the problem was launching a commercial service.
+And it turned out that the first commercial service
+was launched in about October, November of 1995 in Hong Kong.
+Why Hong Kong?
+Well, Hong Kong had many business people who couldn't afford an office.
+They were working on the street.
+They were working by using cell phones.
+And so it was very congested.
+It's also a small area.
+And so with CDMA giving a much larger capacity, it was the right thing to do.
+However, we had not been able to convince any other handset manufacturer
+to manufacturer a CDMA handset.
+They thought the chance of it ever being successful wasn't large enough.
+We had had to build the prototype handset to show it did work.
+And so we went in the manufacturing business.
+And so all the handsets that were being used in Hong Kong
+were shipped there from San Diego.
+The next market to come up was South Korea, which
+was an interesting story on its own.
+How do you convince a country to go with CDMA
+or a new technology that's unproven?
+So starting in 1991, I'd been visiting South Korea.
+And the argument to encourage them to consider CDMA was the following--
+that over the years, they had been trying
+to break into consumer electronics.
+Japan was a leader.
+Japan was always a year or two ahead.
+And therefore, South Korean companies could only compete on price.
+And that's not the best way to be able to compete.
+And so our argument was, well, Japan has gone with TDMA
+because they thought that was the way the US was going.
+If you go with CDMA and if it works, you'll
+be able to get a head start on Japan.
+And so they decided yes, they would follow along on that approach.
+And, for example, at that time, Samsung and LG had almost no cellular business,
+was really just about zero.
+And of course now they're very large because of CDMA.
+So just after starting in Hong Kong, the following year, beginning early 1996,
+we were able to get phones and equipment started operating in South Korea
+with two operators.
+Where were the phones manufactured?
+Well again, they were manufactured in San Diego and shipped to South Korea.
+And so that was the way we began to build up the business.
+At that point, the US operators were ready to begin
+to bring up their second generation.
+And some of them went with TDMA and some went with CDMA.
+So there was that battle here.
+But we began to get and build phones for the US market.
+And finally, we began to look more broadly abroad.
+And Europe unfortunately was not open to us.
+The Europeans had set up a memorandum of understanding
+among all the governments in Europe that they
+would use only a single technology, which
+they called GSM, which eventually became Global System for Mobile, or some such.
+And that was a TDMA system.
+And they specified the technology so that every country
+would use the same technology.
+And therefore, you could roam from country to country with the same phone.
+With the first generation, they weren't able to do that because everybody
+had a different technology.
+Because of that MOU, the memorandum of understanding,
+we couldn't bring CDMA into Europe.
+And then the rest of Asia--
+China, India, many other countries--
+we were fighting with the EU.
+And they were often there ahead of us.
+They often had government support.
+We often didn't have government support.
+And so it was always a bit of an uphill battle.
+It took nine years, actually, to get the Chinese government convinced
+that we should be able to bring CDMA into China.
+And that finally did work.
+India was somewhat interesting as well.
+India, when we started working there, the Ministry of Communications
+had given a few licenses and they were all for GSM.
+And when we came in and said, you know, CDMA perhaps offers something better,
+they weren't even listening.
+At that time, India had about the highest cost for cell phones
+and the highest costs for airtime of any country anywhere.
+And so when we found we couldn't convince the Ministry to allow
+us to go with cellular, we noticed that there were two companies providing
+wire line communications in India.
+And they were five or six years behind filling orders for office and home use.
+So we suggested to the government, perhaps
+you let us provide wireless local loop, wireless phones that you
+can put in an office or a home.
+And we would be able to supply those very rapidly,
+get rid of this five and six-year backlog.
+So they allowed us to do that.
+Shortly after we began, some of the people with these wireless local loops
+and their phones in their offices and homes
+found they could lift them, take them out, put them in their car,
+and drive them around.
+They had a mobile phone.
+So the mobile operators sued us saying we weren't allowed to do mobile.
+And that went up the Supreme Court in India a couple of times.
+And finally, the Ministry gave up and allowed
+us to go with CDMA to compete with the GSM.
+And India went from the highest-priced phones and airtime
+down to the lowest-priced phones and airtime.
+You can just see the advantages of competition.

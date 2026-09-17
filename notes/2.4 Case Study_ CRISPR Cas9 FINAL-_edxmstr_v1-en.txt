@@ -1,0 +1,73 @@
+
+KARIM LAKHANI: The perspective heuristic problem-solving framework can also
+be applied to a range of additional seed technologies.
+One of the most exciting technologies where
+this is becoming clearly applicable, is in the case
+of CRISPR-Cas9, a breakthrough discovery at the beginning
+of the century around gene editing.
+CRISPR-Cas9 turns the paradigm of genetics on its head.
+Previously, we have thought of ourselves as having genetics that are fixed.
+We are born with a certain genetic sequence.
+And that's what we're left with.
+CRISPR-Cas9 asks the possibility that we can go in and actually edit our DNA,
+edit our genes, and use that approach to create resistance to diseases,
+solve many ailments that living organisms face.
+The technology, the discovery, was made in 2012 and 2013
+through two different teams working separately, one at UC Berkeley
+and University of Vienna, including Professor Jennifer Doudna and Professor
+Emmanuelle Charpentier.
+And researchers at the Broad Institute at MIT and Harvard, Feng Zhang
+and his team.
+And they both showed how CRISPR-Cas9 could be used as a gene-editing tool.
+The application of CRISPR-Cas9 to sickle cell disease
+is an example of how perspectives and heuristics can
+be applied to an important problem.
+So the current approach to solving and curing sickle cell anemia
+is through a bone marrow transplant.
+But this solution is associated with serious risk, including death.
+And also it's contingent on the availability of a donor.
+Here, the perspective is that we need to replace somebody's bone
+marrow with fresh bone marrow, which does not then
+produce for us the sickle cell anemia in our bodies.
+So it's a radical approach to fixing this problem that people may face.
+CRISPR comes along and provides a different perspective and heuristic.
+What it says is, let's go after the source of the sickle cells, which
+is really a mutation in the gene that makes the blood cells.
+Let's go and edit that particular gene itself,
+and then use that to actually stop the disease.
+So for the same problem, what you see are
+two different perspective and heuristic pairs,
+applied through CRISPR and through bone marrow transplantation
+to solve this problem.
+But now we can take an even broader perspective.
+CRISPR itself is a tool that is amenable to different perspectives
+and heuristics.
+For example, we can apply CRISPR-Cas9 to not just sickle cell,
+but to cancer, HIV, and malaria, and a range of human diseases
+that allow us to edit our genes.
+But we could also apply it to agriculture, for food production,
+and to energy, and creating new biofuels.
+And in fact, there's an exciting venture that's
+been created by Craig Venter and ExxonMobil
+to actually create algaes, and improve the energy production of algaes,
+through CRISPR gene editing.
+And their current reports say that they have more than
+doubled the amount of oil produced by algae by using CRISPR-Cas9.
+So again, you have a seed technology available to then populate
+different application spaces in the economy.
+CRISPR-Cas9 provides us an example of how a perspective and heuristic
+pair of gene editing can apply to diseases,
+but then also be used to generate new innovations in agriculture and energy.
+In all these examples that we have discussed so far,
+the key thing for entrepreneurs to do is to take the seed technology,
+generate perspectives and heuristics on that--
+and not just one perspective or heuristic,
+but multiple perspectives and heuristics-- and then
+figure out what may work the best for a particular opportunity
+space or particular technology space.
+No longer should you just think about yourselves in one particular vertical,
+or one particular industry.
+But focus on saying, for a particular seed,
+what are the all the different perspectives and heuristics that I
+could be applying across industries, across applications.
+And then use that for you to generate your business ideas.

@@ -1,0 +1,81 @@
+
+VISH KRISHNAN: Let's consider needs-driven innovation.
+This is a term that we use to call the approach that starts with the customer
+needs, the market needs, by immersing ourselves in the field, in the market,
+observing customers at work, talking to prospective customers
+to identify what are their pains, what are their problems, what
+are their wants, what are their needs.
+So an innovator begins such observations and then starts
+systematically collecting data on these customer
+needs, wants, and requirements, and ultimately captures it
+into what might be called a Needs statement,
+or in some companies and industries, they call it the Market Requirements
+Document, abbreviated as MRD.
+And to come up with this MRD, you may have interviewed tens of customers,
+if possible, maybe more, hundreds, to get
+a good understanding, solid understanding,
+of what the marketplace needs.
+This could result in identification of dozens of needs, requirements,
+or problems which we are now trying to faithfully capture
+in a single MRD, which is usually a crisp description of the market
+requirements.
+It summarizes the problems of the target or market segment and the outcomes
+we expect for the segment.
+The needs-driven approach has been found to be useful in many cases for sure.
+But it also has to be artfully employed, and it
+may be found lacking in some cases.
+One of the major problems with this needs-driven approach
+is what I would call the faster horse problem.
+What is that?
+I'm borrowing this term from Henry Ford who
+is said to have remarked, "if I had listened to my customers,
+I would have given them a faster horse."
+
+What did he mean?
+Yeah, sure, before Ford, customers were used to horse-drawn carriages.
+And if you asked them what they needed, they would have said,
+"I wanted a faster horse," because that's
+what would take them to where they are going faster.
+It was hard for them at that time to imagine a radically different future
+where they could be propelled by machines, by engines,
+like internal combustion engines.
+So they were expressing their needs in familiar tones.
+Such an approach where customers and users
+express their needs in familiar terms and are
+unable to imagine a radically different future,
+this is sometimes called the functional fixedness,
+as psychologists refer to them.
+Customers are fixed in their functionality
+and are unable to come up with new functionality.
+So this is one of the problems associated
+with the needs-driven approach.
+Another problem is that, in some cases, customers
+may not even know what they need.
+They are so happy with their current solution that they may say,
+I don't need anything.
+This is the problem Motorola encountered 40 years ago when they first
+came up with cell phones.
+When they tried to do some market testing, people are asking,
+do I really need another portable phone?
+I'm happy with my current phones.
+So customers may just dismiss away new needs that are potentially addressable.
+Sometimes they may come up with tailored needs that may not be addressable,
+that may not be implementable, may not be
+solvable with the current state of affairs.
+Consider the need that we all feel right now with increasing lifespan.
+Our societies are aging, and now we have diseases of the old age--
+dementia, Alzheimer's, and so on.
+And one of the major societal needs is that Alzheimer's should
+be cured or prevented if possible.
+It's a universal need.
+But the challenge is finding a solution that can address this need.
+Therefore, innovation approaches that focus mainly
+on the need side, that they're needs biased, are lopsided.
+And they're clapping with one hand from the demand side,
+and they may not be able to come up with the supply side solution.
+Or they may come up with an incremental solution that is eventually not
+compelling enough for market adoption.
+Customer needs, market needs, need to play a pivotal role in the information
+process, but we need to couple that with a more balanced, centered approach
+that constantly synchronizes the demand and supply sides--
+accelerated innovation, as we like to call it.

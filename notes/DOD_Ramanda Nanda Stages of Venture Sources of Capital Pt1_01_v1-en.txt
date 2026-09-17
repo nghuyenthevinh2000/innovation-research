@@ -1,0 +1,81 @@
+RAMANA NANDA: The way we like to try to explain to students what a firm is
+is it's essentially a machine that takes cash, turns that cash into assets,
+and turns those assets back into cash.
+And essentially, that's what the engine of a firm is.
+And the goal of the firm is to take the cash, turn it into assets,
+and turn it back into cash as efficiently as possible.
+And moreover, to have as little of that cash
+tied up in assets at any moment in time.
+Now the business model that a firm has is intricately
+tied to the amount of cash that is tied up in assets.
+So I'll just give you an example in the context of a lemonade stand, which
+is a very simple firm.
+The most simple cash business for a lemonade stand
+is where I start with a little bit of money,
+I buy my assets, which in this case are lemons, and sugar, and water,
+and my stand.
+And then I sell those and I get cash back.
+And so maybe I started with $100.
+I bought $100 worth of assets.
+And then I turned that back, hopefully, into $150 worth of cash.
+So I turned the cash into assets, and I turned those assets back into cash.
+But that's a simple cash business.
+Most of the time businesses don't work on a cash basis.
+They often work on credit.
+So what you might tell me is, look, I love your lemonade,
+but just put it on my tab.
+I'll pay you at the end of the month.
+And so I start with $100.
+I buy my lemons, my sugar, my water, my stand.
+I sell you the lemonade.
+I got a revenue of $150, but I didn't get any cash,
+because you are going to pay me at the end of the month.
+And so if I need to be able to continue running my business for, say, a month,
+I have to start with $3,000 before I'll get paid even a single dollar.
+And that just had to do with the way the payment was working.
+Now think about a completely different business
+model, different payment model where I sell you
+a subscription to my lemonade business.
+And then that subscription, like many subscription businesses,
+you pay me in advance.
+You pay me monthly in advance.
+So I say why don't you give me your monthly subscription for lemonade.
+And I'll customize it, I'll give you different flavors.
+The big difference there is that you paid me your $4,500 in advance.
+So I don't even have to start with $100.
+You gave me the $4,500.
+I'll take $100 of that.
+I'll buy some assets--
+lemonade, lemons, sugar, water.
+And then I will turn that back, but I've already got the cash in advance.
+And so you can see that these three different business models are,
+essentially, it's the same business.
+It's lemonade.
+The profits on the business are exactly the same.
+I'm always getting $150 for the $100 that I bought, that I started with.
+But the timing which I got paid is vastly different.
+And that itself can make a big difference in how much external finance
+I need, because in the cash business I start with $100,
+and I'm just running my cash business.
+In the business where you owed me some money, instead
+of turning those assets into cash, I turned them into another asset.
+I turned them into accounts receivables.
+And so a lot of my cash was just tied up in assets.
+And the flip, the third example that I gave you,
+you gave me the cash all up front.
+So I never had to tie any of it up into assets.
+And so that's a very simple example of how bootstrapping your business in some
+of the questions that we like to ask early in the course, which
+is why can't every business bootstrap?
+And in part, the answer to that is that every business
+can't bootstrap because the business model
+that businesses have are different.
+In some cases, we can run subscription models.
+In other cases, we can't.
+But we try to push people to think carefully
+about how can we find ways to get as much of your money
+from customers rather than financiers, because customer financing turns out
+to be very cheap, very efficient, and is the best source of capital
+that you have.
+And people don't tend to think of their customers as financiers,
+but in some sense they are.

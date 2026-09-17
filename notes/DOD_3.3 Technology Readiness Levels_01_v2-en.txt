@@ -1,0 +1,115 @@
+
+VISH KRISHNAN: Technology Readiness Level, or TRL for short,
+is a framework originally developed by NASA
+to understand the maturity level of different technologies
+in their portfolio.
+In this framework, technology readiness is usually viewed or read,
+measured on several levels.
+Originally, they used seven levels, and since then they
+have expanded to add two more levels, nine levels.
+Think of TRL like a yardstick to really understand where
+we are in a technology's evolution.
+The earlier, smaller levels of readiness correspond to technologies
+in the very early stages of evolution.
+A technology at level 1, for example, is very much in a stage of infancy, even
+embryonic stage, you might say.
+Some basic principles and characteristics
+have been observed in the lab and reported
+as a working paper, for example, but it may not have been fully validated
+or replicated by peers.
+So at this point, it's a little more than a hypothesis
+and far from commercial impact.
+This is like 3D printing in the mid to late-1980s,
+or CRISPR gene editing in the early 2010s,
+before it's even fully accepted in journals.
+When the technology advances a bit more, it's been validated in a lab,
+it reaches level 2 when it has been conceptualized more firmly
+with some mention of potential applications.
+And now, it's theoretically agreed to be viable by peers
+and published in journals.
+At this stage, a technology is still far from commercialization and very much
+in the brains of the inventors.
+But at least it has reached some level of peer credibility.
+Level 3 is the first time that we reach a concrete milestone.
+This is the proof of concept, or POC.
+Then now we have shown, demonstrated analytically and/or experimentally,
+that the technology is fully functional.
+Sometimes this POC is just a computer simulation.
+But this is still a key milestone in the evolution
+of a technology, passing which makes it a serious candidate for funding
+in the commercialization journey.
+Proof of concept is now a major verification
+for the viability of our technology and its underlying hypothesis.
+And then we move to level 4, which is the prototyping phase.
+So while a proof of concept is a basic demonstration of functionality,
+now we want to show using in a more real parts, components,
+that the system can really be built and tested under lab conditions.
+And when we take that prototype and test it in real field conditions,
+we are reaching level 5.
+So levels 4 and 5 correspond to prototype development and testing,
+first in the lab and then in the field.
+They're still prototypes, but once we move these prototypes to a full system
+pilot, we are said to have reached level 6.
+So level 6, once again, corresponds to the case
+where we are testing these full systems in a simulated environment,
+a lab-like environment.
+And we take that full system, and if we are
+able to show that it works in a real environment like outer space,
+for example, we have now reached level 7.
+Subsequently, the NASA framework added two more additional levels, levels 8
+and 9, to refer to the actual production system,
+testing level 8 in a simulated environment,
+and level 9 in an actual environment.
+Once again, let's review this.
+Levels 1 and 2 correspond to lab discoveries.
+Level 3 brings us to the proof of concept.
+Levels 4 and 5 correspond to prototypes first tested in a lab condition,
+and then tested in a field condition.
+Levels 6 and 7 correspond to full system development
+and testing, first in the lab and then the field.
+And levels 8 and 9, may be production systems using production parts.
+For our purposes in the 21st century and in other industries,
+going beyond defense and stretching into software,
+we may not take the NASA's Technological Readiness Level framework literally.
+But still, there is a strong analogy to this movement
+of technologies, the maturation of technologies,
+from lab discoveries to commercial readiness.
+Indeed, the NASA's Technology Readiness framework
+has been adapted to a number of other industries, including energy and more
+recently, to health care.
+But we need to use the appropriate terminology, the milestone markers
+for each industry and market.
+Take, for example, the pharmaceutical industry
+where we are dealing with the discovery of compounds or drugs.
+The Technology Readiness Level markers, the milestones,
+might actually be first, the early stage research.
+Level 2 is a discovery resulting in patent filings.
+Level 3 is pre-clinical testing.
+Level 4 is clinical safety testing.
+Level 5 might be clinical efficacy testing.
+Level 6 is a clinically controlled volume testing.
+And level 7 might be the regulatory approval.
+And then levels 8 and 9 might be launch and post-launch testing.
+So there exists an analogy in other industries.
+TRL's use is really in helping us achieve a more rigorous and more shared
+understanding of a technology's maturation, readiness,
+commercial status.
+We want to know where in the lifecycle of a technology we really are.
+In levels 1 and 2 we are often many years,
+even decades away from a practical application.
+In some industries like health sciences, it
+may still be possible to get commercial funding for such early stage
+technologies for credible, experienced teams because of the large market
+that is available in front of us.
+We may also see government funding in the form of Small Business Innovation
+Research, or SBIR, like programs for early stage technologies.
+Just because something is in the later stage,
+it doesn't mean it's optimal to commercialize.
+Sometimes it may be too late for a startup entrepreneurial team
+to pick up a technology at the very late stages or higher levels of maturity.
+Because this is the time when large, branded incumbents like the Apples
+and the 3Ms of the world are really seizing on technologies.
+So for small innovator teams, startup teams,
+there might be a sweet spot somewhere around level 4, 5, 6 in the 7 to 9
+level framework for a startup team to really pick up a technology
+and seriously work on it.

@@ -1,0 +1,134 @@
+
+KARIM LAKHANI: There's a ton of hype around innovation, entrepreneurship,
+commercialization.
+Thousands of books are written every year about this topic.
+But let's cut through that hype and focus on what really matters.
+When we're innovating, when we're commercializing,
+when we're being entrepreneurs, we're engaging in problem solving.
+That's the thing that all of us do when we're taking on these activities.
+And so in order for us to become better at innovation, at entrepreneurship,
+at commercialization, we want to become better at problem solving.
+And thankfully, we have 50 years of literature in the cognitive science
+sciences and psychology and sociology and economics
+that has tried to make progress around how people
+can be effective problem-solvers.
+And one very powerful approach is to think about problem solving
+as a search process.
+You are searching through a landscape for solutions.
+And this approach is very helpful for us.
+And the way to think about this is that a searcher-- you as an innovator,
+as an entrepreneur-- has to have two things to be effective.
+One is a perspective, how you represent the problem you're going after,
+how you're defining the landscape that you're going after.
+And then secondly, you need a heuristic.
+How do you then find your way through that problem-solving process
+and find an appropriate solution?
+How do you traverse this landscape?
+So innovators go through creating a perspective and a heuristic
+pair when they are solving problems.
+So let's now make this fairly concrete and specific
+and make this accessible to us.
+I want to go back to your high school days when you are learning trigonometry
+and you're learning various ways to do math and algebra and geometry
+and so forth.
+One of the things you might have learned about
+has been the Cartesian coordinate system.
+Really, what was being talked about was, how do you represent objects
+in what's known as Euclidean space?
+Now, there are two different ways to represent an object.
+You can use Cartesian coordinates-- if you remember,
+x and y-- to represent an object.
+Or you could also use what's known as polar coordinates.
+You can represent an object by a radius and an angle, as well.
+So depending upon the object you're trying to represent,
+you might have a different coordinate system.
+You might use a Cartesian system to represent a rectangle.
+It's fairly simple and easy to do.
+But if you were to represent a rectangle through polar coordinates,
+it would be very difficult.
+Similarly, if you took a circle and to represent that
+through a Cartesian coordinate system, it would be very difficult.
+But it's very simple through the polar coordinate system.
+What this nice toy example is telling us is
+that any problem, any technology in what we care about
+can be represented in multiple different ways, multiple different perspectives
+and multiple different heuristics.
+And so what may be tough and difficult in one perspective and heuristic pair
+may actually be super easy to solve in a different perspective and heuristic
+pair.
+And so for entrepreneurs, what we want to do
+is find ways to generate multiple perspectives and heuristics
+on the same technology.
+Because the choice of the perspective and heuristic
+that you're going to go after is going to, in many ways,
+define the difficulty that you face.
+And certain problems can be novel and difficult
+and even unsolvable with one perspective, but then fairly easy
+in a different perspective.
+The Euclidean space examples of the power of alternative perspective
+heuristic pairs shows us how some problems
+that are hard in one perspective heuristic framework
+can be relatively trivial in another perspective and heuristic framework.
+So let's go beyond the toy example of finding objects in Euclidean space
+and let's look at the world of life sciences.
+Here, you can imagine again that different perspective heuristic
+pairs will be very helpful in solving core problems in life sciences.
+If you think about the world of neurology and brain problems,
+we can model the brain as a biological organism.
+We can model the brain as a chemical engineering organism.
+Or even, we can model the brain as an electrical engineering problem as well.
+Depending upon the perspective heuristic that we apply,
+some problems will be easier in the electrical engineering
+framework versus some will be easier in the biology framework.
+And in fact, we see this happen quite a bit in epilepsy.
+In epileptic treatments, you can do electrical stimulation
+to alleviate some of the symptoms or you can
+take drugs that affect both your chemistry, your brain chemistry,
+as well as your biological features to help alleviate epileptic episodes.
+And so in this case, what we see are depending upon the perspective
+heuristic framework, we can be more or less successful in solving problems
+that people face.
+Another example in life sciences comes from synthetic biology.
+Here, protein folding is a major bottleneck
+when it comes to making progress in discovering
+new drugs that impact the human body.
+And oftentimes, they're faced with large bottlenecks
+for computational processing.
+A paper published in 2005 showed that methods
+that were well understood in material science could be taken
+and ported over to synthetic biology to drive massive improvements
+in performance, orders of magnitude improvements in performance.
+This happened because a postdoc saw some stuff in a material science
+class--
+he was taking that as a side project--
+and took those methods that were commonly used there,
+and then when he brought them over to protein folding had a massive impact.
+Here again, what we see is the power of an alternative perspective heuristic
+framework being applied to within the synthetic biology world,
+importing something from a distant field and bringing it in to the field
+that you're participating in.
+Let's go to one more field.
+Let's talk about something far away from biology.
+Let's talk about the world of finance.
+In finance, there's a history of importing perspectives and heuristics
+from physics and engineering to solve tough finance problems.
+So in 1959, Osborne showed that the market could be best understood
+through methods of Brownian motion.
+Brownian motion is a core part of how we understand physics.
+And Osborne brought that perspective to understand financial market data.
+More recently, Black, Scholes won a Nobel Prize
+for their option pricing equations.
+And their initial cut on this option pricing work
+was very complicated and hard to solve.
+They met some folks in mechanical engineering
+and they looked at those equations.
+And those guys said, oh, this is basically a heat mass transfer
+equation, and here's how to solve the problem.
+And so what was very tough for them with one perspective heuristic framework
+became easily solvable with the heat mass transfer framework
+that the mechanical engineers taught them.
+All of these examples show us that entrepreneurs
+are going to be better off by systematically thinking
+about perspective and heuristics for the seeds that are being created that they
+have available to them, and then use that to generate
+new options in the marketplace.

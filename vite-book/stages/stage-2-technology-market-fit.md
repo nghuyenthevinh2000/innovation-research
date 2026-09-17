@@ -44,16 +44,21 @@ flowchart TD
   $$\text{Problem Difficulty} = f(\text{Perspective}, \text{Heuristic})$$
 - **The Magic Square Analogy:** Herbert Simon demonstrated that the high-cognitive-load arithmetic game "Number 15" is mathematically isomorphic to Tic-Tac-Toe when mapped onto a 3×3 Magic Square. Transforming the coordinate frame eliminates mathematical calculation entirely and makes winning moves self-evident.
 - **Cognitive Diversity:** Scott Page's *Diversity Trumps Ability Theorem* proves that a cognitively diverse group will consistently outperform a homogeneous group of high-ability domain experts because diverse problem-solvers bring disparate coordinate systems to the same landscape.
+- **Crowdsourcing:** A method of finding information or solutions to a problem by inviting ideas and solutions from a large set of experts (or laypeople, depending on the case) outside the boundaries of your firm or organization (e.g., innovation contests, competitions on technical and design challenges, and open data challenges).
 
 ### 2.2 Functional Deconstruction & Needs Synchronization
 
+- **Seeds-Driven Innovation:** A process for innovation where the starting point is the capability that a technology can offer.
+- **Needs-Driven Innovation:** A process for innovation where the starting point is a deep understanding of a customer's needs and wants.
 - **Universal Functional Analysis (Functional Thinking):** A systematic methodology developed by Dr. Sam Kogan that strips away proprietary jargon, commercial trade names, and physical parts to define a technology strictly by what it *does* at an elementary physical level.
   - *Core Axiom:* **Function is the goal; technology is merely a means.**
+- **Function:** The main reason that we buy a certain product or technology, defined as the interaction between different components of the system. Within the context of functional analysis, the function is defined in universal terms.
 - **Subject-Action-Object (S-A-O) Triad:** The semantic syntax of functional analysis: an active verb applied to a target object (e.g., *"separates hydrocarbon"*, *"stops impurities"*, *"transfers thermal energy"*).
 - **Main Parameters of Value (MPV):** The 1–2 decisive quantifiable performance or economic metrics that govern customer purchase decisions in a specific application:
   $$\text{Value} = \frac{\text{Utility / Performance}}{\text{Total Cost of Acquisition \& Ownership}}$$
 - **Jobs-to-Be-Done (JTBD):** The fundamental operational, functional, or emotional progress a customer seeks to achieve in a given circumstance (Theodore Levitt's maxim: *"People don't want a quarter-inch drill bit; they want a quarter-inch hole"*).
 - **Customer Activity Chain (Linkages-Driven Innovation):** The sequential end-to-end operational journey a user executes: Search $\rightarrow$ Evaluate $\rightarrow$ Buy $\rightarrow$ Install $\rightarrow$ Operate $\rightarrow$ Maintain $\rightarrow$ Dispose. Diagnosing friction across every adjacent link uncovers where technological intervention delivers outsized value.
+- **Needs Statement (Market Requirements Document / MRD):** A statement that expresses who the customer is, including information regarding: activities, behaviors, motivations, and specific problems experienced when trying to derive a benefit or utility.
 
 ---
 

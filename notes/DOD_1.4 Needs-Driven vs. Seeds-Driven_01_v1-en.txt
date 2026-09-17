@@ -1,0 +1,60 @@
+VISH KRISHNAN: Invention activities are focused on breakthrough advances,
+often unconstrained and not worried about applications.
+They're really pursued intrinsically, you know, with intrinsic motives.
+Innovation, on the other hand, may be seen
+as the translation, the adaptation of these breakthroughs
+to address some real market needs.
+In fact, we might think of invention itself
+as a special type of innovation that is pursued for its own sake
+without worrying about commercial impact.
+Or we might think of invention as the upfront activities that
+are producing the seeds, the breakthrough inputs
+to the innovation process which must ensure then
+that some compelling needs are identified for impact,
+for market adoption, and for customer usage.
+Now, consider our innovation processes of the last few years,
+especially used in our industries.
+Since innovation involves bringing new approaches and technologies
+to fruitful application, it can happen in one of several pathways,
+at least a couple of major pathways.
+Throughout the 20th century, we have had a more technology-driven innovation
+approach where a company such as Intel, for example,
+works really hard to find matching applications for advancements
+in transistor technology that was originally invented at Bell Labs
+but now governed by their so-called Moore's law,
+which really is that aim to keep this technology advanced.
+We call this a seed-driven or a supply-driven innovation approach
+where the advancements in transistor seeds
+are really pacing this particular area.
+Intel, Qualcomm, and their peers engage in furious development
+of this transistor technology, and create products
+to work with customers, such as computer companies and cell phone
+handset companies, to get these innovations out,
+and tightly designed them for application and for adoption and usage.
+In this case, the transistor as a seed really drives the innovation process.
+But you have to find new applications, such as smartphones.
+This is seeds-driven innovation, starting with the seed
+and finding applications.
+During the last 20 years, we have had a progress
+on another approach we might call needs-driven innovation, which
+place high emphasis on starting with the needs,
+doing extensive studies of the market to identify, to unearth,
+to capture customer needs, which are then used to find a solution.
+In this case, we start with the need.
+We swim in the fishbowl with the customers.
+We really spend time with the field to find out what is bothering them,
+what their problems are, what their pain points
+are, and then try to discover new technological approaches
+to solve these problems.
+Which is better, the needs-driven approach or the seeds-driven approach?
+Well, it depends.
+There are merits to both these approaches.
+There are also significant challenges associated with solely
+using one of these approaches.
+We will argue that using just one of these approaches
+is like clapping with one hand.
+And if you really want to have impact, you really
+need to integrate them in a closed loop.
+That's what we'll call accelerated innovation.
+We'll discuss each of these approaches in greater detail
+and then learn to put them together.

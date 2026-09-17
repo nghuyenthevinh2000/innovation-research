@@ -1,0 +1,68 @@
+
+RAMANA NANDA: So as we think about different sources of capital,
+it's important to remember that money's not just money.
+Who you get the money from is really important.
+And it's important for a few different reasons.
+The first has to do with the type of capital you get.
+So you could think about non-dilutive capital,
+which is either debt or grant money.
+Those are sources of capital where you don't sell equity in return
+for the cash, which is why it's called non-dilutive.
+And then you have other sources of capital
+where you do sell equity in return for cash.
+And those you give away a portion of the company when you do that.
+And that is why it's called dilutive capital.
+So turning first to dilutive sources of capital, in many instances,
+it's worth understanding why we have to turn
+to VCs and other dilutive sources of capital in the first place.
+If you don't have access to grant money and you put yourself
+in the shoes of a bank, the bank is looking at this really risky startup
+that has a very high probability of failing, just
+to give you a sense of these failure probabilities, even within venture
+capital backed companies.
+So these are companies that received venture capital.
+And note that VCs back about 0.5% of all startups that
+are founded in any given year.
+So if there is something like 500,000 firms that
+are born each year in the United States, about 1,000 receive venture capital.
+OK, so even among this very, very tiny select group of firms, 60% of them
+fail.
+And so you could think of this from the perspective of a bank.
+And they're looking at your company.
+And they're saying, this is an incredibly risky technology.
+We don't know if it's going to work.
+We don't know if the market will actually
+bear, whether people will pay for this product,
+whether it can make a lot of money.
+And the way in which a bank makes money is that they give you some capital.
+They hope for you to pay back the principal.
+And they get a teeny tiny little bit of interest on top of it.
+Teeny tiny, in a relative sense, of course.
+And the important thing to note is that no matter how
+successful or unsuccessful the business is, the best thing that they can do
+is to get their principal plus that interest back.
+So they are not getting any benefit from this technology succeeding.
+But they face a lot of downside risk, which is that you might take the money.
+You might fail, and then not give them back the principal.
+OK, so from the perspective of a bank, they're
+going to focus on very safe businesses, those
+that they perceive have enough ability to pay back the principal based
+on the cash flows of a business.
+And so they're not going to be willing to give money
+to a company that doesn't have profits and cash flows let alone revenues.
+OK, so that's why those sorts of capital are just
+not feasible for very early stage companies.
+Why will equity investors be willing to give capital?
+The reason is that they share the risk with you proportionately.
+So if I give you some money and I take 50% off your company's equity,
+it means that if you are unsuccessful, of course I lose my money.
+But if you end up with $1 billion, I get $500 million of those.
+And so because I get to share in the upside,
+I'm willing to take more risk on the downside.
+OK.
+So that's the first step, why do we--
+But on the other hand, you give away because no one else
+is willing to give you capital.
+You give away a lot, because it's very risky
+and these investors are taking a lot of risk.
+So they will want a lot of return in exchange for that risk.

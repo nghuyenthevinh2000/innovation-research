@@ -1,0 +1,136 @@
+[MUSIC PLAYING]
+KARIM LAKHANI: So far in the course, we've
+been providing you with the toolkit on how to accelerate innovation coming out
+of labs from universities, from the Department of Defense laboratories,
+or from corporate laboratories.
+And we've been focused in on coming up with business ideas
+around the seeds of a technology that you have access to,
+as well as the needs that may exist in the customer environment.
+Now we're going to focus our attention on the business architecture
+that you need to create around the particular analysis you've
+done at the seed and the need.
+A business architecture has two big components-- the business model
+that you're going to go to market with and the operating model that's actually
+going to make that business model work.
+So I often meet entrepreneurs, and even business people,
+and they talk a lot about business models.
+"Oh, I've innovated on the business model."
+But I often find that when you push them hard on what
+the change is or the difference is in the business model,
+it's very difficult for them to articulate.
+And so what I'm going to offer you now is a way
+to analytically think about the business model,
+and there's two dimensions to a business model.
+First is value creation.
+What are all the reasons a customer comes to you
+and wants to interact with you?
+That's a value creation.
+What value are you creating for your customer?
+And the second part of the business model is value capture.
+How do you actually make money from the transactions
+you're having with your customer?
+And it's important for us to actually dive deeper into both those concepts
+and figure out how we can actually innovate on the business model itself,
+above and beyond the technology that we're actually creating and bringing
+to the marketplace.
+So let's talk about value creation first.
+The most simplistic form of value creation
+is some kind of a differentiation.
+You are offering something differentiated in the marketplace.
+Imagine, in the car market, you could be selling a Jaguar
+or you could be selling a Lamborghini or you could be selling an Aston Martin.
+You're differentiating on various features of the car itself.
+Now imagine also, another way to create value
+is to have a low cost story, so you could
+differentiate on the basis of cost.
+So you could be selling a Honda Fit or all the way
+up to a Mercedes Benz or a hard to acquire Bugatti.
+Millions of dollars for a car or $10,000 or $15,000 for a car.
+So you can create value by differentiating on cost.
+You can also create value by doing a focus strategy.
+You could be--
+I'm just a sports car provider.
+All I do is sports cars.
+Or all I do is electric vehicles, like Tesla,
+or I am a car manufacturer that makes cars available of all types.
+And so that could also be a way for you to create value for your customers.
+In today's internet-driven world, we actually now
+have other ways to also create value, where in the first three sets,
+we're focused on the product itself or the service itself that we're offering.
+Now we could actually think about network effects.
+Network effects are things that create value based
+on the usage of the product itself.
+So think about Facebook, think about Whatsapp,
+think about all these different products, all these services
+that you use, where as the number of users increases,
+the value to you as an individual user also goes up as well.
+That's what's called a direct network effect kind of a business.
+You could also imagine a product or service where it's not just
+the number of users that increase value, but the number of complementary assets
+that exist around that product or service that also increases value.
+So think about your smartphone and all the apps.
+These apps create increased value for the phone itself.
+So think about the app stores and how they
+increased value for the actual physical product or the phone itself.
+And so you could have indirect network effects
+based on the fact of complementary assets being
+created by others that plug in to your particular product or service.
+There may be additional ways of creating value in terms of personalization
+and in terms of various ways in which you
+drive engagement in the use of the product itself.
+So value creation has all these different dimensions,
+and innovation in a business model can come by somebody
+being smart about creating differentiation advantages, cost
+advantages, focus advantages, or even saying,
+I'm going to actually create network effects
+or drive personalization or engagement.
+And different businesses take different components of these elements
+and create value for their customer.
+Now, let's shift to value capture.
+Value capture is all the ways in which you make money.
+Now the oldest form of value capture is, one,
+where you make a product for a certain cost
+and then you sell it to the customer for a higher price than the cost itself,
+and you make money on the difference, also known as a margin.
+So that's that the oldest way in which businesses, since time immemorial
+have operated.
+And that's one value capture strategy.
+Another value capture strategy might be licensing,
+where you don't actually sell the product,
+you actually sell the usage of that product to a customer,
+and that also becomes a way for value capture.
+You can do subscription.
+You can have a subscription service that allows monthly payments
+or weekly payments for usage.
+You could do pay-per-use services.
+So just imagine when you use a ride sharing service like Uber,
+you don't subscribe to Uber.
+You pay per use for the transportation service.
+You could have an advertising-supported system, where, in fact, what's going on
+is that your usage attracts advertisers, and those advertisers want access
+to you, and that's what pays for the service itself.
+So think about Google ad search.
+When you're searching on Google, you're actually not searching
+for advertisements, but Google is giving you the most relevant advertisement
+based on that.
+So that's, again, a very different value capture strategy.
+You can have transaction fees based on a particular usage
+model that you might have built. For example, the number of megabytes
+or the number of petabytes being stored.
+You could be doing revenue sharing, where you create a lot of advantage
+for a customer, which enables them to increase their own personal revenue,
+and then you get a cut of that revenue.
+Or you could be outcomes based, which is to say
+that you will guarantee certain outcomes,
+and when those outcomes get achieved, you will get paid.
+So just like in value creation, there's now multiple ways for us
+to create value.
+There are now also multiple ways for us to capture value.
+And when you think about a business model for a particular technology
+or for a particular product, particular service,
+you want to be systematic in your analysis of value creation and value
+capture.
+And think about not just what you're going to do in the marketplace
+or on value creation and value capture, which again, defines your business
+model, but what the competitors are doing in this case as well.
+[MUSIC PLAYING]

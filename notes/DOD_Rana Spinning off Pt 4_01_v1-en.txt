@@ -1,0 +1,33 @@
+
+RANA EL KALIOUBY: We actually have a number of business models at Affectiva
+and we've aligned our business models with the industry or the partners
+that we work closely with.
+So, for instance, in the advertising research domain,
+it's a software-as-a-service business model.
+And it's volume based.
+You pay up front for a number of ad tests
+and that gives you a volume discount, and it's
+a software-as-a-service platform.
+It's pretty straightforward.
+But then when we started to do a lot more work
+in the automotive and robotics space, we realized
+that that software as a service kind of rhetoric does not work.
+It's more of a licensing model.
+And it's usually licensing per unit-- per car or per robot.
+We charge a fee per unit.
+And so we had to accommodate that industry and the industry's needs.
+The other difference was in advertising.
+It's OK if the data runs in the cloud because it's
+all offline analysis, whereas in automotive and robotics,
+it's a real-time application.
+The car has to know in real time if the driver is falling asleep,
+and it needs to respond in real time.
+That's a really critical part of the application.
+And so, we went from running everything in the cloud to running everything
+on device, which was a big technological challenge.
+And it took us a good year and a half to figure it out.
+But it was very important to be able to play in that market.
+Yeah, so I think being open to different business models is important.
+And testing it too.
+We play around with different combinations
+of things, different pricing models, and fine tune as we go.

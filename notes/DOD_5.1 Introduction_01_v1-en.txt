@@ -1,0 +1,45 @@
+KARIM LAKHANI: In this module, we will learn
+about how you can get systematic feedback and validation
+for the concepts you have developed.
+In the earlier parts of the course, you have already
+generated potential use cases for the technologies and the matching business
+architecture concepts.
+There are many hypotheses that are built into your concepts,
+and now we need to go out there and think about this systematically
+and comprehensively.
+Previously, we introduced you to the Cloverleaf model
+to provide you with a framework on how to evaluate
+the various aspects of your business.
+The key thing here is to have a framework for evaluation.
+Cloverleaf provides you with one framework for evaluation,
+but depending upon the technology you may have, and the business you have,
+and the business concepts you have, you may
+choose to develop your own framework, or borrow some from somebody else.
+It can be different for each business, but the critical thing
+is to have a framework towards evaluation and feedback.
+The way you get to assess your business is to ask questions.
+You have to go out there and ask questions of yourself, and your team,
+and the knowledge base you already have about your business concepts.
+And, even more importantly, you need to go outside.
+You need to go outside and talk to customers, to potential suppliers,
+to potential manufacturers, and get them to also test and validate
+your assumptions and your hypotheses that are built into your use concept as
+well as your business architecture.
+Again, the Cloverleaf framework can provide you
+with a set of questions you want to go after.
+As you think about the Cloverleaf framework,
+look through the questions you have asked yourself convincingly,
+and those where you think you want to go and get
+more information and more validation.
+Or you may have your own framework, and you may choose again
+to see, where are they open, question marks for yourself that
+need to be dug deeper.
+We have offered a range of resources in the course on various techniques
+to interview effectively.
+The bottom line is that you have to get out
+there and start interviewing people.
+The goal of interviewing is to get you close to the market.
+You don't want to spend time and resources in developing something
+that no one wants.
+Interviews are an effective way to get the maximum amount of information
+for the minimum amount of resources that you have sunk.
