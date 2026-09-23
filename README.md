@@ -1,3 +1,16 @@
+---
+name: innovation-research
+summary: Innovation Research & Lab-to-Market Documentation Hub. Purpose and documentation
+  for projects/innovation-research.
+tags:
+- innovation-research
+submodules:
+  notes/: Documentation and resources for projects/innovation-research/notes.
+  research/: Documentation and resources for projects/innovation-research/research.
+  templates/: Documentation and resources for projects/innovation-research/templates.
+  vite-book/: Documentation and resources for projects/innovation-research/vite-book.
+---
+
 # Innovation Research & Lab-to-Market Documentation Hub
 
 > **The Central Knowledge Base, Semantic Registry, and Operational Engine for Technology Entrepreneurship, Deep-Tech Translation, and Breakthrough Venture Building**  
