@@ -6,6 +6,7 @@ Thumbs.db
 .env
 *.local
 local/
+.obsidian
 
 # Temporary & scratch files
 tmp/
