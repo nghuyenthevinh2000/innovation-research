@@ -5,6 +5,7 @@ summary: Innovation Research & Lab-to-Market Documentation Hub. Purpose and docu
 tags:
 - innovation-research
 submodules:
+  nasruddin/: Original Vietnamese Nasruddin story notes, included in vite-book.
   notes/: Documentation and resources for projects/innovation-research/notes.
   research/: Documentation and resources for projects/innovation-research/research.
   templates/: Documentation and resources for projects/innovation-research/templates.

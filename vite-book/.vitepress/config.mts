@@ -2,6 +2,8 @@ import { defineConfig } from 'vitepress'
 import { withMermaid } from 'vitepress-plugin-mermaid'
 import { generateSidebar } from 'vitepress-sidebar'
 
+const readmePattern = '**/[Rr][Ee][Aa][Dd][Mm][Ee].[Mm][Dd]'
+
 const sidebarConfigs = [
   {
     documentRootPath: 'vite-book',
@@ -55,6 +57,15 @@ const sidebarConfigs = [
     useTitleFromFileHeading: true,
     includeRootIndexFile: true,
     manualSortFileNameByPriority: ['index.md']
+  },
+  {
+    documentRootPath: 'vite-book',
+    scanStartPath: 'nasruddin',
+    resolvePath: '/nasruddin/',
+    rootGroupText: 'Nasruddin',
+    useTitleFromFileHeading: true,
+    includeRootIndexFile: true,
+    manualSortFileNameByPriority: ['index.md', 'nasruddin-bang-qua-cho.md']
   }
 ]
 
@@ -64,7 +75,12 @@ export default withMermaid(
     description: "Lab-to-Market Documentation Hub & Operational Engine (Source: HarvardX LBTechX1: Technology Entrepreneurship: Lab to Market)",
     base: process.env.BASE_URL || (process.env.GITHUB_ACTIONS ? '/innovation-research/' : '/'),
     ignoreDeadLinks: true,
-    srcExclude: ['templates/**'],
+    srcExclude: ['templates/**', readmePattern],
+    vite: {
+      optimizeDeps: {
+        include: ['fastdom', 'fastdom/extensions/fastdom-promised.js']
+      }
+    },
     markdown: {
       math: true
     },
@@ -76,9 +92,13 @@ export default withMermaid(
         { text: 'Guides', link: '/guides/how-to-deconstruct-technology-seeds' },
         { text: 'Glossaries', link: '/glossaries/' },
         { text: 'Mental Models', link: '/mental-models/' },
-        { text: 'Structures', link: '/structures/' }
+        { text: 'Structures', link: '/structures/' },
+        { text: 'Nasruddin', link: '/nasruddin/' }
       ],
-      sidebar: generateSidebar(sidebarConfigs),
+      sidebar: generateSidebar(sidebarConfigs.map(config => ({
+        ...config,
+        excludeByGlobPattern: [readmePattern]
+      }))),
       socialLinks: [
         { icon: 'github', link: 'https://github.com/nghuyenthevinh2000/innovation-research' }
       ],
@@ -86,7 +106,7 @@ export default withMermaid(
         provider: 'local'
       },
       footer: {
-        message: 'All materials are from source: HarvardX LBTechX1 — Technology Entrepreneurship: Lab to Market.',
+        message: 'Lab-to-market materials: HarvardX LBTechX1 — Technology Entrepreneurship: Lab to Market. Nasruddin: separate story notes and reflections.',
         copyright: 'Innovation Research Hub'
       }
     }

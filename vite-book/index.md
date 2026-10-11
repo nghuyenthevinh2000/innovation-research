@@ -32,12 +32,15 @@ features:
   - title: Stage-Gate Audit Canvas
     details: Comprehensive evaluation instrument for stress-testing ventures across all 6 stages.
     link: /guides/how-to-conduct-stage-gate-audit
+  - title: Nasruddin
+    details: Những mẩu chuyện và suy ngẫm về thói quen, nhận thức và cách đặt câu hỏi.
+    link: /nasruddin/
 ---
 
 <div style="margin-top: 3rem;">
 
 ::: info 🎓 Source Attribution
-All the materials in this knowledge base are from source: **HarvardX LBTechX1: Technology Entrepreneurship: Lab to Market**.
+The lab-to-market materials in this knowledge base are from source: **HarvardX LBTechX1: Technology Entrepreneurship: Lab to Market**. The Nasruddin collection contains separate story notes and reflections.
 :::
 
 ## 🏛️ Diátaxis Documentation Framework
