@@ -162,17 +162,17 @@ gantt
     tickInterval 10year
 
     section Công nghệ
-    Sắp chữ quang học thách thức chữ kim loại :photo, 1960-01-01, 1980-01-01
+    Sắp chữ quang học :photo, 1960-01-01, 1980-01-01
     Macintosh ra mắt :milestone, mac, 1984-01-01, 0d
-    PageMaker và hệ thống PostScript :milestone, dtp, 1985-01-01, 0d
+    PageMaker + PostScript :milestone, dtp, 1985-01-01, 0d
 
     section Việc làm
-    Việc thợ sắp chữ giảm từ 170 nghìn xuống 74 nghìn :crit, typesetting, 1979-01-01, 1989-01-01
-    Dịch vụ sắp chữ chuyên biệt suy giảm :crit, services, 1985-01-01, 1995-01-01
+    Thợ sắp chữ giảm 170 → 74 nghìn :crit, typesetting, 1979-01-01, 1989-01-01
+    Dịch vụ sắp chữ suy giảm :crit, services, 1985-01-01, 1995-01-01
 
-    section Kỹ năng người lao động cần dùng
-    Thao tác quang học và dàn trang thủ công :photoskills, 1960-01-01, 1980-01-01
-    Thiết kế trang trên màn hình :screenskills, 1985-01-01, 1995-01-01
+    section Kỹ năng cần dùng
+    Dàn trang thủ công :photoskills, 1960-01-01, 1980-01-01
+    Dàn trang trên máy tính :screenskills, 1985-01-01, 1995-01-01
 ```
 
 Ba nhịp chuyển đổi diễn ra như sau:

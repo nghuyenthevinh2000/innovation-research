@@ -94,10 +94,16 @@ export default withMermaid(
     mermaid: {
       securityLevel: 'loose',
       gantt: {
-        leftPadding: 220,
-        topPadding: 45,
-        titleTopMargin: 35,
-        barHeight: 26
+        useMaxWidth: false,
+        useWidth: 610,
+        fontSize: 16,
+        sectionFontSize: 16,
+        leftPadding: 280,
+        rightPadding: 40,
+        topPadding: 60,
+        titleTopMargin: 40,
+        barHeight: 36,
+        barGap: 10
       }
     },
     markdown: {

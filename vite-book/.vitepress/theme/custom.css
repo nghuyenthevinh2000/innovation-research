@@ -30,3 +30,9 @@
   height: auto;
 }
 
+
+/* Gantt: keep natural size (readable text); scroll horizontally if wider than the column */
+.mermaid svg[aria-roledescription="gantt"] {
+  max-width: none;
+  height: auto;
+}
