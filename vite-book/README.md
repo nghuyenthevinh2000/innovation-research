@@ -8,7 +8,7 @@ submodules:
   glossaries/: Documentation and resources for projects/innovation-research/vite-book/glossaries.
   guides/: Documentation and resources for projects/innovation-research/vite-book/guides.
   mental-models/: Documentation and resources for projects/innovation-research/vite-book/mental-models.
-  nasruddin/: Nasruddin collection pages, including the original Vietnamese source notes.
+  analysis/: In-depth research analysis, technology-labor dynamics, and reflection notes.
   stages/: Documentation and resources for projects/innovation-research/vite-book/stages.
   structures/: Documentation and resources for projects/innovation-research/vite-book/structures.
   index.md: 'Innovation Research: The central knowledge base, semantic registry, and

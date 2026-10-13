@@ -1,0 +1,32 @@
+/* Fix Mermaid text clipping and layout issues in VitePress */
+.mermaid {
+  overflow-x: auto;
+  overflow-y: visible;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+.mermaid p,
+.mermaid span,
+.mermaid .nodeLabel,
+.mermaid .edgeLabel,
+.mermaid .label {
+  line-height: 1.25 !important;
+}
+
+.mermaid foreignObject {
+  overflow: visible !important;
+}
+
+.mermaid foreignObject div {
+  line-height: 1.25 !important;
+}
+
+/* Ensure SVG containers don't clip wide charts or labels extending past viewBox */
+.mermaid svg {
+  overflow: visible !important;
+  max-width: 100%;
+  height: auto;
+}
+

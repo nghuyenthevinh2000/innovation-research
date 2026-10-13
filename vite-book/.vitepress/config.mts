@@ -60,12 +60,16 @@ const sidebarConfigs = [
   },
   {
     documentRootPath: 'vite-book',
-    scanStartPath: 'nasruddin',
-    resolvePath: '/nasruddin/',
-    rootGroupText: 'Nasruddin',
+    scanStartPath: 'analysis',
+    resolvePath: '/analysis/',
+    rootGroupText: 'Analysis',
     useTitleFromFileHeading: true,
     includeRootIndexFile: true,
-    manualSortFileNameByPriority: ['index.md', 'nasruddin-bang-qua-cho.md']
+    manualSortFileNameByPriority: [
+      'index.md',
+      'ky-nang-moi-cap-nhat-da-loi-thoi.md',
+      'nasruddin-bang-qua-cho.md'
+    ]
   }
 ]
 
@@ -77,8 +81,23 @@ export default withMermaid(
     ignoreDeadLinks: true,
     srcExclude: ['templates/**', readmePattern],
     vite: {
+      resolve: {
+        alias: [
+          { find: 'dayjs/plugin/duration.js', replacement: 'dayjs/esm/plugin/duration' },
+          { find: 'dayjs/plugin/duration', replacement: 'dayjs/esm/plugin/duration' }
+        ]
+      },
       optimizeDeps: {
-        include: ['fastdom', 'fastdom/extensions/fastdom-promised.js']
+        include: ['fastdom', 'fastdom/extensions/fastdom-promised.js', 'dayjs/esm/plugin/duration']
+      }
+    },
+    mermaid: {
+      securityLevel: 'loose',
+      gantt: {
+        leftPadding: 220,
+        topPadding: 45,
+        titleTopMargin: 35,
+        barHeight: 26
       }
     },
     markdown: {
@@ -93,7 +112,7 @@ export default withMermaid(
         { text: 'Glossaries', link: '/glossaries/' },
         { text: 'Mental Models', link: '/mental-models/' },
         { text: 'Structures', link: '/structures/' },
-        { text: 'Nasruddin', link: '/nasruddin/' }
+        { text: 'Analysis', link: '/analysis/' }
       ],
       sidebar: generateSidebar(sidebarConfigs.map(config => ({
         ...config,
@@ -106,7 +125,7 @@ export default withMermaid(
         provider: 'local'
       },
       footer: {
-        message: 'Lab-to-market materials: HarvardX LBTechX1 — Technology Entrepreneurship: Lab to Market. Nasruddin: separate story notes and reflections.',
+        message: 'Lab-to-market materials: HarvardX LBTechX1 — Technology Entrepreneurship: Lab to Market. Analysis: Research essays, technology models, and reflections.',
         copyright: 'Innovation Research Hub'
       }
     }

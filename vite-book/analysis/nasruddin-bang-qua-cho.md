@@ -6,4 +6,4 @@ description: So sánh, tìm hiểu nguyên nhân và suy ngẫm về thói quen 
 
 # Mẩu 1 — Nasruddin băng qua chợ
 
-<!--@include: ../../nasruddin/Mẩu 1 - Nasruddin băng qua chợ.md-->
+<!--@include: ../../analysis/Mẩu 1 - Nasruddin băng qua chợ.md-->
