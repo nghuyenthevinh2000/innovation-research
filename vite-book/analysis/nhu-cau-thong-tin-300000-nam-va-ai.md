@@ -25,8 +25,6 @@ Tham chiếu:
 - Jorge Luis Borges, truyện ngắn *The Library of Babel* (*La biblioteca de Babel*, 1941).
 - Ilia Shumailov et al., *"AI models collapse when trained on recursively generated data"* (*Nature*, 2024).
 
----
-
 ## Mở đầu: Khi việc trí óc cũng bị thay thế
 
 Trong hàng thế kỷ, người lao động trí óc tin rằng máy móc có thể thay thế sức người, nhưng tư duy trừu tượng, ngôn ngữ và sáng tạo vẫn là phần việc riêng của con người.
@@ -46,8 +44,6 @@ Tôi muốn nhìn câu hỏi ấy trong lịch sử 300,000 năm của loài ng�
 Một quy luật lặp lại trong lịch sử ấy: công nghệ thông tin vừa đáp ứng nhu cầu cũ nhanh hơn, vừa tạo ra những nhu cầu mà xã hội trước đó chưa biết mình có.
 
 Nhưng nhu cầu mới cần thời gian để trở thành những nghề có thể nuôi sống người làm. Trong khoảng chờ đó, một thế hệ lao động trí óc mất việc vì kỹ năng của họ không còn được cần đến.
-
----
 
 ## Phần 1: Công nghệ thay đổi, nhu cầu thông tin cũng thay đổi
 
