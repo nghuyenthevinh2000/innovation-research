@@ -215,7 +215,7 @@ AI gán ý nghĩa ở bề mặt ngôn ngữ (surface syntax) và liên kết c�
 
 Con người lại tiến hóa để tin vào ngôn ngữ mạch lạc. Đọc một đoạn văn trôi chảy, đúng ngữ pháp và có lập luận, chúng ta dễ tưởng rằng máy hiểu điều nó đang nói, rằng bên trong có một "trí tuệ thấu suốt".
 
-### 2. Thư viện Babel trên Internet
+### 2. Thư viện Babel
 
 Trong truyện ngắn *The Library of Babel* (*Thư viện Babel*, 1941), Jorge Luis Borges tưởng tượng một vũ trụ gồm vô số phòng lục giác, chứa tất cả những cuốn sách có thể viết bằng 25 ký tự.
 
@@ -237,6 +237,18 @@ Với chi phí sinh chữ bằng 0, Generative AI đang biến Internet thành T
   • "Thư viện chứa tất cả mọi thông tin, do đó không còn kiến thức nào có thể
      được tìm thấy ở đó nữa." (James Gleick, The Information, Chương 14).
 ```
+
+Trong truyện, phản ứng của các thủ thư thay đổi khi họ dần nhận ra việc thư viện chứa mọi câu trả lời không có nghĩa là họ tìm được câu trả lời mình cần.
+
+Ban đầu là vui mừng. Khi biết thư viện chứa tất cả những cuốn sách có thể có, họ tin rằng mọi bí mật đều đã có lời giải. Ở đâu đó phải có cuốn sách giải thích cuộc đời của từng người, minh oan cho họ và cho biết tương lai. Nhiều người rời nơi ở, đi qua các phòng lục giác để tìm những cuốn sách ấy.
+
+Cuộc tìm kiếm kéo dài rồi chuyển thành thất vọng. Họ gặp vô số trang chữ vô nghĩa. Ngay cả khi tìm được một đoạn có thể hiểu, họ vẫn không biết có nên tin nó hay không: thư viện cũng chứa những cuốn phủ nhận điều đó, những bản gần giống nhưng sai lệch, cả danh mục đúng lẫn danh mục giả. Câu trả lời tồn tại ở đâu đó, nhưng họ không có cách đáng tin để tìm và nhận ra nó.
+
+Từ sự thất vọng ấy xuất hiện nhiều phản ứng khác nhau. Nhóm "The Purifiers" muốn loại bỏ những cuốn sách họ cho là vô dụng, với hy vọng dọn đường đến những cuốn có giá trị. Nhưng phá hủy sách không giải quyết được việc tìm kiếm; họ cũng có thể hủy mất chính thứ mình đang cần.
+
+Những người khác giữ hy vọng bằng niềm tin vào "Nhà tiên tri Sách" (The Man of the Book): một thủ thư đã tìm được cuốn sách giải thích mọi cuốn sách còn lại. Họ tìm kiếm người ấy, mong có ai đó hiểu được toàn bộ thư viện và chỉ đường cho mình. Đây là một cách bám víu vào hy vọng khi tự tìm kiếm đã trở nên quá sức.
+
+Trong lời kể của Borges, niềm hy vọng ban đầu nhường chỗ cho cảnh con người tranh giành, lập giáo phái và tuyệt vọng; có người tự sát bằng cách nhảy xuống giếng trời. Những phản ứng ấy không nhất thiết nối tiếp nhau ở mọi thủ thư. Chúng có thể cùng tồn tại: người còn đi tìm, người phá sách, người chờ một người dẫn đường. Thư viện vẫn chứa mọi câu trả lời, còn những người sống trong đó ngày càng mất lòng tin rằng mình sẽ tìm được câu trả lời có ích.
 
 ### 3. Khi khó tìm được thứ đáng tin
 
