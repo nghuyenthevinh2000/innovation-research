@@ -4,14 +4,15 @@ summary: Documentation and resources for projects/innovation-research/vite-book.
 tags:
 - vite-book
 submodules:
+  analysis/: VitePress pages for in-depth analysis and research posts.
   assets/: Documentation and resources for projects/innovation-research/vite-book/assets.
   glossaries/: Documentation and resources for projects/innovation-research/vite-book/glossaries.
   guides/: Documentation and resources for projects/innovation-research/vite-book/guides.
   mental-models/: Documentation and resources for projects/innovation-research/vite-book/mental-models.
-  analysis/: In-depth research analysis, technology-labor dynamics, and reflection notes.
   stages/: Documentation and resources for projects/innovation-research/vite-book/stages.
   structures/: Documentation and resources for projects/innovation-research/vite-book/structures.
   index.md: 'Innovation Research: The central knowledge base, semantic registry, and
     operational engine for technology entrepreneurship, deep-tech translation, and'
 ---
+
 

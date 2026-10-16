@@ -4,7 +4,7 @@ summary: Original Vietnamese Nasruddin story notes and reflections.
 tags:
 - nasruddin
 submodules:
-  Mẩu 1 - Nasruddin băng qua chợ.md: Comparison, causes, and habit reflections for story 1.
+  Mẩu 1 - Nasruddin băng qua chợ.md: Dịch chuyện
 ---
 
 # Nasruddin
